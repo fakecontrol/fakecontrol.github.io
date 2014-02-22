@@ -4,7 +4,6 @@ body > header {
   border-right: 4px solid $subtitle-color;
   text-align: center;
   h1 {
-  	position: absolute;
     display: inline-block;
     font-weight: normal;
     top: 6.5em;
@@ -13,7 +12,7 @@ body > header {
     color: $subtitle-color;
     font-weight: bold;
     margin-top: .2em;
-    margin-bottom: .5em;
+    margin-bottom: .3em;
     a, a:visited {
       color: $subtitle-color;
       text-decoration: none;
