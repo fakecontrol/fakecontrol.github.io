@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Fake Control]]></title>
   <link href="http://fakecontrol.github.io/atom.xml" rel="self"/>
   <link href="http://fakecontrol.github.io/"/>
-  <updated>2014-02-23T00:45:43+02:00</updated>
+  <updated>2014-02-23T01:31:09+02:00</updated>
   <id>http://fakecontrol.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[fakecontrol.org team]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
