@@ -3,34 +3,28 @@ article {
   a { @extend .force-wrap; }
   header {
     position: relative;
-    padding-top: 2em;
-    padding-bottom: 1em;
-    margin-bottom: 1em;
-    background: $img-border bottom left repeat-x;
     h1 {
       margin: 0;
       a { text-decoration: none;
-        &:hover { text-decoration: underline; } }
+        &:hover { text-decoration: none; } }
     }
     p {
       font-size: .9em;
-      color: $text-color-light;
+      // hsl(220, 25, 75)
+      color: lighten($text-color-light, 10);
       margin: 0;
       &.meta {
         @extend .sans;
         text-transform: uppercase;
-        position: absolute; top: 0;
       }
     }
     @media only screen and (min-width: 768px) {
-      margin-bottom: 1.5em;
-      padding-bottom: 1em;
-      background: $img-border bottom left repeat-x;
+      /*margin-bottom: 1.5em;*/
+      padding-bottom: .5em;
     }
   }
   h2 {
     padding-top: 0.8em;
-    background: $img-border top left repeat-x;
   }
   .entry-content & h2:first-child, header + h2 { padding-top: 0; }
   h2:first-child, header + h2 { background: none; }
@@ -39,13 +33,22 @@ article {
     margin-bottom: 1em;
     padding-bottom: 1em;
     background: $img-border bottom left repeat-x;
-    font-size: 2.0em; font-style: italic;
     line-height: 1.3em;
   }
   img, video, .flash-video {
     @extend .flex-content;
     @extend .basic-alignment;
-    @include shadow-box;
+    @include shadow-box($border: #aaa 1px solid, $shadow: rgba(#000, .25) 0 2px 10px, $border-radius: .3em);
+    padding: .25em;
+    background-color: #fff;
+  }
+  .no-border {
+    border: none;
+    border-radius: 0;
+    -moz-border-radius: 0;
+    box-shadow: none;
+    background: transparent;
+    padding: 0;
   }
   video, .flash-video { margin: 0 auto 1.5em; }
   video { display: block; width: 100%; }
@@ -67,6 +70,7 @@ article {
     }
   }
   > footer {
+    color: $text-color-light;
     padding-bottom: 2.5em;
     margin-top: 2em;
     @extend .sans;
@@ -84,19 +88,23 @@ article {
 }
 article + article {
   .blog-index & {
-    background: $img-border top left repeat-x;
   }
 }
 #content .blog-index {
-  padding: { top: 0; bottom: 0; }
-  article { padding-top: 2em; }
-  article header { background: none; padding-bottom: 0; }
+  article {
+	padding-top: 3em;
+	padding-bottom: 1.5em;
+	border-top: 4px solid $article-border;
+  }
+  article:first-child {
+    padding-top: 1em;
+    border-top: none;
+  }
+  article header { background: none; }
   article h1 {
-    font-size: 2.2em;
     a { color: inherit; &:hover { color: $link-color-hover; } }
   }
   a[rel=full-article] {
-    background: darken($main-bg, 5);
     display: inline-block;
     padding: .4em .8em;
     margin-right: .5em;
@@ -105,9 +113,7 @@ article + article {
     @extend .serif;
     @include transition(background-color .5s);
     &:hover {
-      background: $link-color-hover;
       text-shadow: none;
-      color: $main-bg;
     }
   }
   footer {
@@ -117,17 +123,18 @@ article + article {
 }
 
 .separator {
-  content: "\2022 ";
+  content: "—";
   padding: 0 .4em 0 .2em;
   display: inline-block;
 }
 
 #content div.pagination {
+  @include pie-clearfix;
   text-align: center;
   font-size: .95em;
   position: relative;
-  background: $img-border top left repeat-x;
   padding: {top: 1.5em; bottom: 1.5em;}
+  border-top: 1px solid #fff;
   a {
     text-decoration: none;
     color: $text-color-light;
