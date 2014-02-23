@@ -1,5 +1,19 @@
+# encoding: utf-8
 module Octopress
   module Date
+    # Русская локализация:
+    MONTHNAMES_RU = [nil,
+      "Января", "Февраля", "Марта", "Апреля", "Мая", "Июня",
+      "Июля", "Августа", "Сентября", "Октября", "Ноября", "Декабря" ]
+    ABBR_MONTHNAMES_RU = [nil,
+      "Янв", "Фев", "Мар", "Апр", "Май", "Июн",
+      "Июл", "Авг", "Сен", "Окт", "Ноя", "Дек" ]
+    DAYNAMES_RU = [
+      "Воскресенье", "Понедельник", "Вторник", "Среда",
+      "Четверг", "Пятница", "Суббота" ]
+    ABBR_DAYNAMES_RU = [
+      "Вс", "Пн", "Вт", "Ср",
+      "Чт", "Пт", "Сб" ]
 
     # Returns a datetime if the input is a string
     def datetime(date)
@@ -10,9 +24,14 @@ module Octopress
     end
 
     # Returns an ordidinal date eg July 22 2007 -> July 22nd 2007
+    # def ordinalize(date)
+    #   date = datetime(date)
+    #   "#{date.strftime('%b')} #{ordinal(date.strftime('%e').to_i)}, #{date.strftime('%Y')}"
+    # end
+
     def ordinalize(date)
-      date = datetime(date)
-      "#{date.strftime('%b')} #{ordinal(date.strftime('%e').to_i)}, #{date.strftime('%Y')}"
+      # Задаем наш формат выдачи даты    
+      format_date(date, "%A, %e %B %Y") # ПЯТНИЦА, 13 ИЮЛЯ 2012
     end
 
     # Returns an ordinal number. 13 -> 13th, 21 -> 21st etc.
@@ -31,13 +50,30 @@ module Octopress
 
     # Formats date either as ordinal or by given date format
     # Adds %o as ordinal representation of the day
+    # def format_date(date, format)
+    #   date = datetime(date)
+    #   if format.nil? || format.empty? || format == "ordinal"
+    #     date_formatted = ordinalize(date)
+    #   else
+    #     date_formatted = date.strftime(format)
+    #     date_formatted.gsub!(/%o/, ordinal(date.strftime('%e').to_i))
+    #   end
+    #   date_formatted
+    # end
+    # Formats date either as ordinal or by given date format
+    # Adds %o as ordinal representation of the day
     def format_date(date, format)
       date = datetime(date)
       if format.nil? || format.empty? || format == "ordinal"
         date_formatted = ordinalize(date)
       else
+        format.gsub!(/%a/, ABBR_DAYNAMES_RU[date.wday])
+        format.gsub!(/%A/, DAYNAMES_RU[date.wday])
+        format.gsub!(/%b/, ABBR_MONTHNAMES_RU[date.mon])
+        format.gsub!(/%B/, MONTHNAMES_RU[date.mon])
         date_formatted = date.strftime(format)
-        date_formatted.gsub!(/%o/, ordinal(date.strftime('%e').to_i))
+        # date_formatted = date.strftime(format)
+        # date_formatted.gsub!(/%o/, ordinal(date.strftime('%e').to_i))
       end
       date_formatted
     end
