@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Проверенные источники"
+title: "Проверенные источники Андрея Ваджры"
 date: 2014-02-21 16:40:14 +0200
 comments: false
 categories: fake
