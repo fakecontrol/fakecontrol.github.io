@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Fake Control]]></title>
-  <link href="http://fakecontrol.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: fake | Fake Control]]></title>
+  <link href="http://fakecontrol.github.io/blog/categories/fake/atom.xml" rel="self"/>
   <link href="http://fakecontrol.github.io/"/>
   <updated>2014-02-23T02:14:03+02:00</updated>
   <id>http://fakecontrol.github.io/</id>
