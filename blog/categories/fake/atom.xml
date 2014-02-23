@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: fake | Fake Control]]></title>
-  <link href="http://fakecontrol.github.io/blog/categories/fake/atom.xml" rel="self"/>
-  <link href="http://fakecontrol.github.io/"/>
-  <updated>2014-02-23T02:37:25+02:00</updated>
-  <id>http://fakecontrol.github.io/</id>
+  <link href="http://fakecontrol.org/blog/categories/fake/atom.xml" rel="self"/>
+  <link href="http://fakecontrol.org/"/>
+  <updated>2014-02-23T02:38:48+02:00</updated>
+  <id>http://fakecontrol.org/</id>
   <author>
     <name><![CDATA[Команда FakeControl.org]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Загадка рейса AOJ92C]]></title>
-    <link href="http://fakecontrol.github.io/blog/2014/02/22/vip-jet/"/>
+    <link href="http://fakecontrol.org/blog/2014/02/22/vip-jet/"/>
     <updated>2014-02-22T03:48:48+02:00</updated>
-    <id>http://fakecontrol.github.io/blog/2014/02/22/vip-jet</id>
+    <id>http://fakecontrol.org/blog/2014/02/22/vip-jet</id>
     <content type="html"><![CDATA[<p>После появления первой информации в сети о том, что президент вылетел из Киева в Харьков &ndash; многие пользователи начали искать на <a href="http://flightradar24.com">flightradar24.com</a> рейсы, которые вылетели из Киева. Среди них нашелся и наш герой &ndash; AOJ92C, класса VIP, чем не президентский самолет? Среди прочих, информацией про этот борт поделился (<a href="http://d.pr/i/CnQx">http://d.pr/i/CnQx</a>) <a href="https://twitter.com/RuslanLeviev">@RuslanLeviev</a> &ndash; который позавчера весь вечер отслеживал информацию про вылетающие из Киева самолеты и транслировал наблюдения в твиттер, чем собственно и приковал к себе внимание многих читателей. При этом он не высказывал никаких мыслей по поводу того, чей это борт, но ретвит от твиттера Евромайдан, а также несколько дополнительных упоминаний номера рейса сделали свое дело &ndash; пользователи сети додумали собственника самолету и информация начала распространяться с огромной скоростью. За несколько часов &ldquo;самолет с президентом&rdquo; летел и приземлялся, по версии пользователей соцсетей, в Донецке, Сочи, Тегеране и Дубаи, пока вообще не пропал с радаров.</p>
 
 <p>В итога даже множество украинский и несколько западных СМИ опубликовали информацию о том что президент улетел из страны.</p>
