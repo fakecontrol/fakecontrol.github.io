@@ -35,9 +35,9 @@ categories:
 
 Я тут же связался с автором опроса в Facebook, и ниже приведу наш диалог полностью
 
-![dialog1](http://i.imgur.com/C0GS3uI.png)
-![dialog2](http://i.imgur.com/ex1cFF6.png)
-![dialog3](http://i.imgur.com/0O7y8Ly.png)
+  <img src="http://d.pr/i/RMRQ+">
+  <img src="http://d.pr/i/iPVY+"> 
+  <img src="http://d.pr/i/6eki+">
 
 Напоследок я сделал последний скриншот страницы опроса в 00:02 
 ![myscreen3](http://i.imgur.com/MhivNnB.png)
