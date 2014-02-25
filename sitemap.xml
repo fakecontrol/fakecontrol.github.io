@@ -1,19 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://fakecontrol.github.io/404.html</loc>
-        <lastmod>2014-02-23T01:31:02+02:00</lastmod>
+        <loc>http://fakecontrol.org/blog/2014/02/20/vesti/</loc>
+        <lastmod>2014-02-23T02:54:50+02:00</lastmod>
     </url>
     <url>
-        <loc>http://fakecontrol.github.io/blog/archives/</loc>
-        <lastmod>2014-02-23T01:31:02+02:00</lastmod>
+        <loc>http://fakecontrol.org/blog/2014/02/21/vadjra/</loc>
+        <lastmod>2014-02-23T02:58:41+02:00</lastmod>
     </url>
     <url>
-        <loc>http://fakecontrol.github.io/</loc>
-        <lastmod>2014-02-23T01:31:02+02:00</lastmod>
+        <loc>http://fakecontrol.org/blog/2014/02/22/vip-jet/</loc>
+        <lastmod>2014-02-23T02:45:07+02:00</lastmod>
     </url>
     <url>
-        <loc>http://fakecontrol.github.io/robots.txt</loc>
+        <loc>http://fakecontrol.org/blog/2014/02/23/rybak/</loc>
+        <lastmod>2014-02-23T19:03:19+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://fakecontrol.org/blog/2014/02/23/red-cross/</loc>
+        <lastmod>2014-02-23T23:30:37+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://fakecontrol.org/blog/2014/02/25/open-vote/</loc>
+        <lastmod>2014-02-25T01:43:24+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://fakecontrol.org/404.html</loc>
+        <lastmod>2014-02-23T02:45:07+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://fakecontrol.org/about/</loc>
+        <lastmod>2014-02-23T02:45:07+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://fakecontrol.org/blog/archives/</loc>
+        <lastmod>2014-02-25T01:43:24+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://fakecontrol.org/</loc>
+        <lastmod>2014-02-25T01:43:24+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://fakecontrol.org/robots.txt</loc>
         <lastmod>2014-02-23T00:44:24+02:00</lastmod>
     </url>
 </urlset>
