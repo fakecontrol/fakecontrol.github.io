@@ -4,7 +4,7 @@
   <title><![CDATA[Fake Control]]></title>
   <link href="http://fakecontrol.org/atom.xml" rel="self"/>
   <link href="http://fakecontrol.org/"/>
-  <updated>2014-02-26T02:07:07+02:00</updated>
+  <updated>2014-02-26T02:10:52+02:00</updated>
   <id>http://fakecontrol.org/</id>
   <author>
     <name><![CDATA[Команда FakeControl.org]]></name>
@@ -35,9 +35,9 @@
   
   <entry>
     <title type="html"><![CDATA[Открытое голосование, или чем заканчиваются хорошие инициативы]]></title>
-    <link href="http://fakecontrol.org/blog/2014/02/24/open-vote/"/>
-    <updated>2014-02-24T00:07:28+02:00</updated>
-    <id>http://fakecontrol.org/blog/2014/02/24/open-vote</id>
+    <link href="http://fakecontrol.org/blog/2014/02/25/open-vote/"/>
+    <updated>2014-02-25T00:07:28+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/02/25/open-vote</id>
     <content type="html"><![CDATA[<h2>Предыстория</h2>
 
 <p>Вчера и сегодня многие из вас получили ссылку на онлайн-опрос о результах выборов 2014 года.
