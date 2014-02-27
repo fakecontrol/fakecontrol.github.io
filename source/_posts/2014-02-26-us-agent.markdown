@@ -2,7 +2,7 @@
 layout: post
 title: "Про американских агентов"
 date: 2014-02-26 12:23:21 +0200
-comments: false
+comments: true
 categories: fake 
 ---
 Несколько дней уже по сети [гуляет видео](http://www.youtube.com/watch?v=SOmpICEfN5o), в описании которого написано:

@@ -2,7 +2,7 @@
 layout: post
 title: "Опровержение нападения на Рыбака"
 date: 2014-02-23 17:27:43 +0200
-comments: false
+comments: true
 categories: fake
 ---
 Я думаю, все вчера читали / слушали заявление президента: http://www.president.gov.ua/ru/news/30127.html

@@ -2,7 +2,7 @@
 layout: post
 title: "Российское ТВ"
 date: 2014-02-20 18:42:11 +0200
-comments: false
+comments: true
 categories: fake
 ---
 В очередной раз отличились Российские телеканалы, освещая события на Украине. 

@@ -2,7 +2,7 @@
 layout: post
 title: "Открытое голосование, или чем заканчиваются хорошие инициативы"
 date: 2014-02-25 00:07:28 +0000
-comments: false
+comments: true
 categories: 
 ---
 ## Предыстория
