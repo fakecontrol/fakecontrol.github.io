@@ -23,6 +23,28 @@
       <a rel="full-article" href="{{ root_url }}{{ post.url }}">{{ site.excerpt_link }}</a>
     </footer>
   {% endif %}
+  <div class="sharing">
+    {% if site.twitter_tweet_button %}
+      <a href="http://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ page.url }}" data-via="{{ site.twitter_user }}" data-counturl="{{ site.url }}{{ page.url }}" >Tweet</a>
+    {% endif %}
+    {% if site.google_plus_one %}
+      <div class="g-plusone" data-size="{{ site.google_plus_one_size }}"></div>
+    {% endif %}
+    {% if site.facebook_like %}
+      <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+    {% endif %}
+  </div>
 {% else %}
 <div class="entry-content">{{ content }}</div>
+<div class="sharing">
+  {% if site.twitter_tweet_button %}
+    <a href="http://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ post.url }}" data-via="{{ site.twitter_user }}" data-counturl="{{ site.url }}{{ post.url }}" >Tweet</a>
+  {% endif %}
+  {% if site.google_plus_one %}
+    <div class="g-plusone" data-size="{{ site.google_plus_one_size }}"></div>
+  {% endif %}
+  {% if site.facebook_like %}
+  <div class="fb-like" data-send="true" data-width="450" data-show-faces="false" data-href="{{ post.url }}"></div>
+  {% endif %}
+</div>
 {% endif %}
