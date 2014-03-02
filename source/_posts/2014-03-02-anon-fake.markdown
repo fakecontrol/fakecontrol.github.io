@@ -1,6 +1,6 @@
 ---
 layout: post
-title: «Большой анонимный фейк
+title: Большой анонимный фейк
 date: 2014-03-02 11:48:10 +0000
 comments: true
 categories: fake
