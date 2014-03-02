@@ -15,7 +15,7 @@ categories: fake
 
 - если в сообщении есть 8-битные символы (например, кириллица) по стандарту MIME в сообщении должен быть заголовок Content-Transfer-Encoding, который определяет формат кодирования этих самых 8-битных символов. Во всех кириллических сообщениях inet.ua, которые мы нашли, этот заголовок есть. На скриншоте его нет. 
 
-- все встреченные нами письма от веб-интерфейса inet.ua включают заголовок "X-Mailer: freemailer", а не "X-Mailer: mailer». Google: [X-Mailer: mailer](https://www.google.com/search?q="X-Mailer%3A+mailer"+"helo%3Dnewmail.inet.ua") vs [X-Mailer: freemailer](https://www.google.com/search?q="X-Mailer%3A+freemailer"+"helo%3Dnewmail.inet.ua")
+- все встреченные нами письма от веб-интерфейса inet.ua включают заголовок "X-Mailer: freemailer", а не "X-Mailer: mailer». Google: [X-Mailer: mailer](http://bit.ly/1kHmZZF) vs [X-Mailer: freemailer](http://bit.ly/1mW4hin)
 
 В частном порядке, работник одной из почтовых систем, через которые проходило это письмо, сообщил, что среди получателей сообщения с message-id=n03lwv.tk3saz@newmail.inet.ua не было адреса a.o.k@ciba.com.ua. Подробная информация о получателях письма является, естественно, приватной, однако можно уверенно заявить — _скриншот является фейком_.
 
