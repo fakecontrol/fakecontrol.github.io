@@ -5,7 +5,7 @@ date: 2014-03-02 03:19:28 +0200
 comments: true
 categories: fake
 ---
-# UPD: Выступление Парубия 2 марта  http://www.youtube.com/watch?v=mcfSIPdj2_A#t=39750
+# UPD: Выступление Парубия 2 марта  https://www.youtube.com/watch?v=fK0dLJcZBMM
 
 После появления этого поста в Facebook - началась настоящая паника и чад кутежа в комментариях.
 ![mob](http://d.pr/i/5BRh+)
