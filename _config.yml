@@ -98,3 +98,6 @@ google_analytics_tracking_id: UA-44471247-3
 
 # Facebook Like
 facebook_like: true
+
+# VK like
+vk_like: true
