@@ -11,7 +11,7 @@ categories:
 > "В ответ на российское вторжение США отправили ударную группу на авианосце в направлении Черного моря, чтобы иметь возможность реагировать на развитие событий на Крымском полуострове в Украине", - сообщают [Украинские новости](http://un.ua/ukr/) со ссылкой на сайт [Turner Radio Network RSS Feed](http://www.turnerradionetwork.com/news/340-pat).
 > Джерело: [fakty.ictv.ua](fakty.ictv.ua)
 
-А мы тут прочитали на [официальном сайте](http://www.public.navy.mil/airfor/cvn77/Pages/USS%20GEORGE%20H.W.%20BUSH%20(CVN%2077).aspx) этого самого авианосца, что у них есть официальная страница [на Facebook](http://www.facebook.com/USSGeorgeHWBush)
+А мы тут прочитали на <a href="http://www.public.navy.mil/airfor/cvn77/Pages/USS%20GEORGE%20H.W.%20BUSH%20(CVN%2077).aspx">официальном сайте</a> этого самого авианосца, что у них есть официальная страница [на Facebook](http://www.facebook.com/USSGeorgeHWBush)
 
 После того как нас отпустила истерика по поводу того что экипаж авианосца ведет официальную страницу на Facebook – мы прочитали там о том, что авианосец [прибыл в Грецию сегодня](https://www.facebook.com/notes/uss-george-hw-bush-cvn-77/uss-george-hw-bush-arrives-in-greece/666275313432490).
 
