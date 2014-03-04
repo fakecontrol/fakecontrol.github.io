@@ -6,7 +6,7 @@ body > nav {
     bottom: 1px solid $nav-border-bottom; }*/
   form {
     @include background-clip(padding-box);
-    margin: 10px 0 0 0; padding: 0;
+    margin: 10px 0; padding: 0;
     .search {
       padding: .3em .5em .3em;
       font-size: .85em;
@@ -35,8 +35,13 @@ body > nav {
       list-style: none;
       float: left;
       display: block;
-      margin-left: 1em;
-      padding-top: 1em;
+      margin: 0;
+      padding: 0.7em;
+
+      &.main-navigation {
+        border-left: 4px solid $subtitle-color;
+        border-right: 4px solid $subtitle-color;
+      }
     }
     ul li {
       text-transform: uppercase;
