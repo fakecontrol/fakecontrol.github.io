@@ -21,8 +21,12 @@
       var disqus_shortname = '{{ site.disqus_short_name }}';
       {% if page.comments == true %}
         {% comment %} `page.comments` can be only be set to true on pages/posts, so we embed the comments here. {% endcomment %}
-        // var disqus_developer = 1;
-        var disqus_identifier = '{{ site.url }}{{ page.alias || page.url }}';
+        var disqus_developer = 1;
+        {% if page.alias != nil %}
+          var disqus_identifier = '{{ site.url }}{{ page.alias }}';
+        {% else %}
+          var disqus_identifier = '{{ site.url}}{{ page.url }}';
+        {% endif %}
         var disqus_url = '{{ absolute_url }}';
         var disqus_script = 'embed.js';
       {% else %}
