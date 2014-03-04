@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Авианосец, который не смог..."
+title: "Авианосец, который не смог."
 date: 2014-03-04 18:06:19 +0200
 comments: true
-categories:
+categories: fake
 ---
 Возможно вы слышали что авианосец США USS George H.W. Bush направили в сторону Украины, возможно вы даже прочитали об этом у [ICTV вот тут](http://fakty.ictv.ua/ru/index/read-news/id/1506591)
 
