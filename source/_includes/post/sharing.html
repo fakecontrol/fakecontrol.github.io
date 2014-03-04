@@ -1,4 +1,20 @@
-{% capture absolute_url %}{{ site.url }}{{ page.alias || page.url }}{% endcapture %}
+{% capture absolute_url %}{% strip %}
+  {{ site.url }}
+  {% if post != nil %}
+    {% if post.alias != nil %}
+      {{ post.alias }}
+    {% else %}
+      {{ post.url }}
+    {% endif %}
+  {% else %}
+    {% if page.alias != nil %}
+      {{ page.alias }}
+    {% else %}
+      {{ page.url }}
+    {% endif %}
+  {% endif %}
+{% endstrip %}{% endcapture %}
+
 <div class="sharing">
   {% if site.twitter_tweet_button %}
   <a href="http://twitter.com/share" class="twitter-share-button" data-url="{{ absolute_url }}" data-via="{{ site.twitter_user }}" data-counturl="{{ absolute_url }}" >Tweet</a>
