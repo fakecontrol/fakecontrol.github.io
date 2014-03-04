@@ -6,7 +6,7 @@ body > nav {
     bottom: 1px solid $nav-border-bottom; }*/
   form {
     @include background-clip(padding-box);
-    margin: 0; padding: 0;
+    margin: 10px 0 0 0; padding: 0;
     .search {
       padding: .3em .5em .3em;
       font-size: .85em;
@@ -113,4 +113,3 @@ body > nav {
   }
   ul.subscription { position: relative; top: .2em; li, a { border: 0; padding: 0; }}
 }
-
