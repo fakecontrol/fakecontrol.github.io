@@ -101,3 +101,6 @@ facebook_like: true
 
 # VK like
 vk_like: true
+
+# i18n
+languages: ["ru", "en"]
