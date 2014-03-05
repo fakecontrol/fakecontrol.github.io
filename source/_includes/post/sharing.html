@@ -1,5 +1,6 @@
 {% capture absolute_url %}{% strip %}
   {{ site.url }}
+  {{ site.baseurl }}
   {% if post != nil %}
     {% if post.alias != nil %}
       {{ post.alias }}
