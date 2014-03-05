@@ -19,6 +19,23 @@
   }
 }
 
+@media only screen and (max-width: 400px) {
+  body>header {
+    h2 {
+      margin-top: .52em;
+      font-size: 2.875em !important;
+    }
+    h1 {
+      display: none;
+    }
+  }
+
+  body>header,body>nav>ul {
+    margin-bottom: 50px;
+  }
+}
+
+
 .fb-like, .vk-like {
   margin-top: 10px;
 }
