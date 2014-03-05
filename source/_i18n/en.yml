@@ -1,2 +1,5 @@
 global:
   name: Fake Control
+  root: Blog
+  archive: Archive
+  about: About

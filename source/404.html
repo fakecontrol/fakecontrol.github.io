@@ -12,11 +12,11 @@ layout: page
     var arrURL = document.URL.split("/");
     var arrParams = arrURL[3].split("?");
     var searchParam = arrParams[0].substr(0, arrParams[0].lastIndexOf("."));
-    
+
     document.write('<a href="{{ site.simple_search }}?q=site:{{ site.url | shorthand_url }} ' + searchParam + '">поиск</a>')
   </script>
   <noscript><a href="{{ site.simple_search }}?q=site%3A{{ site.url | shorthand_url }}">поиск</a></noscript>
-   (в правом верхнем углу страницы), просмотреть 
+   (в правом верхнем углу страницы), просмотреть
   <a href="{{ root_url }}/blog/archives">архивы</a> или вернуться на
   <a href="{{ root_url }}/">главную</a>.
 </p>

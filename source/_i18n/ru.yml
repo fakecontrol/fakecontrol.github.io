@@ -1,2 +1,5 @@
 global:
   name: Фейк-Контроль
+  root: Блог
+  archive: Архив
+  about: О проекте

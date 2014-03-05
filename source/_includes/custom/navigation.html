@@ -1,11 +1,19 @@
 <ul class="main-navigation">
-  <li><a href="{{ root_url }}/">Блог</a></li>
-  <li><a href="{{ root_url }}/blog/archives">Архив</a></li>
-  <li><a href="{{ root_url }}/about">О проекте</a></li>
-  <li><a href="{{ site.subscribe_rss }}">RSS</a></li>
+  <li><a href="{{ root_url }}/">{% t global.root %}</a></li>
+  <li><a href="{{ root_url }}/blog/archives">{% t global.archive %}</a></li>
+  <li><a href="{{ root_url }}/about">{% t global.about %}</a></li>
+  <li><a href="{{ root_url }}/atom.xml">RSS</a></li>
 </ul>
 <ul class="sub-navigation">
   <li><a href="https://facebook.com/fakecontrol.org">Facebook</a></li>
   <li><a href="https://twitter.com/fakecontrol_org">Twitter</a></li>
   <li><a href="https://vk.com/fakecontrol_org">VK</a></li>
 </ul>
+
+<div class="langs">
+  {% if site.lang == "ru" %}
+    <a href="{{ site.baseurl_root }}/en{{ page.url}}">English</a>
+  {% else if site.lang == "en" %}
+    <a href="{{ site.baseurl_root }}{{ page.url }}">Русский</a>
+  {% endif %}
+</div>
