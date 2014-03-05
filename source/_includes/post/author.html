@@ -3,6 +3,6 @@
 {% elsif page.author %}
   {% assign author = page.author %}
 {% else %}
-  {% assign author = site.author %}
+  {% capture author %}{% t project.author %}{% endcapture %}
 {% endif %}
-{% if author %}<span class="byline author vcard">Автор: <span class="fn"><a href="{{ root_url }}/about" title="About the author ({{ author }})" rel="author">{{ author }}</a></span></span>{% endif %}
+{% if author %}<span class="byline author vcard">{% t global.author %}: <span class="fn"><a href="{{ root_url }}/about" title="About the author ({{ author }})" rel="author">{{ author }}</a></span></span>{% endif %}

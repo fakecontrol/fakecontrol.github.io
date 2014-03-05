@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "О проекте"
+title: navigation.about
 date: 2014-02-18 00:00
 comments: false
 sharing: true

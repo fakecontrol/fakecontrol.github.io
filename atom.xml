@@ -7,10 +7,10 @@
   <updated>2014-02-23T01:39:56+02:00</updated>
   <id>http://fakecontrol.github.io/</id>
   <author>
-    <name><![CDATA[fakecontrol.org team]]></name>
-    
+    <name><![CDATA[{% t global.author %}]]></name>
+
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
+
 </feed>

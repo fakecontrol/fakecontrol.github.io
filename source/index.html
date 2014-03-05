@@ -12,11 +12,11 @@ layout: default
   {% endfor %}
   <div class="pagination">
     {% if paginator.next_page %}
-      <a class="prev" href="{{paginator.next_page}}">&larr; Older</a>
+      <a class="prev" href="{{paginator.next_page}}">&larr; {% t global.next_page %}</a>
     {% endif %}
-    <a href="/blog/archives">Архив</a>
+    <a href="{{ root_url }}/blog/archives">{% t navigation.archive %}</a>
     {% if paginator.previous_page %}
-    <a class="next" href="{{paginator.previous_page}}">Newer &rarr;</a>
+    <a class="next" href="{{paginator.previous_page}}">{% t global.previous_page %} &rarr;</a>
     {% endif %}
   </div>
 </div>
