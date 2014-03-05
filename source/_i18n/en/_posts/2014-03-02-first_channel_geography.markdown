@@ -20,7 +20,3 @@ We're curious whether Poland is aware that it is the part of Russia. Border cros
 [Webcams](http://service.alfard-bel.ru/tamogna-online-nehoteevka.html) also transmit empty roads
 
 The project team hopes that the management of the First Channel will deliver a reprimand to their employees and will force them to love geography - after all, in a ticklish propaganda and fake business such mistakes are a major failure.
-
-Каждый день приносит нам новые поводы для удивления. Cегодня мы сильно удивились особенному пониманию географии Первым каналом в России.
-
-![140000 беженцев](http://storage1.censor.net.ua/images/f/2/f/9/f2f903fe52fb0ca600d3a866bffd77e4/640x400.jpg)
