@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
 <!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
@@ -6,7 +7,7 @@
 <head>
   <meta charset="utf-8">
   <title>Большой анонимный фейк - Fake Control</title>
-  <meta name="author" content="Команда FakeControl.org">
+  <meta name="author" content="Команда Фейк-Контроль">
 
   
   <meta name="description" content="29 января появилась «новость» о том, что Anonymous взломали почту активистов Майдана, к которой прилагалось якобы письмо Андрея Тарасенко (активист &hellip;">
@@ -21,10 +22,21 @@
   <link rel="canonical" href="http://fakecontrol.org/blog/2014/03/02/anon-fake">
   <link href="/favicon.ico" rel="icon">
 
-  <link href="/stylesheets/screen.css?1" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/screen.css?2" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/libs/moment.js" type="text/javascript"></script>
   <script src="/javascripts/ender.js"></script>
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <script>
+    moment.lang("ru")
+    $(document).ready(function() {
+      $("time[unix]").each(function() {
+        time = moment.unix($(this).attr("unix")).format($(this).attr("format"))
+        $(this).text(time.charAt(0).toUpperCase() + time.slice(1))
+      });
+    });
+  </script>
+
   <link href="/atom.xml" rel="alternate" title="Fake Control" type="application/atom+xml">
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
@@ -51,7 +63,7 @@
   
     <h2><a href="/">FC</a></h2>
   
-  <h1>Fake Control</h1>
+  <h1>Фейк-Контроль</h1>
 </hgroup>
 
 </header>
@@ -77,6 +89,12 @@
   <li><a href="https://vk.com/fakecontrol_org">VK</a></li>
 </ul>
 
+<div class="langs">
+  
+    <a href="/en/blog/2014/03/02/anon-fake/">English</a>
+  
+</div>
+
 </nav>
   <div id="main">
     <div id="content">
@@ -93,15 +111,14 @@
 
 
 
-
-
-
-
-
   
 
 
-<time datetime="2014-03-02T13:48:10+02:00" pubdate data-updated="true">Воскресенье,  2 Марта 2014</time>
+
+
+
+
+<time unix="1393760890" format="LLLL"></time>
         
          | <a href="#disqus_thread">Комментарии</a>
         
@@ -125,7 +142,7 @@
 </ul>
 
 
-<p>В частном порядке, работник одной из почтовых систем, через которые проходило это письмо, сообщил, что среди получателей сообщения с message-id=<a href="&#x6d;&#x61;&#105;&#108;&#x74;&#111;&#58;&#x6e;&#48;&#51;&#108;&#x77;&#118;&#x2e;&#x74;&#107;&#51;&#115;&#x61;&#x7a;&#x40;&#110;&#x65;&#x77;&#109;&#x61;&#105;&#x6c;&#46;&#x69;&#110;&#x65;&#116;&#46;&#x75;&#97;">&#110;&#x30;&#x33;&#108;&#x77;&#x76;&#x2e;&#116;&#107;&#51;&#115;&#x61;&#x7a;&#64;&#110;&#101;&#119;&#x6d;&#x61;&#105;&#108;&#x2e;&#x69;&#110;&#x65;&#x74;&#x2e;&#x75;&#x61;</a> не было адреса <a href="&#109;&#x61;&#x69;&#x6c;&#116;&#x6f;&#58;&#97;&#46;&#111;&#46;&#x6b;&#x40;&#x63;&#105;&#x62;&#x61;&#46;&#x63;&#111;&#109;&#x2e;&#117;&#x61;&#46;">&#97;&#46;&#x6f;&#x2e;&#107;&#64;&#x63;&#x69;&#x62;&#97;&#46;&#99;&#x6f;&#109;&#46;&#x75;&#97;&#x2e;</a> Подробная информация о получателях письма является, естественно, приватной, однако можно уверенно заявить — <em>скриншот является фейком</em>.</p>
+<p>В частном порядке, работник одной из почтовых систем, через которые проходило это письмо, сообщил, что среди получателей сообщения с message-id=<a href="&#x6d;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#x6e;&#48;&#x33;&#108;&#x77;&#x76;&#x2e;&#x74;&#x6b;&#x33;&#x73;&#x61;&#122;&#x40;&#x6e;&#101;&#119;&#x6d;&#97;&#x69;&#x6c;&#46;&#x69;&#110;&#x65;&#116;&#x2e;&#x75;&#97;">&#110;&#48;&#51;&#x6c;&#x77;&#118;&#46;&#116;&#107;&#x33;&#x73;&#x61;&#122;&#64;&#x6e;&#x65;&#119;&#x6d;&#97;&#x69;&#x6c;&#x2e;&#105;&#x6e;&#101;&#116;&#x2e;&#x75;&#97;</a> не было адреса <a href="&#109;&#x61;&#105;&#108;&#x74;&#x6f;&#x3a;&#97;&#46;&#x6f;&#46;&#x6b;&#x40;&#x63;&#105;&#x62;&#97;&#x2e;&#x63;&#111;&#x6d;&#x2e;&#x75;&#97;&#x2e;">&#x61;&#x2e;&#111;&#46;&#107;&#64;&#99;&#x69;&#98;&#x61;&#x2e;&#99;&#111;&#x6d;&#46;&#117;&#x61;&#x2e;</a> Подробная информация о получателях письма является, естественно, приватной, однако можно уверенно заявить — <em>скриншот является фейком</em>.</p>
 
 <p>В-третьих, автор сообщения на форуме путается в показаниях про «удалось все же вскрыть почту активистов майдана», в то время как заголовки письма были сделаны из ящика получателя (то есть, якобы a.o.k@ciba.com.ua, «Аслана»).</p>
 
@@ -141,21 +158,20 @@ Keep calm and carry on.</p>
       
   
 
-<span class="byline author vcard">Автор: <span class="fn"><a href="/about" title="About the author (Команда FakeControl.org)" rel="author">Команда FakeControl.org</a></span></span>
+<span class="byline author vcard">Автор: <span class="fn"><a href="/about" title="About the author (Команда Фейк-Контроль)" rel="author">Команда Фейк-Контроль</a></span></span>
 
       
-
-
-
-
-
 
 
 
   
 
 
-<time datetime="2014-03-02T13:48:10+02:00" pubdate data-updated="true">Воскресенье,  2 Марта 2014</time>
+
+
+
+
+<time unix="1393760890" format="LLLL"></time>
       
 
 
@@ -208,7 +224,7 @@ Keep calm and carry on.</p>
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2014 - Команда FakeControl.org -
+  &copy; 2014 - Команда Фейк-Контроль -
   <span class="credit"><a href="https://github.com/fakecontrol/fakecontrol.github.io">Github</a></span>
 </p>
 
@@ -218,6 +234,9 @@ Keep calm and carry on.</p>
 
 
 <script type="text/javascript">
+      var disqus_config = function () {
+        this.language = "ru";
+      };
       var disqus_shortname = 'fakecontrol';
       
         

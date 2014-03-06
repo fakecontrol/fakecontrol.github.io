@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
 <!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
@@ -6,7 +7,7 @@
 <head>
   <meta charset="utf-8">
   <title>Российское ТВ - Fake Control</title>
-  <meta name="author" content="Команда FakeControl.org">
+  <meta name="author" content="Команда Фейк-Контроль">
 
   
   <meta name="description" content="В очередной раз отличились Российские телеканалы, освещая события на Украине.
@@ -22,10 +23,21 @@
   <link rel="canonical" href="http://fakecontrol.org/blog/2014/02/20/vesti">
   <link href="/favicon.ico" rel="icon">
 
-  <link href="/stylesheets/screen.css?1" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/screen.css?2" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/libs/moment.js" type="text/javascript"></script>
   <script src="/javascripts/ender.js"></script>
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <script>
+    moment.lang("ru")
+    $(document).ready(function() {
+      $("time[unix]").each(function() {
+        time = moment.unix($(this).attr("unix")).format($(this).attr("format"))
+        $(this).text(time.charAt(0).toUpperCase() + time.slice(1))
+      });
+    });
+  </script>
+
   <link href="/atom.xml" rel="alternate" title="Fake Control" type="application/atom+xml">
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
@@ -52,7 +64,7 @@
   
     <h2><a href="/">FC</a></h2>
   
-  <h1>Fake Control</h1>
+  <h1>Фейк-Контроль</h1>
 </hgroup>
 
 </header>
@@ -78,6 +90,12 @@
   <li><a href="https://vk.com/fakecontrol_org">VK</a></li>
 </ul>
 
+<div class="langs">
+  
+    <a href="/en/blog/2014/02/20/vesti/">English</a>
+  
+</div>
+
 </nav>
   <div id="main">
     <div id="content">
@@ -94,15 +112,14 @@
 
 
 
-
-
-
-
-
   
 
 
-<time datetime="2014-02-20T18:42:11+02:00" pubdate data-updated="true">Четверг, 20 Февраля 2014</time>
+
+
+
+
+<time unix="1392914531" format="LLLL"></time>
         
          | <a href="#disqus_thread">Комментарии</a>
         
@@ -128,21 +145,20 @@
       
   
 
-<span class="byline author vcard">Автор: <span class="fn"><a href="/about" title="About the author (Команда FakeControl.org)" rel="author">Команда FakeControl.org</a></span></span>
+<span class="byline author vcard">Автор: <span class="fn"><a href="/about" title="About the author (Команда Фейк-Контроль)" rel="author">Команда Фейк-Контроль</a></span></span>
 
       
-
-
-
-
-
 
 
 
   
 
 
-<time datetime="2014-02-20T18:42:11+02:00" pubdate data-updated="true">Четверг, 20 Февраля 2014</time>
+
+
+
+
+<time unix="1392914531" format="LLLL"></time>
       
 
 
@@ -193,7 +209,7 @@
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2014 - Команда FakeControl.org -
+  &copy; 2014 - Команда Фейк-Контроль -
   <span class="credit"><a href="https://github.com/fakecontrol/fakecontrol.github.io">Github</a></span>
 </p>
 
@@ -203,6 +219,9 @@
 
 
 <script type="text/javascript">
+      var disqus_config = function () {
+        this.language = "ru";
+      };
       var disqus_shortname = 'fakecontrol';
       
         

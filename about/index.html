@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
 <!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
@@ -6,7 +7,7 @@
 <head>
   <meta charset="utf-8">
   <title>О проекте - Fake Control</title>
-  <meta name="author" content="Команда FakeControl.org">
+  <meta name="author" content="Команда Фейк-Контроль">
 
   
   <meta name="description" content="О проекте События последних трех месяцев доказали, что информационное поле имеет сильное влияние на людей. И в критических условиях чистота и &hellip;">
@@ -21,10 +22,21 @@
   <link rel="canonical" href="http://fakecontrol.org/about">
   <link href="/favicon.ico" rel="icon">
 
-  <link href="/stylesheets/screen.css?1" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/screen.css?2" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/libs/moment.js" type="text/javascript"></script>
   <script src="/javascripts/ender.js"></script>
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <script>
+    moment.lang("ru")
+    $(document).ready(function() {
+      $("time[unix]").each(function() {
+        time = moment.unix($(this).attr("unix")).format($(this).attr("format"))
+        $(this).text(time.charAt(0).toUpperCase() + time.slice(1))
+      });
+    });
+  </script>
+
   <link href="/atom.xml" rel="alternate" title="Fake Control" type="application/atom+xml">
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
@@ -51,7 +63,7 @@
   
     <h2><a href="/">FC</a></h2>
   
-  <h1>Fake Control</h1>
+  <h1>Фейк-Контроль</h1>
 </hgroup>
 
 </header>
@@ -77,6 +89,12 @@
   <li><a href="https://vk.com/fakecontrol_org">VK</a></li>
 </ul>
 
+<div class="langs">
+  
+    <a href="/en/about/">English</a>
+  
+</div>
+
 </nav>
   <div id="main">
     <div id="content">
@@ -89,11 +107,23 @@
   
   <p>События последних трех месяцев доказали, что информационное поле имеет сильное влияние на людей. И в критических условиях чистота и достоверность информации особенно важна для принятия в самом деле ответственных и объективных решений. Поэтому наша команда решила создать этот проект, чтобы по мере сил помогать очищать инфомационное пространство от очевидных фейков, уток и манипуляций.</p>
 
+
+
+
 <p>К сожалению, не все вбросы мы имеем возможность проверить немедленно, но с вашей помощью надеемся сделать этот процесс быстрым и эффективным.</p>
 
-<p>Вы можете связаться с нами <a href="mailto:team@fakecontrol.org">написав нам письмо</a> или написав нам <a href="http://twitter.com/fakecontrol_org">в твиттер</a></p>
+
+
+
+<p>Вы можете связаться с нами <a href="mailto:team@fakecontrol.org">написав нам письмо</a> или написав нам <a href="http://twitter.com/fakecontrol_org">в твиттер</a>.</p>
+
+
+
 
 <p>С уважением, команда Fakecontrol.</p>
+
+
+
 
   
 </article>
@@ -104,7 +134,7 @@
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2014 - Команда FakeControl.org -
+  &copy; 2014 - Команда Фейк-Контроль -
   <span class="credit"><a href="https://github.com/fakecontrol/fakecontrol.github.io">Github</a></span>
 </p>
 
