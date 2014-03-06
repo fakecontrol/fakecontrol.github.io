@@ -1,0 +1,14 @@
+project:
+  name: Fake Control
+  author: Fake Control Team
+navigation:
+  root: Blog
+  archive: Archive
+  about: About
+global:
+  comments: Comments
+  author: Author
+  search: Search
+  archive: Archive
+  next_page: Older
+  previous_page: Newer

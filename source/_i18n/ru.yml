@@ -1,0 +1,14 @@
+project:
+  name: Фейк-Контроль
+  author: Команда Фейк-Контроль
+navigation:
+  root: Блог
+  archive: Архив
+  about: О проекте
+global:
+  comments: Комментарии
+  author: Автор
+  search: Поиск
+  archive: Архив
+  next_page: Назад
+  previous_page: Вперед

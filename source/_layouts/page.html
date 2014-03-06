@@ -8,7 +8,7 @@ footer: false
 <article role="article">
   {% if page.title %}
   <header>
-    <h1 class="entry-title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
+    <h1 class="entry-title">{% if page.title contains "navigation" %}{% t page.title %}{% else %}{{ page.title }}{% endif %}</h1>
   </header>
   {% endif %}
   {{ content }}
