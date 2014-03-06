@@ -7,7 +7,7 @@ categories: fake
 ---
 Every day brings new reasons to wonder . Today we were absolutely surprised with unique understanding of geography by the "Pervyy kanal" tv channel in Russia.
 
-![140,000 refugees](http://storage1.censor.net.ua/images/f/2/f/9/f2f903fe52fb0ca600d3a866bffd77e4/640x400.jpg)
+![140,000 refugees](/assets/posts/2014-03-02/poland.jpg)
 
 In the news story "More and more Ukraine citizens arrive to the southern Russian regions" First Channel claims that
 
