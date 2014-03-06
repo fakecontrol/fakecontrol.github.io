@@ -22,8 +22,19 @@
 
   <link href="{{ base_url }}/stylesheets/screen.css?1" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="{{ base_url }}/javascripts/modernizr-2.0.js"></script>
+  <script src="{{ base_url }}/javascripts/libs/moment.js" type="text/javascript"></script>
   <script src="{{ base_url }}/javascripts/ender.js"></script>
   <script src="{{ base_url }}/javascripts/octopress.js" type="text/javascript"></script>
+  <script>
+    moment.lang("{{ site.lang }}");
+    $(document).ready(function() {
+      $("time[unix]").each(function() {
+        m = moment.unix($(this).attr("unix"))
+        $(this).text(m.format($(this).attr("format")))
+      });
+    });
+  </script>
+
   <link href="{{ root_url }}/atom.xml" rel="alternate" title="{{site.title}}" type="application/atom+xml">
   {% include custom/head.html %}
   {% include google_analytics.html %}
