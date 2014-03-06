@@ -1,4 +1,4 @@
-{% capture absolute_url %}{% strip %}
+{% capture share_url %}{% strip %}
   {{ site.url }}
   {{ site.baseurl }}
   {% if post != nil %}
@@ -16,7 +16,15 @@
   {% endif %}
 {% endstrip %}{% endcapture %}
 
-<div class="share42init" style="text-alignment: center;"></div>
+{% capture share_title %}{% strip %}
+  {% if post != nil %}
+    {{ post.title }}
+  {% else %}
+    {{ page.title }}
+  {% endif %}
+{% endstrip %}{% endcapture %}
+
+<div class="share42init" data-url="{{ share_url }}" data-title="{{ share_title }}"></div>
 <script type="text/javascript" src="{{ base_url }}/javascripts/share42/share42.js"></script>
 
 
