@@ -2,12 +2,12 @@
 {% capture has_date %}{{ date | size }}{% endcapture %}
 
 {% if has_date != '0' %}
-  {% capture time %}<time unix="{{ date | date: "%s" }}" format="dddd, D MMMM YYYY"></time>{% endcapture %}
+  {% capture time %}<time unix="{{ date | date: "%s" }}" format="LLLL"></time>{% endcapture %}
 {% endif %}
 
 {% capture updated %}{{ page.updated }}{{ post.updated }}{% endcapture %}
 {% capture was_updated %}{{ updated | size }}{% endcapture %}
 
 {% if was_updated != '0' %}
-  {% capture updated %}<time unix="{{ updated | date: "%s" }}" format="dddd, D MMMM YYYY">{% endcapture %}
+  {% capture updated %}<time unix="{{ updated | date: "%s" }}" format="LLLL">{% endcapture %}
 {% else %}{% assign updated = false %}{% endif %}
