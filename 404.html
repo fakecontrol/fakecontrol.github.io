@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
 <!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
@@ -6,7 +7,7 @@
 <head>
   <meta charset="utf-8">
   <title>Fake Control</title>
-  <meta name="author" content="Команда FakeControl.org">
+  <meta name="author" content="Команда Фейк-Контроль">
 
   
   <meta name="description" content="Ой! что-то пошло не так&#8230; К сожалению страница, которую вы хотите открыть – не найдена. Она могла быть удалена, потеряться, и даже никогда не &hellip;">
@@ -23,8 +24,19 @@
 
   <link href="/stylesheets/screen.css?1" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/libs/moment.js" type="text/javascript"></script>
   <script src="/javascripts/ender.js"></script>
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <script>
+    moment.lang("ru")
+    $(document).ready(function() {
+      $("time[unix]").each(function() {
+        time = moment.unix($(this).attr("unix")).format($(this).attr("format"))
+        $(this).text(time.charAt(0).toUpperCase() + time.slice(1))
+      });
+    });
+  </script>
+
   <link href="/atom.xml" rel="alternate" title="Fake Control" type="application/atom+xml">
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
@@ -51,7 +63,7 @@
   
     <h2><a href="/">FC</a></h2>
   
-  <h1>Fake Control</h1>
+  <h1>Фейк-Контроль</h1>
 </hgroup>
 
 </header>
@@ -77,31 +89,48 @@
   <li><a href="https://vk.com/fakecontrol_org">VK</a></li>
 </ul>
 
+<div class="langs">
+  
+    <a href="/en/404.html">English</a>
+  
+</div>
+
 </nav>
   <div id="main">
     <div id="content">
       <div>
 <article role="article">
   
+  
   <header>
-  <h1 class="entry-title">Ой!</h1>
-  <p class="meta">что-то пошло не так&#8230;</p>
-</header>
+    <h1 class="entry-title">Ой!</h1>
+    <p class="meta">что-то пошло не так&#8230;</p>
+  </header>
 
-<p>
-  К сожалению страница, которую вы хотите открыть – не найдена. Она могла быть удалена, потеряться, и даже никогда не существовать. Можете попробовать найти ее с помощью поля
-  <script>
-    var arrURL = document.URL.split("/");
-    var arrParams = arrURL[3].split("?");
-    var searchParam = arrParams[0].substr(0, arrParams[0].lastIndexOf("."));
-    
-    document.write('<a href="http://google.com/search?q=site:fakecontrol.org ' + searchParam + '">поиск</a>')
-  </script>
-  <noscript><a href="http://google.com/search?q=site%3Afakecontrol.org">поиск</a></noscript>
-   (в правом верхнем углу страницы), просмотреть 
-  <a href="/blog/archives">архивы</a> или вернуться на
-  <a href="/">главную</a>.
-</p>
+  <p>
+    К сожалению страница, которую вы хотите открыть – не найдена. Она могла быть удалена, потеряться, и даже никогда не существовать. Можете попробовать найти ее с помощью поля
+    <script>
+      var arrURL = document.URL.split("/");
+      var arrParams = arrURL[3].split("?");
+      var searchParam = arrParams[0].substr(0, arrParams[0].lastIndexOf("."));
+
+      document.write('<a href="http://google.com/search?q=site:fakecontrol.org ' + searchParam + '">поиск</a>')
+    </script>
+    <noscript><a href="http://google.com/search?q=site%3Afakecontrol.org">поиск</a></noscript>
+    (в правом верхнем углу страницы), просмотреть
+    <a href="/blog/archives">архивы</a> или вернуться на
+    <a href="/">главную</a>.
+  </p>
+
+
+<script>
+  // Redirect to localized version
+  if (location.pathname.indexOf("404.html") == -1) {
+    if (location.pathname.indexOf("/en") == 0) {
+      location.href = "/en/404.html"
+    }
+  }
+</script>
 
   
 </article>
@@ -112,7 +141,7 @@
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2014 - Команда FakeControl.org -
+  &copy; 2014 - Команда Фейк-Контроль -
   <span class="credit"><a href="https://github.com/fakecontrol/fakecontrol.github.io">Github</a></span>
 </p>
 
@@ -122,6 +151,9 @@
 
 
 <script type="text/javascript">
+      var disqus_config = function () {
+        this.language = "ru";
+      };
       var disqus_shortname = 'fakecontrol';
       
         
