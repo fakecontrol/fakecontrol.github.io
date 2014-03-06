@@ -2,7 +2,7 @@
 // Add styles here to make changes without digging in too much
 
 @media only screen and (max-width: 600px) {
-  body>header,body>nav>ul {
+  body>header,body>nav>ul,body>nav>.langs {
     position: relative;
     top: 60px;
     left: 0;
@@ -11,15 +11,26 @@
 
   body>nav {
     form {
+      box-sizing: border-box;
       position: absolute;
       top: 0;
       left: 0;
-      width: 95%;
+      right: 0;
+      width: 100%;
+      padding-left: 18px;
+      padding-right: 18px;
+
+      fieldset {
+        width: 100%;
+        .search {
+          width: 95%;
+        }
+      }
     }
   }
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 410px) {
   body>header {
     h2 {
       margin-top: .52em;
@@ -38,4 +49,12 @@
 
 .fb-like, .vk-like {
   margin-top: 10px;
+}
+
+.langs {
+  position: absolute;
+  top: 50px;
+  right: 18px;
+  font-size: 80%;
+  float: right;
 }
