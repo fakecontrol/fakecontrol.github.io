@@ -44,8 +44,14 @@
   body>header,body>nav>ul {
     margin-bottom: 50px;
   }
-}
 
+  body>nav>.langs {
+    position: absolute;
+    left: auto;
+    right: 27px;
+    top: 16px;
+  }
+}
 
 .fb-like, .vk-like {
   margin-top: 10px;
