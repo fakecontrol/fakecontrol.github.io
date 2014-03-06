@@ -12,9 +12,9 @@
 </ul>
 
 <div class="langs">
-  {% if site.lang == "ru" %}
-    <a href="{{ site.baseurl_root }}/en{{ page.url | replace: "index.html", "" }}">English</a>
-  {% else if site.lang == "en" %}
+  {% if site.lang == "en" %}
     <a href="{{ site.baseurl_root }}{{ page.url | replace: "index.html", "" }}">Русский</a>
+  {% else %}
+    <a href="{{ site.baseurl_root }}/en{{ page.url | replace: "index.html", "" }}">English</a>
   {% endif %}
 </div>

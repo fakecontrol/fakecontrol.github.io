@@ -2,27 +2,7 @@
 layout: page
 ---
 
-{% if site.lang == "ru" %}
-  <header>
-    <h1 class="entry-title">Ой!</h1>
-    <p class="meta">что-то пошло не так...</p>
-  </header>
-
-  <p>
-    К сожалению страница, которую вы хотите открыть – не найдена. Она могла быть удалена, потеряться, и даже никогда не существовать. Можете попробовать найти ее с помощью поля
-    <script>
-      var arrURL = document.URL.split("/");
-      var arrParams = arrURL[3].split("?");
-      var searchParam = arrParams[0].substr(0, arrParams[0].lastIndexOf("."));
-
-      document.write('<a href="{{ site.simple_search }}?q=site:{{ site.url | shorthand_url }} ' + searchParam + '">поиск</a>')
-    </script>
-    <noscript><a href="{{ site.simple_search }}?q=site%3A{{ site.url | shorthand_url }}">поиск</a></noscript>
-    (в правом верхнем углу страницы), просмотреть
-    <a href="{{ base_url }}/blog/archives">архивы</a> или вернуться на
-    <a href="{{ base_url }}/">главную</a>.
-  </p>
-{% else if site.lang == "en" %}
+{% if site.lang == "en" %}
   <header>
     <h1 class="entry-title">Page not found</h1>
     <p class="meta">Sorry about that!</p>
@@ -43,14 +23,33 @@ layout: page
     <a href="{{ base_url }}/en/blog/archives">archives</a> or go to the
     <a href="{{ base_url }}/en/">frontpage</a>.
   </p>
+{% else %}
+  <header>
+    <h1 class="entry-title">Ой!</h1>
+    <p class="meta">что-то пошло не так...</p>
+  </header>
+
+  <p>
+    К сожалению страница, которую вы хотите открыть – не найдена. Она могла быть удалена, потеряться, и даже никогда не существовать. Можете попробовать найти ее с помощью поля
+    <script>
+      var arrURL = document.URL.split("/");
+      var arrParams = arrURL[3].split("?");
+      var searchParam = arrParams[0].substr(0, arrParams[0].lastIndexOf("."));
+
+      document.write('<a href="{{ site.simple_search }}?q=site:{{ site.url | shorthand_url }} ' + searchParam + '">поиск</a>')
+    </script>
+    <noscript><a href="{{ site.simple_search }}?q=site%3A{{ site.url | shorthand_url }}">поиск</a></noscript>
+    (в правом верхнем углу страницы), просмотреть
+    <a href="{{ base_url }}/blog/archives">архивы</a> или вернуться на
+    <a href="{{ base_url }}/">главную</a>.
+  </p>
 {% endif %}
 
 <script>
+  // Redirect to localized version
   if (location.pathname.indexOf("404.html") == -1) {
     if (location.pathname.indexOf("/en") == 0) {
       location.href = "/en/404.html"
-    } else {
-      location.href = "/404.html"
     }
   }
 </script>
