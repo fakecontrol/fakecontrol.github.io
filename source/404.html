@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<div class="localized ru" style="display: none;">
+{% if site.lang == "ru" %}
   <header>
     <h1 class="entry-title">Ой!</h1>
     <p class="meta">что-то пошло не так...</p>
@@ -22,9 +22,7 @@ layout: page
     <a href="{{ base_url }}/blog/archives">архивы</a> или вернуться на
     <a href="{{ base_url }}/">главную</a>.
   </p>
-</div>
-
-<div class="localized en" style="display: none;">
+{% else if site.lang == "en" %}
   <header>
     <h1 class="entry-title">Page not found</h1>
     <p class="meta">Sorry about that!</p>
@@ -45,12 +43,14 @@ layout: page
     <a href="{{ base_url }}/en/blog/archives">archives</a> or go to the
     <a href="{{ base_url }}/en/">frontpage</a>.
   </p>
-</div>
+{% endif %}
 
 <script>
-  if (location.pathname.indexOf("/en") == 0) {
-    $(".localized.en").show();
-  } else {
-    $(".localized.ru").show();
+  if (location.pathname.indexOf("404.html") == -1) {
+    if (location.pathname.indexOf("/en") == 0) {
+      location.href = "/en/404.html"
+    } else {
+      location.href = "/404.html"
+    }
   }
 </script>
