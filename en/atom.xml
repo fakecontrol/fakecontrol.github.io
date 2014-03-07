@@ -4,7 +4,7 @@
   <title><![CDATA[Fake Control]]></title>
   <link href="http://fakecontrol.org/en/atom.xml" rel="self"/>
   <link href="http://fakecontrol.org/en/"/>
-  <updated>2014-03-07T01:17:30+00:00</updated>
+  <updated>2014-03-06T17:40:13-08:00</updated>
   <id>http://fakecontrol.org/</id>
   <author>
     <name><![CDATA[Fake Control Team]]></name>
@@ -14,9 +14,56 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Second passport]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/03/second-passport/"/>
+    <updated>2014-03-03T08:18:12-08:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/03/second-passport</id>
+    <content type="html"><![CDATA[<p>We came across the news on the &ldquo;Russia Today&rdquo; channel. This that covers more than 644 million people in more than 100 countries, according to <a href="http://rt.com/about-us/">their own information</a>. The news is: <a href="http://russian.rt.com/article/23484">&ldquo;The Verkhovna Rada will introduce criminal liability for dual citizenship&rdquo;</a>.&ldquo;Verkhovna Rada&rdquo; is the name of <a href="http://en.wikipedia.org/wiki/Verkhovna_Rada">Ukrainian parliament</a></p>
+
+<p>Dear 644 million of people in more than 100 countries! Unfortunately, we have to inform you that you have been deceived. We will not reflect over the reasons, instead we will just demonstrate why this information is false.</p>
+
+<p>Here is what Russia Today saying:</p>
+
+<blockquote><p>The Verkhovna Rada will consider a draft bill regarding criminal liability for dual citizenship after the situation in the country has been stabilised. This law (which provides for a prison sentence of 10 years for dual citizenship) has already been introduced into the Rada.</p></blockquote>
+
+<p>Let’s navigate to <a href="http://rada.gov.ua">Verkhovna Rada official website</a> and find <a href="http://w1.c1.rada.gov.ua/pls/zweb2/webproc4_1?pf3511=49734">the corresponding bill draft</a>. Immediately we see the title:</p>
+
+<blockquote><p>Draft of Law on Amendments to the Criminal Code of Ukraine regarding liability for <strong>failure to inform</strong> about obtaining a foreign citizenship by a citizen of Ukraine.</p></blockquote>
+
+<p>&ldquo;Having dual citizenship&rdquo; vs &ldquo;failure to inform about having dual citizenship&rdquo;. Minor omission, you say?</p>
+
+<p>We could finish our investigation here, but it&rsquo;s way more interesting to dig deeper. So let&rsquo;s open the <a href="http://w1.c1.rada.gov.ua/pls/zweb2/webproc34?id=&amp;pf3511=49734&amp;pf35401=290953">bill draft</a> and take a closer look at its regulations.</p>
+
+<p>Hold on for a second. Let&rsquo;s take a look at original news again.</p>
+
+<blockquote><p>According to the draft introduced into Ukraine&rsquo;s parliament, Ukrainian citizens who receive Russian passports will be fined and sentenced to 3-10 years of prison.</p></blockquote>
+
+<p>And now let&rsquo;s look at the actual draft.</p>
+
+<blockquote><p>Non-submitting or a belated submitting of an application informing about a voluntary acquiring of a foreign citizenship by a Ukrainian citizen of a legal age and of a copy of the document proving his/her acquiring of a foreign citizenship to an authorized body of central executive power is penalized by a fine of 100 minimum taxable incomes of citizens.</p></blockquote>
+
+<p>Let&rsquo;s pause here for a second and check current definition of non-taxable minimum income. According to point 5 of chapter 10 of transitional provisions of Ukrainian Tax Code, a non-taxable minimum income is 1700 UAH. It is a little bit less than 170 USD or 6100 RUR.</p>
+
+<p>Let&rsquo;s take a look at the bottom limit of a penal responsibility – 3 years. From the bill draft:</p>
+
+<blockquote><p>The same actions committed by a citizen of Ukraine who <strong>used his/her right to vote</strong> in Ukraine are punishable by imprisonment for a term of 3 to 5 years.</p></blockquote>
+
+<p>And now let&rsquo;s confirm an upper limit &ndash; 10 years. From the bill draft:</p>
+
+<blockquote><p>The same actions, if committed by a citizen of Ukraine who has <strong>access to state secrets</strong>, are punishable by imprisonment for a term of 7 to 10 years.</p></blockquote>
+
+<p>As usual, we won&rsquo;t draw any conclusions. But we note that the Russian Embassy in Ireland is located at a most interesting address: 184-186 Orwell Road, Rathgar, Dublin 14.</p>
+
+<p>And let’s quote this undoubtedly great dystopian.</p>
+
+<blockquote><p>War is peace, freedom is slavery, ignorance is strength.</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Amazing geography of First channel (Russia)]]></title>
     <link href="http://fakecontrol.org/en/blog/2014/03/02/first_channel_geography/"/>
-    <updated>2014-03-02T10:06:58+00:00</updated>
+    <updated>2014-03-02T02:06:58-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/03/02/first_channel_geography</id>
     <content type="html"><![CDATA[<p>Every day brings new reasons to wonder . Today we were absolutely surprised with unique understanding of geography by the &ldquo;Pervyy kanal&rdquo; tv channel in Russia.</p>
 
@@ -39,7 +86,7 @@
   <entry>
     <title type="html"><![CDATA[About Portraits on Kyiv City State Administration]]></title>
     <link href="http://fakecontrol.org/en/blog/2014/02/25/no-hitler/"/>
-    <updated>2014-02-25T17:32:11+00:00</updated>
+    <updated>2014-02-25T09:32:11-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/02/25/no-hitler</id>
     <content type="html"><![CDATA[<p>Today we found a picture that shows one of the most famous Hitler portraits hanging over the entrance to Kyiv City State Administration (KCSA). One could laugh, but it is being extended to the Russian trash websites, weird blogs, local European news sources and social networks rather quickly.</p>
 
@@ -56,7 +103,7 @@
   <entry>
     <title type="html"><![CDATA[About Red Cross]]></title>
     <link href="http://fakecontrol.org/en/blog/2014/02/23/red-cross/"/>
-    <updated>2014-02-23T21:27:07+00:00</updated>
+    <updated>2014-02-23T13:27:07-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/02/23/red-cross</id>
     <content type="html"><![CDATA[<p>Olha Bohomolets in her post <a href="https://www.facebook.com/olgabogomolets/posts/585812244842541">said</a> that the Ukrainian Red Cross Society refused to accept help from the Canadian Red Cross. This information was reposted by <a href="http://www.radiosvoboda.org/content/article/25270523.html">Radio Svoboda</a> and <a href="http://argumentua.com/novosti/ocherednaya-dikost-ukrainskii-krasnyi-krest-otkazalsya-peredat-pomoshch-iz-kanady">Argument</a>) on their pages. But there is an official verification that this information is false!</p>
 
@@ -71,7 +118,7 @@ Fakecontrol Team</p>
   <entry>
     <title type="html"><![CDATA[Rybak Was Not Attacked]]></title>
     <link href="http://fakecontrol.org/en/blog/2014/02/23/rybak/"/>
-    <updated>2014-02-23T15:27:43+00:00</updated>
+    <updated>2014-02-23T07:27:43-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/02/23/rybak</id>
     <content type="html"><![CDATA[<p>I believe everyone has read/heard the <a href="http://www.president.gov.ua/ru/news/30127.html">President&rsquo;s statement</a>.</p>
 
@@ -88,7 +135,7 @@ Fakecontrol Team</p>
   <entry>
     <title type="html"><![CDATA[Andrey Vadzhra's Reliable Sources]]></title>
     <link href="http://fakecontrol.org/en/blog/2014/02/21/vadjra/"/>
-    <updated>2014-02-21T14:40:14+00:00</updated>
+    <updated>2014-02-21T06:40:14-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/02/21/vadjra</id>
     <content type="html"><![CDATA[<p>&ldquo;Reliable sources also say that Lubka doesn&rsquo;t say hello, so she must be a slut, and that boyfriend of hers is a junkie!&#8221;These days we&rsquo;ve heard quite a lot about Volodymyr Matvienko&rsquo;s decision to leave the Party of Regions. It is rumoured that he was forced to do so because his child has been kidnapped.</p>
 
@@ -114,7 +161,7 @@ Fakecontrol Team</p>
   <entry>
     <title type="html"><![CDATA[Russian TV]]></title>
     <link href="http://fakecontrol.org/en/blog/2014/02/20/vesti/"/>
-    <updated>2014-02-20T16:42:11+00:00</updated>
+    <updated>2014-02-20T08:42:11-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/02/20/vesti</id>
     <content type="html"><![CDATA[<p>Once again, Russian TV channels distinguished themselves though their coverage of the events in Ukraine. Journalists from Vesti.ru on channel “Russia24” quite accidentally forgot to show the most important and interesting part of <a href="http://www.vesti.ru/only_video.html?vid=578577">the segment</a>.</p>
 
