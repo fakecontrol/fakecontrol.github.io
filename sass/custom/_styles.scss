@@ -64,3 +64,12 @@
   font-size: 80%;
   float: right;
 }
+
+.entry-content {
+  hr {
+    margin: 0 0 1.3em 0;
+    height: 2px;
+    background: #e6e6e6;
+    border: 0;
+  }
+}
