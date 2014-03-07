@@ -27,9 +27,9 @@ Hold on for a second. Let's take a look at original news again.
 
 And now let's look at the actual draft.
 
-> Non-submitting or a belated submitting of an application informing about a voluntary acquiring of a foreign citizenship by a Ukrainian citizen of a legal age and of a copy of the document proving his/her acquiring of a foreign citizenship to an authorized body of central executive power is penalized by a fine of 100 minimum taxable incomes of citizens.
+> Non-submitting or a belated submitting of an application informing about a voluntary acquiring of a foreign citizenship by a Ukrainian citizen of a legal age and of a copy of the document proving his/her acquiring of a foreign citizenship to an authorized body of central executive power is penalized by a fine of 100 minimum non-taxable incomes of citizens.
 
-Let's pause here for a second and check current definition of non-taxable minimum income. According to point 5 of chapter 10 of transitional provisions of Ukrainian Tax Code, a non-taxable minimum income is 1700 UAH. It is a little bit less than 170 USD or 6100 RUR.
+Let's pause here for a second and check current definition of non-taxable minimum income. According to point 5 of chapter 10 of transitional provisions of Ukrainian Tax Code, a non-taxable minimum income is 17 UAH, 100 * 17 = 1700 UAH, a little bit less than 170 USD or 6100 RUR.
 
 Let's take a look at the bottom limit of a penal responsibility – 3 years. From the bill draft:
 
