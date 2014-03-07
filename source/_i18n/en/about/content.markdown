@@ -6,7 +6,7 @@ Just like volunteers clean up streets of their cities, Fakecontrol team cleans u
 
 We are trying to respond to your requests and letters as fast as we can and we would really appreciate your help — the more, the merrier.
 
-Whether you want to share some news with us or just pat Fakecontrol team on the back, you can [email us]](mailto:team@fakecontrol.org) or [send us](http://twitter.com/fakecontrol_org) a tweet. 
+Whether you want to share some news with us or just pat Fakecontrol team on the back, you can [email us](mailto:team@fakecontrol.org) or [send us](http://twitter.com/fakecontrol_org) a tweet. 
 
 Fakecontrol team.
 [Мы говорим по-русски!](http://fakecontrol.org)
