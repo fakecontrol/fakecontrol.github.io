@@ -1,8 +1,12 @@
-Knowledge can change minds — that's what we've been learning for the last three months. High quality information that's been checked and then checked some more can really help to make objective and accountable decisions. That's why our team created this project and started to clean up the media space and find out what is true and what is fake, mainupulative or is a total canard. 
+Fakecontrol is an independent civil project. We have no investors or funding and are neither media journalists nor media persons of any kind.
 
-Unfortunately, we cannot check every article but we do hope that with your help, we will manage to keep the proccess fast and effective.
+We work with hundreds of requests and messages on a daily basis and inspect every piece of information from every angle. We try to cover every article, whether it is main international news or local rumours.
 
+Just like volunteers clean up streets of their cities, Fakecontrol team cleans up the Internet from fakes, canards and unchecked information.
 
-You can write us an [email](mailto:team@fakecontrol.org) or [tweet us](http://twitter.com/fakecontrol_org) an interesting link to investigate.
+We are trying to respond to your requests and letters as fast as we can and we would really appreciate your help — the more, the merrier.
 
-Respect in every aspect, Fakecontrol team.
+Whether you want to share some news with us or just pat Fakecontrol team on the back, you can [email us]](mailto:team@fakecontrol.org) or [send us](http://twitter.com/fakecontrol_org) a tweet. 
+
+Fakecontrol team.
+[Мы говорим по-русски!](http://fakecontrol.org)
