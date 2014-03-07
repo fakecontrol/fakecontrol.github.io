@@ -4,7 +4,7 @@ title: About the IMF Requirements
 date: 2014-03-04 22:15:02 +0200
 comments: true
 categories: fake
-published: false
+published: true
 ---
 Let's briefly explain the "10 IMF Requirements", the acceptance of which is now considered to be [Yatsenyuk's fault](https://www.facebook.com/kostiantyn.stogniy/posts/657506810962958?stream_ref=5).
 
