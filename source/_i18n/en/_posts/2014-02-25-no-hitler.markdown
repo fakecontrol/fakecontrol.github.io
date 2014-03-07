@@ -1,0 +1,17 @@
+---
+layout: post
+title: О портретах на здании КМДА
+date: 2014-02-25 19:32:11 +0200
+comments: true
+categories: fake
+---
+
+Today we found a picture that shows one of the most famous Hitler portraits hanging over the entrance to Kyiv Municipal State Administration. One could laugh, but it is being extended to the Russian trash websites, weird blogs, local European news sources and social networks rather quickly.
+
+If you open the image in Adobe Photoshop and apply Rainbow Curve on top, you can see that the portrait density is different from the rest of the picture. But if you look for the original image, it's not even necessary.
+
+![Imgur](http://i.imgur.com/cETYhBi.jpg)Sources: [original picture](http://static.uainfo.org/uploads/posts/2014-01/1389709684_1545886_10200332965485265_2019894297_n.jpg), Google [search results](https://www.google.co.uk/search?client=safari&sa=X&rls=en&q=adolf+hitler&tbm=isch&tbs=simg%3ACAQSYxphCxCo1NgEGgAMCxCwjKcIGjwKOggBEhSqBbYEqwW-BOMErwWuBbAFwQSpBRogwHpodBeHh6Z0XwbkVVvGFoRQZneXyZal915vzEiWiMwMCxCOrv4IGgoKCAgBEgTyI5Y_1DA&ei=9I4MU9qBFuLo7AaF2oGoDw&ved=0CCcQ2A4oAQ&biw=1437&bih=780) for fake image.
+
+Original can be found by request "[КМДА плакат](https://www.google.co.uk/search?client=safari&rls=en&q=%D0%9A%D0%9C%D0%94%D0%90+%D0%BF%D0%BB%D0%B0%D0%BA%D0%B0%D1%82&ie=UTF-8&oe=UTF-8&gws_rd=cr&ei=PawMU-jADujy7Aaum4GwCw)" (KSCA poster) with the reference to the news story from January, 14th: Bandera's portrait that hanged there for several hours [was replaced](http://tsn.ua/kyiv/baner-z-banderoyu-na-kmda-zaminili-na-portret-shevchenka-329493.html) with the portrait of Taras Shevchenko.
+
+Instead of conclusions, here's the [link](https://fb.me/fakecontrol.org) to our Facebook page.
