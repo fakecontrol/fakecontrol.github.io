@@ -5,7 +5,7 @@ date: 2014-03-03 18:18:12 +0200
 comments: true
 categories: 
 ---
-We came across the news on the "Russia Today" channel. This that covers more than 644 million people in more than 100 countries, according to [their own information](http://rt.com/about-us/). The news is: ["The Verkhovna Rada will introduce criminal liability for dual citizenship"](http://russian.rt.com/article/23484)."Verkhovna Rada" is the name of [Ukrainian parliament](http://en.wikipedia.org/wiki/Verkhovna_Rada)
+We came across the news on the "Russia Today" channel, a channel that covers more than 644 million people in more than 100 countries, according to [their own information](http://rt.com/about-us/). The news is: ["The Verkhovna Rada will introduce criminal liability for dual citizenship"](http://russian.rt.com/article/23484)."Verkhovna Rada" is the name of [Ukrainian parliament](http://en.wikipedia.org/wiki/Verkhovna_Rada)
 
 Dear 644 million of people in more than 100 countries! Unfortunately, we have to inform you that you have been deceived. We will not reflect over the reasons, instead we will just demonstrate why this information is false.
 
