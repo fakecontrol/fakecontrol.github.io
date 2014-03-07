@@ -1,24 +1,20 @@
 ---
 layout: post
-title: "Авианосец, который не смог."
+title: USS that couldn't make it
 date: 2014-03-04 18:06:19 +0200
 comments: true
 categories: fake
-published: false
 ---
-Возможно вы слышали что авианосец США USS George H.W. Bush направили в сторону Украины, возможно вы даже прочитали об этом у [ICTV вот тут](http://fakty.ictv.ua/ru/index/read-news/id/1506591)
+You may have heard that the U.S. aircraft carrier USS George H. W. Bush was deployed in the direction of Ukraine, you may have even read about it on ICTV's website [here](http://fakty.ictv.ua/ru/index/read-news/id/1506591):
 
-> **США отправили по направлению к Черному морю авианосец USS George H.W. Bush из-за вторжения российской армии в Крым.**
+> **Due to the Russian invasion of the Crimea, the US have sent USS George H. W. Bush in the direction of the Black Sea.**
 >
-> "В ответ на российское вторжение США отправили ударную группу на авианосце в направлении Черного моря, чтобы иметь возможность реагировать на развитие событий на Крымском полуострове в Украине", - сообщают [Украинские новости](http://un.ua/ukr/) со ссылкой на сайт [Turner Radio Network RSS Feed](http://www.turnerradionetwork.com/news/340-pat).
->
-> Джерело: [fakty.ictv.ua](http://fakty.ictv.ua)
+> "In response to a Russian invasion, the United States has sent an aircraft carrier strike group toward the Black Sea to be able to respond to developments on the Crimean peninsula of Ukraine" reports "Ukrainian News", citing the Turner Radio Network RSS Feed as the source.
 
-А мы тут прочитали на <a href="http://www.public.navy.mil/airfor/cvn77/Pages/USS%20GEORGE%20H.W.%20BUSH%20(CVN%2077).aspx">официальном сайте</a> этого самого авианосца, что у них есть официальная страница [на Facebook](http://www.facebook.com/USSGeorgeHWBush).
+We read on the aircraft carrier's <a href="http://www.public.navy.mil/airfor/cvn77/Pages/USS%20GEORGE%20H.W.%20BUSH%20(CVN%2077).aspx">official website</a> that the carrier also has an [official Facebook page](http://www.facebook.com/USSGeorgeHWBush).
 
-Сначала мы не без труда побороли истерику по поводу экипажа авианосца, который ведет официальную страницу на Facebook. После этого мы прочитали там, что авианосец [сегодня прибыл в Грецию](https://www.facebook.com/notes/uss-george-hw-bush-cvn-77/uss-george-hw-bush-arrives-in-greece/666275313432490).
+After overcoming a fit of laughter at the idea of an aircraft carriers' crew running an official Facebook page, we read on the page that the ship actually [arrived today in Greece](https://www.facebook.com/notes/uss-george-hw-bush-cvn-77/uss-george-hw-bush-arrives-in-greece/666275313432490).
 
-Привет ICTV и Украинским новостям;)
+We send our kind regards to ICTV and the "Ukrainian News" ;)
 
-А вообще, согласно [Конвенции Монтрё о статусе проливов](http://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_%D0%9C%D0%BE%D0%BD%D1%82%D1%80%D1%91_%D0%BE_%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81%D0%B5_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2%D0%BE%D0%B2) этот авианосец сможет войти в воды Чёрного моря ТОЛЬКО в случае вхождения Турции в войну или в случае военной угрозы для Турции.
-Если кому-то интересно ознакомиться с полным текстом Конвенции Монтрё о статусе проливов на русском или украинском  языке –  [читайте здесь](http://zakon1.rada.gov.ua/laws/show/995_228/print1308136931080180)
+By the way, the [Montreux Convention Regarding the Regime of the Straits](http://en.wikipedia.org/wiki/Montreux_Convention_Regarding_the_Regime_of_the_Straits) states that this ship may enter into the Black Sea ONLY when Turkey is at war or if Turkey is under a threat of war. Complete text of Montreux Convention could be read [here](http://en.wikisource.org/wiki/Montreux_Convention).
