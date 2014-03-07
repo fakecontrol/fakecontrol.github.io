@@ -1,24 +1,19 @@
 ---
 layout: post
-title: О «требованиях» МВФ
+title: About the IMF Requirements
 date: 2014-03-04 22:15:02 +0200
 comments: true
-categories: 
+categories: fake
 published: false
 ---
-Быстро объясняем «10 требований МВФ», которые [сегодня повесили](https://www.facebook.com/kostiantyn.stogniy/posts/657506810962958?stream_ref=5) уже и на Яценюка. 
+Let's briefly explain the "10 IMF Requirements", the acceptance of which is now considered to be [Yatsenyuk's fault](https://www.facebook.com/kostiantyn.stogniy/posts/657506810962958?stream_ref=5).
 
-Этот текст существует в виде сенсационной новости уже три года. [Украинские новости](http://ukranews.com/ru/news/economics/2010/12/07/32810) перепечатали «анализ hvylya.org» 7 декабря 2010. [Хвиля](http://hvylya.org/news/digest/wikileaks-15.html) 8 декабря писали об этом в дайджесте, ссылаясь на себя и BBC Украина, но при попытке пройти по ссылкам, можно легко убедиться, что страницы не существуют.
+This piece of "breaking news" is a bit outdated – it appeared about three years ago. [The Ukrainian News](http://ukranews.com/ru/news/economics/2010/12/07/32810) just used an existing analytical article from Hvylya.org dated December 7, 2010. On December 8 a corresponding post [appeared in the Hvylya.org digest](http://hvylya.org/news/digest/wikileaks-15.html), but if you try to follow the links, you'll find out that the pages do not exist.
 
-Мы нашли документ в Wikileaks. Во-первых, это не «обязательные требования», это [предложение](https://www.wikileaks.org/plusd/cables/10KYIV278_a.html) Пинзенныка (фамилия которого открыто указывается) о требуемой _по его мнению_ реформе, в рамках дипломатической переписки.
+We've found the document on Wikileaks. First of all, they are not "obligatory requirements", but just [reform proposals](https://www.wikileaks.org/plusd/cables/10KYIV278_a.html), given by Mr. Pynzenyk, whose name is openly mentioned there, in diplomatic correspondence,
 
-Дата — 23 февраля 2010. Напомним краткую историю взаимоотношений Украины и МВФ того периода: МВФ выдавал кредит на $16.4 млрд в ноябре 2008 правительству Юлии Тимошенко. Через год фонд заморозил его, отменил и [заменил другим](http://www.imf.org/external/pubs/ft/survey/so/2010/car081110a.htm) — $15.2 млрд в июле 2010 для правительства Януковича. Второй транш этого кредита на 1,5 млрд долл. совет директоров МВФ выделил Киеву в декабре, и после этого, из-за отсутствия прогресса в выполнении условий программы, кредитование было приостановлено. Правительству Яценюка ещё [придётся доказывать](http://www.bloomberg.com/news/2014-02-28/imf-history-with-reneging-ukrainian-leaders-may-cloud-fresh-aid.html) серьёзность намерений и методов.
+The document is dated February 23, 2010. Let us remind you, how Ukraine cooperated with IMF in that period: in November 2008 the government of Yulia Tymoshenko received an IMF credit in the amount of USD 16.4 billion. In a year the Fund decided to freeze and cancel the credit, but instead of it [another credit](http://www.imf.org/external/pubs/ft/survey/so/2010/car081110a.htm) was given – USD 15.2 billion for the government under the President Yanukovych in July 2010. The second tranche of this credit in the amount of USD 1.5 billion was provided by the IMF Executive Board to Kyiv in December. But then the crediting was suspended, as the program requirements were not being fulfilled with due progress. The government of Yatsenyuk [will have to prove](http://www.bloomberg.com/news/2014-02-28/imf-history-with-reneging-ukrainian-leaders-may-cloud-fresh-aid.html) the earnestness of their declarations and methods first.
 
-С подробным дайджестом истории можно ознакомиться [в материале УНИАН](http://economics.unian.net/other/854861-hronologiya-otnosheniy-ukrainyi-s-mvf.html). Таким образом, письмо Пинзенныка относится к периоду, когда кредит 2008 года уже был заморожен, а переговоры по 2010 ещё не были оформлены. 
-19 декабря 2013 этот текст всплыл [здесь](http://blog.polemika.com.ua/blog/trebovaniy-mvf-ukraine-polnyy-spisok-jlya.html) и быстро распространился по информационному полю. Его перепечатывают слово в слово с 2010 года.
+Please see detailed chronology in the following [UNIAN article](http://economics.unian.net/other/854861-hronologiya-otnosheniy-ukrainyi-s-mvf.html). So Pynzenyk's letter was written in the period, when the 2008 credit was already suspended, and the 2010 credit was not being negotiated yet. On December 2013 this text [appeared here](http://blog.polemika.com.ua/blog/trebovaniy-mvf-ukraine-polnyy-spisok-jlya.html), and was readily republished by media. It is a 1:1 reprint of the letter dated 2010.
 
-Новые требования ещё не сформулированы, а эти не могут быть категорично объявлены «МВФ. Обязательно к исполнению». Выводы ваши.
-
-
-
-
+New IMF requirements haven't been formulated yet, and the existing ones can not be considered obligatory. Make your own conclusions.
