@@ -16,12 +16,6 @@
   {% endif %}
 {% endstrip %}{% endcapture %}
 
-{% capture share_title %}{% strip %}
-  {% if post != nil %}
-    {{ post.title }}
-  {% else %}
-    {{ page.title }}
-  {% endif %}
-{% endstrip %}{% endcapture %}
+{% capture share_title %}{% if post != nil %}{{ post.title }}{% else %}{{ page.title }}{% endif %}{% endcapture %}
 
 <div class="share42init" data-url="{{ share_url }}" data-title="{{ share_title }}"></div>
