@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Авианосец, который не смог."
+title: Авианосец, который не смог
 date: 2014-03-04 18:06:19 +0200
 comments: true
 categories: fake
