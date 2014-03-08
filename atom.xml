@@ -4,7 +4,7 @@
   <title><![CDATA[Фейк-Контроль]]></title>
   <link href="http://fakecontrol.org/atom.xml" rel="self"/>
   <link href="http://fakecontrol.org/"/>
-  <updated>2014-03-08T05:14:18+02:00</updated>
+  <updated>2014-03-07T19:24:55-08:00</updated>
   <id>http://fakecontrol.org/</id>
   <author>
     <name><![CDATA[Команда Фейк-Контроль]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[ТАСС уполномочен заявить, или снова о языковом вопросе]]></title>
     <link href="http://fakecontrol.org/blog/2014/03/08/tass-upolnomochien-zaiavit/"/>
-    <updated>2014-03-08T10:00:00+02:00</updated>
+    <updated>2014-03-08T00:00:00-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/03/08/tass-upolnomochien-zaiavit</id>
     <content type="html"><![CDATA[<p>Мы бы и хотели отказаться от тонкой темы языкового вопроса, но наши любимые СМИ не дают нам этого сделать. На этот раз тревогу забил читатель, прислав нам совершенно невероятную <a href="http://itar-tass.com/mezhdunarodnaya-panorama/1029332">новость</a> о том, что администрация и.о. Президента Украины Турчинова предписала удалить русскоязычные версии официальных сайтов органов госвласти. Мы, пожалуй, разберем эту новость полностью.</p>
 
@@ -56,13 +56,22 @@
 <p>ИТАР-ТАСС, вам не стыдно?</p>
 
 <p>P.S. Тому, кто найдет для перечисленных ресурсов их версии на русском языке &ndash; мы подарим красивую картинку мопса!</p>
+
+<p><strong>Update</strong>: &ldquo;Новости&rdquo; ИТАР-ТАСС, похоже, подхватили уже все, кому не лень, включая Эхо Москвы, Коммерсантъ и RT:</p>
+
+<ul>
+<li><a href="http://www.echo.msk.ru/news/1274556-echo.html">http://www.echo.msk.ru/news/1274556-echo.html</a></li>
+<li><a href="http://www.kommersant.ru/doc/2425851">http://www.kommersant.ru/doc/2425851</a></li>
+<li><a href="http://russian.rt.com/article/23878">http://russian.rt.com/article/23878</a></li>
+</ul>
+
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Чем мы занимались всю неделю?]]></title>
     <link href="http://fakecontrol.org/blog/2014/03/07/digest/"/>
-    <updated>2014-03-07T15:57:42+02:00</updated>
+    <updated>2014-03-07T05:57:42-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/03/07/digest</id>
     <content type="html"><![CDATA[<p>Скорее всего, вы всю недели работали на благо своей страны, не сидели в соцсеточках и пропустили большую часть новостей, как правдивых, так и фейковых. Мы же, в отличие от вас, этими самыми новостями всю неделю занимались — и составили для вас дайджест по самым громким, неправильным и фейковым.</p>
 
@@ -98,7 +107,7 @@ NB: пожалуй, впервые в истории интернета комм
   <entry>
     <title type="html"><![CDATA[Про госдеп и МИД России]]></title>
     <link href="http://fakecontrol.org/blog/2014/03/07/embassy/"/>
-    <updated>2014-03-07T15:53:35+02:00</updated>
+    <updated>2014-03-07T05:53:35-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/03/07/embassy</id>
     <content type="html"><![CDATA[<p>Государственный департамент США <a href="http://russian.moscow.usembassy.gov/factsheet-ukraine-03062014.html">опубликовал</a> факт-лист, опровергающий некоторые утверждения Путина о ситуации в Украине.</p>
 
@@ -163,7 +172,7 @@ NB: пожалуй, впервые в истории интернета комм
   <entry>
     <title type="html"><![CDATA[Об «отмене» кириллицы]]></title>
     <link href="http://fakecontrol.org/blog/2014/03/06/cyrillic-cancellation/"/>
-    <updated>2014-03-06T15:10:27+02:00</updated>
+    <updated>2014-03-06T05:10:27-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/03/06/cyrillic-cancellation</id>
     <content type="html"><![CDATA[<p>Давайте разберемся, что к чему в <a href="http://ria.ru/world/20140305/998301560.html">новости о возможной отмене кириллицы на территории Украины</a> от РИА Новости.</p>
 
@@ -188,7 +197,7 @@ NB: пожалуй, впервые в истории интернета комм
   <entry>
     <title type="html"><![CDATA[О «требованиях» МВФ]]></title>
     <link href="http://fakecontrol.org/blog/2014/03/04/IMF-debunk/"/>
-    <updated>2014-03-04T22:15:02+02:00</updated>
+    <updated>2014-03-04T12:15:02-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/03/04/IMF-debunk</id>
     <content type="html"><![CDATA[<p>Быстро объясняем «10 требований МВФ», которые <a href="https://www.facebook.com/kostiantyn.stogniy/posts/657506810962958?stream_ref=5">сегодня повесили</a> уже и на Яценюка.</p>
 
@@ -207,7 +216,7 @@ NB: пожалуй, впервые в истории интернета комм
   <entry>
     <title type="html"><![CDATA[Авианосец, который не смог.]]></title>
     <link href="http://fakecontrol.org/blog/2014/03/04/george-bush/"/>
-    <updated>2014-03-04T18:06:19+02:00</updated>
+    <updated>2014-03-04T08:06:19-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/03/04/george-bush</id>
     <content type="html"><![CDATA[<p>Возможно вы слышали что авианосец США USS George H.W. Bush направили в сторону Украины, возможно вы даже прочитали об этом у <a href="http://fakty.ictv.ua/ru/index/read-news/id/1506591">ICTV вот тут</a></p>
 
@@ -229,7 +238,7 @@ NB: пожалуй, впервые в истории интернета комм
   <entry>
     <title type="html"><![CDATA[2 Girls 1 Fake?]]></title>
     <link href="http://fakecontrol.org/blog/2014/03/03/2-girls-1-fake/"/>
-    <updated>2014-03-03T21:21:39+02:00</updated>
+    <updated>2014-03-03T11:21:39-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/03/03/2-girls-1-fake</id>
     <content type="html"><![CDATA[<p>Бомбой сегодняшнего вечера стало сопоставление двух довольно токсичных видео: <a href="https://www.youtube.com/watch?v=Onui6ivzf4o&amp;feature=youtu.be&amp;t=4m">1 марта из Харькова</a> (смотреть с 04:00) и <a href="https://www.youtube.com/watch?v=-OaeZ_mxG4g&amp;feature=player_embedded">3 марта из Севастополя</a>. Главные героини — пара женщин конкретной риторики, только в одном случае они рассказывают о беспределе в Харькове, а в другом — о зверствах бандеровцев от лица одесситов.</p>
 
@@ -249,7 +258,7 @@ NB: пожалуй, впервые в истории интернета комм
   <entry>
     <title type="html"><![CDATA[Второй паспорт, третий срок]]></title>
     <link href="http://fakecontrol.org/blog/2014/03/03/vtoroi-pasport/"/>
-    <updated>2014-03-03T18:18:12+02:00</updated>
+    <updated>2014-03-03T08:18:12-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/03/03/vtoroi-pasport</id>
     <content type="html"><![CDATA[<p>Нам на глаза попалась новость от канала <em>&ldquo;Russia Today&rdquo;</em> с охватом более чем 644 миллиона человек в более чем 100 странах (<a href="http://rt.com/about-us/">по информации самого канала</a>). Эта новость о том, что <a href="http://russian.rt.com/article/23484">&ldquo;Верховная рада введёт уголовную ответственность за двойное гражданство&rdquo;</a>.</p>
 
@@ -302,7 +311,7 @@ NB: пожалуй, впервые в истории интернета комм
   <entry>
     <title type="html"><![CDATA[«Крик о помощи» из общежитий Беркута — фейк]]></title>
     <link href="http://fakecontrol.org/blog/2014/03/02/vberkut-fake/"/>
-    <updated>2014-03-02T21:33:39+02:00</updated>
+    <updated>2014-03-02T11:33:39-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/03/02/vberkut-fake</id>
     <content type="html"><![CDATA[<p>На наш взгляд, хуже дезинформации может быть только дезинформация и спекуляция на событиях одновременно. Мошенники не пропускают и текущие события. Сейчас в различных источниках интернета вы можете встретить примерно такой пост:</p>
 
@@ -324,7 +333,7 @@ NB: пожалуй, впервые в истории интернета комм
   <entry>
     <title type="html"><![CDATA[Большой анонимный фейк]]></title>
     <link href="http://fakecontrol.org/blog/2014/03/02/anon-fake/"/>
-    <updated>2014-03-02T13:48:10+02:00</updated>
+    <updated>2014-03-02T03:48:10-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/03/02/anon-fake</id>
     <content type="html"><![CDATA[<p>29 января появилась «новость» о том, что Anonymous взломали почту активистов Майдана, к которой прилагалось якобы письмо Андрея Тарасенко (<a href="http://www.depo.ua/ru/vlast-deneg/2014_arhiv-nomerov-vd/janvar_vd2014/45-412/117656.htm">активист Правого Сектора</a>) Аслану (предполагается <a href="http://krymtatar.in.ua/aslan-omer-kyrymly/">Аслан Омер Кырымлы</a>, не последний человек в АР Крым).</p>
 
@@ -340,7 +349,7 @@ NB: пожалуй, впервые в истории интернета комм
 </ul>
 
 
-<p>В частном порядке, работник одной из почтовых систем, через которые проходило это письмо, сообщил, что среди получателей сообщения с message-id=<a href="&#x6d;&#x61;&#x69;&#108;&#x74;&#x6f;&#58;&#110;&#x30;&#51;&#108;&#119;&#118;&#x2e;&#x74;&#x6b;&#x33;&#115;&#x61;&#x7a;&#x40;&#110;&#101;&#119;&#x6d;&#97;&#105;&#108;&#46;&#x69;&#x6e;&#x65;&#x74;&#46;&#x75;&#97;">&#110;&#48;&#x33;&#x6c;&#119;&#x76;&#x2e;&#x74;&#x6b;&#51;&#115;&#97;&#122;&#x40;&#x6e;&#101;&#119;&#x6d;&#97;&#x69;&#x6c;&#46;&#x69;&#x6e;&#101;&#116;&#x2e;&#x75;&#x61;</a> не было адреса <a href="&#109;&#x61;&#x69;&#108;&#116;&#111;&#x3a;&#97;&#x2e;&#111;&#x2e;&#x6b;&#64;&#x63;&#x69;&#x62;&#x61;&#x2e;&#x63;&#111;&#109;&#46;&#117;&#97;&#x2e;">&#x61;&#46;&#111;&#46;&#x6b;&#x40;&#x63;&#x69;&#98;&#x61;&#x2e;&#99;&#111;&#x6d;&#x2e;&#117;&#97;&#46;</a> Подробная информация о получателях письма является, естественно, приватной, однако можно уверенно заявить — <em>скриншот является фейком</em>.</p>
+<p>В частном порядке, работник одной из почтовых систем, через которые проходило это письмо, сообщил, что среди получателей сообщения с message-id=<a href="&#109;&#97;&#x69;&#x6c;&#x74;&#111;&#58;&#x6e;&#48;&#51;&#108;&#119;&#x76;&#46;&#116;&#107;&#51;&#x73;&#x61;&#122;&#64;&#110;&#101;&#119;&#109;&#x61;&#105;&#108;&#46;&#105;&#110;&#101;&#116;&#x2e;&#117;&#x61;">&#110;&#48;&#51;&#108;&#119;&#118;&#46;&#x74;&#107;&#x33;&#115;&#x61;&#122;&#x40;&#x6e;&#101;&#119;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#x69;&#x6e;&#x65;&#x74;&#46;&#117;&#97;</a> не было адреса <a href="&#109;&#x61;&#105;&#108;&#116;&#x6f;&#x3a;&#97;&#x2e;&#111;&#x2e;&#107;&#64;&#99;&#105;&#98;&#x61;&#x2e;&#99;&#x6f;&#109;&#46;&#117;&#x61;&#x2e;">&#x61;&#46;&#111;&#x2e;&#107;&#x40;&#x63;&#105;&#x62;&#97;&#46;&#99;&#x6f;&#109;&#46;&#x75;&#x61;&#46;</a> Подробная информация о получателях письма является, естественно, приватной, однако можно уверенно заявить — <em>скриншот является фейком</em>.</p>
 
 <p>В-третьих, автор сообщения на форуме путается в показаниях про «удалось все же вскрыть почту активистов майдана», в то время как заголовки письма были сделаны из ящика получателя (то есть, якобы a.o.k@ciba.com.ua, «Аслана»).</p>
 
@@ -354,7 +363,7 @@ Keep calm and carry on.</p>
   <entry>
     <title type="html"><![CDATA[Необычная география Первого канала]]></title>
     <link href="http://fakecontrol.org/blog/2014/03/02/first_channel_geography/"/>
-    <updated>2014-03-02T12:06:58+02:00</updated>
+    <updated>2014-03-02T02:06:58-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/03/02/first_channel_geography</id>
     <content type="html"><![CDATA[<p>Каждый день приносит нам новые поводы для удивления. Cегодня мы сильно удивились особенному пониманию географии Первым каналом в России.</p>
 
@@ -380,9 +389,9 @@ Keep calm and carry on.</p>
   
   <entry>
     <title type="html"><![CDATA[Наших - бьют, вашим - врут]]></title>
-    <link href="http://fakecontrol.org/blog/2014/03/02/russia-go-home/"/>
-    <updated>2014-03-02T04:10:59+02:00</updated>
-    <id>http://fakecontrol.org/blog/2014/03/02/russia-go-home</id>
+    <link href="http://fakecontrol.org/blog/2014/03/01/russia-go-home/"/>
+    <updated>2014-03-01T18:10:59-08:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/01/russia-go-home</id>
     <content type="html"><![CDATA[<h2>Предыстория</h2>
 
 <p>Итак, госпожа Матвиенко описала несколько моментов, которые сподвигли совет федерации принять столь обсуждаемые сегодня жителями Украины (и не только Украины) решения. Одобрение прошения президента РФ о разрешении ввода войск в Украину, как отметила Матвиенко на пресс-конференции,было обусловленно следующими ключевыми факторами:
@@ -415,9 +424,9 @@ Keep calm and carry on.</p>
   
   <entry>
     <title type="html"><![CDATA[В военкоматах о мобилизации уже знают]]></title>
-    <link href="http://fakecontrol.org/blog/2014/03/02/make-love-not-war/"/>
-    <updated>2014-03-02T03:19:28+02:00</updated>
-    <id>http://fakecontrol.org/blog/2014/03/02/make-love-not-war</id>
+    <link href="http://fakecontrol.org/blog/2014/03/01/make-love-not-war/"/>
+    <updated>2014-03-01T17:19:28-08:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/01/make-love-not-war</id>
     <content type="html"><![CDATA[<h1>UPD: Выступление Парубия 2 марта  <a href="https://www.youtube.com/watch?v=fK0dLJcZBMM">https://www.youtube.com/watch?v=fK0dLJcZBMM</a></h1>
 
 <p>После появления этого поста в Facebook &ndash; началась настоящая паника и чад кутежа в комментариях.
@@ -446,7 +455,7 @@ Keep calm and carry on.</p>
   <entry>
     <title type="html"><![CDATA[Ненастоящий указ ненастоящего президента]]></title>
     <link href="http://fakecontrol.org/blog/2014/02/27/o-novom/"/>
-    <updated>2014-02-27T13:30:00+02:00</updated>
+    <updated>2014-02-27T03:30:00-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/02/27/o-novom</id>
     <content type="html"><![CDATA[<p>Сегодня на новостном сайте <a href="http://anna-news.info/">Anna-News</a> появилась новость о <a href="http://anna-news.info/node/13745">издании</a> Президентом Украины, Виктором Федоровичем Януковичем, нового указа, в котором говорится о том что в Украине произошел военный переворот и семь пунктов по «регулированию ситуации». На всякий случай мы сохранили полное <a href="http://i.imgur.com/uV7egFF.jpg">изображение статьи</a>.</p>
 
@@ -466,7 +475,7 @@ Keep calm and carry on.</p>
   <entry>
     <title type="html"><![CDATA[О плакатах на домах в Крыму]]></title>
     <link href="http://fakecontrol.org/blog/2014/02/26/o-plakatakh-na-domakh-v-krymu/"/>
-    <updated>2014-02-26T21:35:53+02:00</updated>
+    <updated>2014-02-26T11:35:53-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/02/26/o-plakatakh-na-domakh-v-krymu</id>
     <content type="html"><![CDATA[<p>Последнее время в блогах и социальных сетях мелькает вот такая картинка:
 <img src="http://i.imgur.com/dedcNfG.jpg?1?6915" alt="Imgur" /></p>
@@ -483,7 +492,7 @@ Keep calm and carry on.</p>
   <entry>
     <title type="html"><![CDATA[Госпиталь МВД обеспечен всем]]></title>
     <link href="http://fakecontrol.org/blog/2014/02/26/gospital-MVD/"/>
-    <updated>2014-02-26T14:03:10+02:00</updated>
+    <updated>2014-02-26T04:03:10-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/02/26/gospital-MVD</id>
     <content type="html"><![CDATA[<p>Вчера мы получили тревожное личное сообщение, от которого сначала ёкнуло сердце, а потом нашли его же <a href="https://www.facebook.com/Liky.Euromaidan/posts/1438581126378814?stream_ref=10">в группе «Ліки в підтримку Євромайдану &ndash; координація допомоги»</a>.</p>
 
@@ -502,7 +511,7 @@ Keep calm and carry on.</p>
   <entry>
     <title type="html"><![CDATA[Про американских агентов]]></title>
     <link href="http://fakecontrol.org/blog/2014/02/26/us-agent/"/>
-    <updated>2014-02-26T12:23:21+02:00</updated>
+    <updated>2014-02-26T02:23:21-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/02/26/us-agent</id>
     <content type="html"><![CDATA[<p>Несколько дней уже по сети <a href="http://www.youtube.com/watch?v=SOmpICEfN5o">гуляет видео</a>, в описании которого написано:</p>
 
@@ -535,7 +544,7 @@ Keep calm and carry on.</p>
   <entry>
     <title type="html"><![CDATA[О портретах на здании КМДА]]></title>
     <link href="http://fakecontrol.org/blog/2014/02/25/no-hitler/"/>
-    <updated>2014-02-25T19:32:11+02:00</updated>
+    <updated>2014-02-25T09:32:11-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/02/25/no-hitler</id>
     <content type="html"><![CDATA[<p>Сегодня мы нашли фотографию, где над входом в КМДА висит один из самых известных портретов Гитлера. Можно посмеяться, но она распространяется довольно быстро по российским сайтам-помойкам контента, странным блогам, локальным европейским новостным ресурам и социальным сетям.</p>
 
@@ -554,9 +563,9 @@ Keep calm and carry on.</p>
   
   <entry>
     <title type="html"><![CDATA[Открытое голосование, или чем заканчиваются хорошие инициативы]]></title>
-    <link href="http://fakecontrol.org/blog/2014/02/25/open-vote/"/>
-    <updated>2014-02-25T02:07:28+02:00</updated>
-    <id>http://fakecontrol.org/blog/2014/02/25/open-vote</id>
+    <link href="http://fakecontrol.org/blog/2014/02/24/open-vote/"/>
+    <updated>2014-02-24T16:07:28-08:00</updated>
+    <id>http://fakecontrol.org/blog/2014/02/24/open-vote</id>
     <content type="html"><![CDATA[<h2>Предыстория</h2>
 
 <p>Вчера и сегодня многие из вас получили ссылку на онлайн-опрос о результах выборов 2014 года.
@@ -608,7 +617,7 @@ Keep calm and carry on.</p>
   <entry>
     <title type="html"><![CDATA[Про Красный крест]]></title>
     <link href="http://fakecontrol.org/blog/2014/02/23/red-cross/"/>
-    <updated>2014-02-23T23:27:07+02:00</updated>
+    <updated>2014-02-23T13:27:07-08:00</updated>
     <id>http://fakecontrol.org/blog/2014/02/23/red-cross</id>
     <content type="html"><![CDATA[<p>Ольга Богомолец в <a href="https://www.facebook.com/olgabogomolets/posts/585812244842541">своем посте</a> сообщила что Красный крест Украины отказался принимать помощь от Красного креста Канады. Информацию продублировали на своих страницах <a href="http://www.radiosvoboda.org/content/article/25270523.html">Radio Svoboda</a> и <a href="http://argumentua.com/novosti/ocherednaya-dikost-ukrainskii-krasnyi-krest-otkazalsya-peredat-pomoshch-iz-kanady">Аргумент</a>, но есть официальное подтверждение того что эта информация &ndash; ложная!</p>
 
