@@ -11,7 +11,7 @@ categories:
 
 1. Это была совместная встреча Виталия Кличко, Юлии Тимошенко и Ангелы Меркель, а не тет-а-тет посиделки двух важных политиков, как нам пытаются показать. В качестве доказательства — вот вам [твит](https://twitter.com/RegSprecher/status/441916443995553793/photo/1) Steffen Seibert(пресс-секретаря канцлера Германии),
 
-2. Это была короткая встреча, что называется, along the lines of summit, — вот [собщение](http://www.stern.de/politik/ausland/ukraine-krise-prorussische-kaempfer-stuermen-armeebasis-auf-der-krim-2094923.html) о ней Stern, а вот – [фотографии](https://www.facebook.com/trinitycollegedublin/posts/828271160521319?stream_ref=10) из Дублинского Trinity College, где Меркель позже выступала с речью о «глобализированной Европе».
+2. Это была короткая встреча, что называется, along the lines of summit, — вот [сообщение](http://www.stern.de/politik/ausland/ukraine-krise-prorussische-kaempfer-stuermen-armeebasis-auf-der-krim-2094923.html) о ней Stern, а вот – [фотографии](https://www.facebook.com/trinitycollegedublin/posts/828271160521319?stream_ref=10) из Дублинского Trinity College, где Меркель позже выступала с речью о «глобализированной Европе».
 
 Фотографию с партийного сайта уже перепечатали многие украинские медиа.
 Очень жаль, что нам хотят показать совершенно другую политическую ситуацию момента – вместо «Меркель встретилась с двумя представителями украинских политических партий во время саммита в Дублине, которых сама же на него и пригласила», нам старательно хотели показать «Юля — сильный политик, для которой даже у Меркель есть время».  
