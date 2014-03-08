@@ -5,9 +5,9 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[{% if page.title contains "navigation" %}{% t page.title %}{% else %}{{ page.title }}{% endif %} | {% t project.name %}]]></title>
-  <link href="{{ site.url }}/{{ page.feed_url }}" rel="self"/>
-  <link href="{{ site.url }}/"/>
-  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <link href="{{ site.url }}{{ site.baseurl }}/{{ page.feed_url }}" rel="self"/>
+  <link href="{{ site.url }}{{ site.baseurl }}/"/>
+  <updated>{{ site.categories[page.category].first.date | date_to_xmlschema }}</updated>
   <id>{{ site.url }}/</id>
   <author>
     <name><![CDATA[{% t project.author %}]]></name>
@@ -18,10 +18,10 @@ layout: nil
   {% for post in site.categories[page.category] limit: 5 %}
   <entry>
     <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
-    <link href="{{ site.url }}{{ post.url }}"/>
+    <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <id>{{ site.url }}{{ post.id }}</id>
-    <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | markdownify | cdata_escape }}]]></content>
+    <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></content>
   </entry>
   {% endfor %}
 </feed>
