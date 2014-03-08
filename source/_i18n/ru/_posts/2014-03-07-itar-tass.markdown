@@ -1,9 +1,0 @@
----
-layout: post
-title: ИТАР ТАСС уполномочен... соврать
-date: 2014-03-07 18:21:45 -0800
-comments: true
-categories: fake
-published: false
----
-http://itar-tass.com/mezhdunarodnaya-panorama/1029332
