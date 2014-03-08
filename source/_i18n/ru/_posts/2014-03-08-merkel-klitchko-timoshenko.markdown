@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "merkel-klitchko-timoshenko"
+title: "Меркель, Кличко, Тимошенко и все-все-все"
 date: 2014-03-08 14:21:44 +0200
 comments: true
 categories:
