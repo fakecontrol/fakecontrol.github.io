@@ -13,7 +13,7 @@ RIA Novosti makes the news on the message from _"a source familiar with the situ
 
 Now let's try to understand what is really going on and is there any reason to believe the news and to fear that Ukraine will spend huge money for replacing all the official forms, documents, and street signs.
 
-The Verkhovna Rada website [has reported](http://rada.gov.ua/ru/news/Novosty/Soobshchenyya/89017.html) the beginning of the work of the commission. We are providing the version in Russian on purpose, so you can check yourself.
+The Verkhovna Rada website [has reported](http://rada.gov.ua/ru/news/Novosty/Soobshchenyya/89017.html) the beginning of the work of the commission. We are providing the version in Russian in case you want to learn more about it (no English version available, sorry!).
 
 According to this report, the range of documents on which the new law is based, includes [the European Charter for Regional or Minority Languages​​](http://conventions.coe.int/Treaty/en/Treaties/Html/148.htm), the Law of Ukraine "On ratification of the European Charter for Regional or Minority Languages​​" on May 15, 2003, аas well as the well-known [Law of Ukraine "On state Language Policy of Ukraine "dated July 3, 2012](http://en.wikipedia.org/wiki/Legislation_on_languages_in_Ukraine), which itself provided the Russian language the status of regional.
 
