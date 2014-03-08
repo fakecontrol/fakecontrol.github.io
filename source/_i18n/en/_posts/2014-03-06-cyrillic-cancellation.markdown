@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About Cyrillic script being "cancelled"
+title: About Cyrillic script being "cancelled"
 date: 2014-03-06 15:10:27 +0200
 comments: true
 categories: fake
