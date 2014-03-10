@@ -8,7 +8,7 @@
   <title>{{ title }}</title>
   <meta name="author" content="{% t project.author %}">
 
-  {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url | strip_slash }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}/{% endcapture %}
+  {% capture canonical %}{{ site.url }}{{ site.baseurl }}{% if site.permalink contains '.html' %}{{ page.url | strip_slash }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}/{% endcapture %}
   <link rel="canonical" href="{{ canonical }}">
 
   {% capture description %}{% if page.description %}{{ page.description }}{% else %}{{ content | raw_content }}{% endif %}{% endcapture %}
