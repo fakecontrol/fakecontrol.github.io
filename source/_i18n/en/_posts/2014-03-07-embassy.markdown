@@ -1,0 +1,9 @@
+---
+layout: post
+title: "About State department and Russian MFA"
+date: 2014-03-07 15:53:35 +0200
+comments: true
+categories:
+published: false
+---
+http://fakecontrol.org/blog/2014/03/07/embassy/
