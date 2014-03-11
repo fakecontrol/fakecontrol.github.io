@@ -6,7 +6,7 @@
     
     <url>
       <loc>http://fakecontrol.org/about/</loc>
-      <lastmod>2014-03-08T14:21:44+02:00</lastmod>
+      <lastmod>2014-03-11T02:07:00+02:00</lastmod>
     </url>
     
   
@@ -15,14 +15,14 @@
     
     <url>
       <loc>http://fakecontrol.org/blog/archives/</loc>
-      <lastmod>2014-03-08T14:21:44+02:00</lastmod>
+      <lastmod>2014-03-11T02:07:00+02:00</lastmod>
     </url>
     
   
     
     <url>
       <loc>http://fakecontrol.org/</loc>
-      <lastmod>2014-03-08T14:21:44+02:00</lastmod>
+      <lastmod>2014-03-11T02:07:00+02:00</lastmod>
     </url>
     
   
@@ -33,14 +33,14 @@
     
     <url>
       <loc>http://fakecontrol.org/blog/page/2/</loc>
-      <lastmod>2014-03-08T14:21:44+02:00</lastmod>
+      <lastmod>2014-03-11T02:07:00+02:00</lastmod>
     </url>
     
   
     
     <url>
       <loc>http://fakecontrol.org/blog/page/3/</loc>
-      <lastmod>2014-03-08T14:21:44+02:00</lastmod>
+      <lastmod>2014-03-11T02:07:00+02:00</lastmod>
     </url>
     
   
@@ -52,6 +52,13 @@
   
     
   
+  
+  <url>
+    <loc>http://fakecontrol.org/blog/2014/03/11/team-sergey/</loc>
+    
+    <lastmod>2014-03-11T02:07:00+02:00</lastmod>
+    
+  </url>
   
   <url>
     <loc>http://fakecontrol.org/blog/2014/03/08/merkel-klitchko-timoshenko/</loc>
