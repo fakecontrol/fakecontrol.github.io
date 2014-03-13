@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Об ограничениях в 300 гривен на снятие наличных в Крыму
-date: 2014-03-13 13:20:59 +0200
+date: 2014-03-13 15:37:59 +0200
 comments: true
-categories:
-published: false
+categories: fake
 ---
 
 Сегодня в сети появились множественные перепосты следующей картинки:
@@ -15,13 +14,15 @@ published: false
 
 Обратившись ко второму источнику, [www.ark.gov.ua](http://www.ark.gov.ua/), мы обнаружили, что сайт в данный момент не доступен, но это для нас не беда.
 
-Открываем [кеш Яндекса](http://hghltd.yandex.net/yandbtm?fmode=inject&url=http%3A%2F%2Fwww.ark.gov.ua%2Fblog%2Fcategory%2Fsmdocs%2F&tld=ua&lang=ru&text=http%3A%2F%2Fwww.ark.gov.ua%2Fblog%2Fcategory%2Fsmdocs%2F&l10n=uk&mime=html&sign=fb79f5aca41b6e5db9c4a2f7979afcce&keyno=0) для [страницы со списком постановлений](http://www.ark.gov.ua/blog/category/smdocs/), листаем вниз и видим следующее:
+Открываем [кэш Яндекса](http://hghltd.yandex.net/yandbtm?fmode=inject&url=http%3A%2F%2Fwww.ark.gov.ua%2Fblog%2Fcategory%2Fsmdocs%2F&tld=ua&lang=ru&text=http%3A%2F%2Fwww.ark.gov.ua%2Fblog%2Fcategory%2Fsmdocs%2F&l10n=uk&mime=html&sign=fb79f5aca41b6e5db9c4a2f7979afcce&keyno=0) для [страницы со списком постановлений](http://www.ark.gov.ua/blog/category/smdocs/), листаем вниз и видим следующее:
 
 <a href="http://i.imgur.com/sqz9lhR.jpg">![Постановления и распоряжения : Совет министров Автономной Республики Крым](http://i.imgur.com/sqz9lhR.jpg)</a>
 
 Это оригинальное постановление номер 27, которое датировано 25 февраля, и оно не имеет ничего общего со своим фейковым вариантом. Ссылка: [www.ark.gov.ua/blog/2014/02/25/postanovlenie-sm-ark-27-3/](http://www.ark.gov.ua/blog/2014/02/25/postanovlenie-sm-ark-27-3/)
 
-Скриншот [кеша Google](http://webcache.googleusercontent.com/search?q=cache:Y8tBfR1Ydg0J:www.ark.gov.ua/blog/2014/02/25/postanovlenie-sm-ark-27-3/+&cd=1&hl=uk&ct=clnk&gl=ua) страницы подлинного постановления:
+Дополнительно к этому, в том же [кэше Яндекса](http://hghltd.yandex.net/yandbtm?fmode=inject&url=http%3A%2F%2Fwww.ark.gov.ua%2Fblog%2Fcategory%2Fsmdocs%2F&tld=ua&lang=ru&text=http%3A%2F%2Fwww.ark.gov.ua%2Fblog%2Fcategory%2Fsmdocs%2F&l10n=uk&mime=html&sign=fb79f5aca41b6e5db9c4a2f7979afcce&keyno=0) на странице списка присутствуют новые постановления, номер последнего из них — 37, датировано оно 26 февраля. Это говорит о том, что если бы рассматриваемое постановление было настоящим, то его номер явно был бы больше.
+
+Скриншот [кэша Google](http://webcache.googleusercontent.com/search?q=cache:Y8tBfR1Ydg0J:www.ark.gov.ua/blog/2014/02/25/postanovlenie-sm-ark-27-3/+&cd=1&hl=uk&ct=clnk&gl=ua) страницы подлинного постановления:
 
 <a href="http://i.imgur.com/omgSEt0.jpg">![Постановление СМ АРК №27](http://i.imgur.com/omgSEt0.jpg)</a>
 
