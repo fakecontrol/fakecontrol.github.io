@@ -4,7 +4,7 @@
   <title><![CDATA[Category: ru | Фейк-Контроль]]></title>
   <link href="http://fakecontrol.org/blog/categories/ru/atom.xml" rel="self"/>
   <link href="http://fakecontrol.org/"/>
-  <updated>2014-03-13T15:01:36+02:00</updated>
+  <updated>2014-03-13T15:37:59+02:00</updated>
   <id>http://fakecontrol.org/</id>
   <author>
     <name><![CDATA[Команда Фейк-Контроль]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Об ограничениях в 300 гривен на снятие наличных в Крыму]]></title>
+    <link href="http://fakecontrol.org/blog/2014/03/13/crimea-cash-restrictions/"/>
+    <updated>2014-03-13T15:37:59+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/13/crimea-cash-restrictions</id>
+    <content type="html"><![CDATA[<p>Сегодня в сети появились множественные перепосты следующей картинки:</p>
+
+<p><img src="http://i.imgur.com/0dtEMNk.jpg" alt="27-Д/14-fake" /></p>
+
+<p>Мы думаем, что это фейк. Есть два государственных сайта, на которых публикуются постановления совета министров АРК. В соответствующем <a href="http://zakon4.rada.gov.ua/krym/main/tt1004">разделе на сайте rada.gov.ua</a> последнее доступное постановление датируется 11 февраля, что в принципе ничего нам не дает, но наталкивает на размышления.</p>
+
+<p>Обратившись ко второму источнику, <a href="http://www.ark.gov.ua/">www.ark.gov.ua</a>, мы обнаружили, что сайт в данный момент не доступен, но это для нас не беда.</p>
+
+<p>Открываем <a href="http://hghltd.yandex.net/yandbtm?fmode=inject&amp;url=http%3A%2F%2Fwww.ark.gov.ua%2Fblog%2Fcategory%2Fsmdocs%2F&amp;tld=ua&amp;lang=ru&amp;text=http%3A%2F%2Fwww.ark.gov.ua%2Fblog%2Fcategory%2Fsmdocs%2F&amp;l10n=uk&amp;mime=html&amp;sign=fb79f5aca41b6e5db9c4a2f7979afcce&amp;keyno=0">кэш Яндекса</a> для <a href="http://www.ark.gov.ua/blog/category/smdocs/">страницы со списком постановлений</a>, листаем вниз и видим следующее:</p>
+
+<p><img src="http://i.imgur.com/sqz9lhR.jpg" alt="Постановления и распоряжения : Совет министров Автономной Республики Крым" /></p>
+
+<p>Это оригинальное постановление номер 27, которое датировано 25 февраля, и оно не имеет ничего общего со своим фейковым вариантом. Ссылка: <a href="http://www.ark.gov.ua/blog/2014/02/25/postanovlenie-sm-ark-27-3/">www.ark.gov.ua/blog/2014/02/25/postanovlenie-sm-ark-27-3/</a></p>
+
+<p>Дополнительно к этому, в том же <a href="http://hghltd.yandex.net/yandbtm?fmode=inject&amp;url=http%3A%2F%2Fwww.ark.gov.ua%2Fblog%2Fcategory%2Fsmdocs%2F&amp;tld=ua&amp;lang=ru&amp;text=http%3A%2F%2Fwww.ark.gov.ua%2Fblog%2Fcategory%2Fsmdocs%2F&amp;l10n=uk&amp;mime=html&amp;sign=fb79f5aca41b6e5db9c4a2f7979afcce&amp;keyno=0">кэше Яндекса</a> на странице списка присутствуют новые постановления, номер последнего из них — 37, датировано оно 26 февраля. Это говорит о том, что если бы рассматриваемое постановление было настоящим, то его номер явно был бы больше.</p>
+
+<p>Скриншот <a href="http://webcache.googleusercontent.com/search?q=cache:Y8tBfR1Ydg0J:www.ark.gov.ua/blog/2014/02/25/postanovlenie-sm-ark-27-3/+&amp;cd=1&amp;hl=uk&amp;ct=clnk&amp;gl=ua">кэша Google</a> страницы подлинного постановления:</p>
+
+<p><img src="http://i.imgur.com/omgSEt0.jpg" alt="Постановление СМ АРК №27" /></p>
+
+<p>Тем временем фейк бодро распространяется в СМИ, предлагаем вашему вниманию список публикаций, отсортированных по дате появления:</p>
+
+<ul>
+<li><a href="http://gazeta.ua/articles/economics/_u-krimu-nastalo-pokraschennya-depoziti-zamorozheni-lyudyam-dayut-lishe-po-300-griven/546894">gazeta.ua, «У Криму настало &ldquo;покращення&rdquo;: депозити заморожені, людям дають лише по 300 гривень»</a></li>
+<li><a href="http://espreso.tv/new/2014/03/13/v_krymu_obmezhyly_vydachu_hotivky_sumoyu_v_300_hrn_ta_zbyrayutsya_nacionalizuvaty_banky">espreso.tv, «В Криму обмежили видачу готівки сумою в 300 грн та хочуть націоналізувати банки»</a></li>
+<li><a href="https://twitter.com/euromaidan/status/444039751025172482">twitter.com/euromaidan, «Аксенов одобрил. Крымчане, вам хватит»</a></li>
+<li><a href="http://economics.unian.ua/finance/896000-u-krimu-zablokuvali-depoziti-y-obmejili-znyattya-gotivki-do-300-griven.html">economics.unian.ua, «У Криму заблокували депозити й обмежили зняття готівки до 300 гривень»</a></li>
+<li><a href="http://news.finance.ua/ua/~/1/2014/03/13/321163">news.finance.ua, «Кримська влада заборонила знімати депозити і обмежила зняття готівки до 300 грн: гряде націоналізація на користь &ldquo;спецфонду бюджету Криму"»</a></li>
+<li><a href="http://finance.rbc.ua/ukr/sovmin-kryma-ogranichil-vydachu-nalichnyh-summoy-v-300-grn-i-13032014120600">finance.rbc.ua, «Радмін Криму обмежив видачу готівки сумою в 300 грн і планує націоналізувати банки»</a></li>
+<li><a href="http://ua.korrespondent.net/business/financial/3318812-u-krymu-zablokuvaly-depozyty-ta-obmezhyly-zniattia-hotivky">korrespondent.net, «У Криму заблокували депозити та обмежили зняття готівки»</a></li>
+<li><a href="http://fakty.ictv.ua/ua/index/read-news/id/1507731">fakty.ictv.ua, «Кримський самозванець обмежив видачу готівки населенню лише 300 гривень на добу»</a></li>
+<li><a href="http://www.pravda.com.ua/news/2014/03/13/7018619/">pravda.com.ua, «Аксьонов вирішив підім'яти під себе банки і обмежив видачу коштів у Криму»</a></li>
+</ul>
+
+
+<p>Выводы, как обычно, остаются за вами.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Про запреты праздников(ненастоящие)]]></title>
@@ -111,27 +155,6 @@
 Одним из огромных успехов проекта я считаю что нас одновременно обвиняют и в том что мы и <em>&ldquo;куплены Кремлем&rdquo;</em> и <em>&ldquo;очередное майданутое СМИ&rdquo;</em>. Как минимум это говорит о том что наши материалы разоблачают всех участников этих событий. По поводу финансирования проекта: его просто нет. У нас нет текущих расходов, а те что возникают &ndash; мы способны покрыть из своих карманов. Нам не приходится вешать навязчивую рекламу или просить денег у читателей, а значит &ndash; мы самодостаточны и независимы.<br/>
 Я буду рад ответить на любые вопросы о проекте в комментариях, или отправленные письмом на <a href="mailto:sergey@fakecontrol.org">sergey@fakecontrol.org</a><br/>
 Спасибо что читаете нас.</p></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Меркель, Кличко, Тимошенко и все-все-все]]></title>
-    <link href="http://fakecontrol.org/blog/2014/03/08/merkel-klitchko-timoshenko/"/>
-    <updated>2014-03-08T14:21:44+02:00</updated>
-    <id>http://fakecontrol.org/blog/2014/03/08/merkel-klitchko-timoshenko</id>
-    <content type="html"><![CDATA[<p>В пятницу, 7 марта, на сайте партии «Батькiвщина» появилась <a href="http://batkivshchyna.com.ua/news/open/1059">новость</a> о встрече Юлии Тимошенко и Ангелы Меркель.</p>
-
-<p>Чтобы ни у кого не складывалось ложного впечатления о масштабе встрече и участниках, дополним новость двумя маленькими деталями:</p>
-
-<ol>
-<li><p>Это была совместная встреча Виталия Кличко, Юлии Тимошенко и Ангелы Меркель, а не тет-а-тет посиделки двух важных политиков, как нам пытаются показать. В качестве доказательства — вот вам <a href="https://twitter.com/RegSprecher/status/441916443995553793/photo/1">твит</a> Steffen Seibert(пресс-секретаря канцлера Германии),</p></li>
-<li><p>Это была короткая встреча, что называется, along the lines of summit, — вот <a href="http://www.stern.de/politik/ausland/ukraine-krise-prorussische-kaempfer-stuermen-armeebasis-auf-der-krim-2094923.html">сообщение</a> о ней Stern, а вот – <a href="https://www.facebook.com/trinitycollegedublin/posts/828271160521319?stream_ref=10">фотографии</a> из Дублинского Trinity College, где Меркель позже выступала с речью о «глобализированной Европе».</p></li>
-</ol>
-
-
-<p>Фотографию с партийного сайта уже перепечатали многие украинские медиа.
-Очень жаль, что нам хотят показать совершенно другую политическую ситуацию момента – вместо «Меркель встретилась с двумя представителями украинских политических партий во время саммита в Дублине, которых сама же на него и пригласила», нам старательно хотели показать «Юля — сильный политик, для которой даже у Меркель есть время».<br/>
-Не надо так.</p>
 ]]></content>
   </entry>
   

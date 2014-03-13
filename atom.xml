@@ -4,7 +4,7 @@
   <title><![CDATA[Фейк-Контроль]]></title>
   <link href="http://fakecontrol.org/atom.xml" rel="self"/>
   <link href="http://fakecontrol.org/"/>
-  <updated>2014-03-13T15:01:36+02:00</updated>
+  <updated>2014-03-13T15:37:59+02:00</updated>
   <id>http://fakecontrol.org/</id>
   <author>
     <name><![CDATA[Команда Фейк-Контроль]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Об ограничениях в 300 гривен на снятие наличных в Крыму]]></title>
+    <link href="http://fakecontrol.org/blog/2014/03/13/crimea-cash-restrictions/"/>
+    <updated>2014-03-13T15:37:59+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/13/crimea-cash-restrictions</id>
+    <content type="html"><![CDATA[<p>Сегодня в сети появились множественные перепосты следующей картинки:</p>
+
+<p><img src="http://i.imgur.com/0dtEMNk.jpg" alt="27-Д/14-fake" /></p>
+
+<p>Мы думаем, что это фейк. Есть два государственных сайта, на которых публикуются постановления совета министров АРК. В соответствующем <a href="http://zakon4.rada.gov.ua/krym/main/tt1004">разделе на сайте rada.gov.ua</a> последнее доступное постановление датируется 11 февраля, что в принципе ничего нам не дает, но наталкивает на размышления.</p>
+
+<p>Обратившись ко второму источнику, <a href="http://www.ark.gov.ua/">www.ark.gov.ua</a>, мы обнаружили, что сайт в данный момент не доступен, но это для нас не беда.</p>
+
+<p>Открываем <a href="http://hghltd.yandex.net/yandbtm?fmode=inject&amp;url=http%3A%2F%2Fwww.ark.gov.ua%2Fblog%2Fcategory%2Fsmdocs%2F&amp;tld=ua&amp;lang=ru&amp;text=http%3A%2F%2Fwww.ark.gov.ua%2Fblog%2Fcategory%2Fsmdocs%2F&amp;l10n=uk&amp;mime=html&amp;sign=fb79f5aca41b6e5db9c4a2f7979afcce&amp;keyno=0">кэш Яндекса</a> для <a href="http://www.ark.gov.ua/blog/category/smdocs/">страницы со списком постановлений</a>, листаем вниз и видим следующее:</p>
+
+<p><img src="http://i.imgur.com/sqz9lhR.jpg" alt="Постановления и распоряжения : Совет министров Автономной Республики Крым" /></p>
+
+<p>Это оригинальное постановление номер 27, которое датировано 25 февраля, и оно не имеет ничего общего со своим фейковым вариантом. Ссылка: <a href="http://www.ark.gov.ua/blog/2014/02/25/postanovlenie-sm-ark-27-3/">www.ark.gov.ua/blog/2014/02/25/postanovlenie-sm-ark-27-3/</a></p>
+
+<p>Дополнительно к этому, в том же <a href="http://hghltd.yandex.net/yandbtm?fmode=inject&amp;url=http%3A%2F%2Fwww.ark.gov.ua%2Fblog%2Fcategory%2Fsmdocs%2F&amp;tld=ua&amp;lang=ru&amp;text=http%3A%2F%2Fwww.ark.gov.ua%2Fblog%2Fcategory%2Fsmdocs%2F&amp;l10n=uk&amp;mime=html&amp;sign=fb79f5aca41b6e5db9c4a2f7979afcce&amp;keyno=0">кэше Яндекса</a> на странице списка присутствуют новые постановления, номер последнего из них — 37, датировано оно 26 февраля. Это говорит о том, что если бы рассматриваемое постановление было настоящим, то его номер явно был бы больше.</p>
+
+<p>Скриншот <a href="http://webcache.googleusercontent.com/search?q=cache:Y8tBfR1Ydg0J:www.ark.gov.ua/blog/2014/02/25/postanovlenie-sm-ark-27-3/+&amp;cd=1&amp;hl=uk&amp;ct=clnk&amp;gl=ua">кэша Google</a> страницы подлинного постановления:</p>
+
+<p><img src="http://i.imgur.com/omgSEt0.jpg" alt="Постановление СМ АРК №27" /></p>
+
+<p>Тем временем фейк бодро распространяется в СМИ, предлагаем вашему вниманию список публикаций, отсортированных по дате появления:</p>
+
+<ul>
+<li><a href="http://gazeta.ua/articles/economics/_u-krimu-nastalo-pokraschennya-depoziti-zamorozheni-lyudyam-dayut-lishe-po-300-griven/546894">gazeta.ua, «У Криму настало &ldquo;покращення&rdquo;: депозити заморожені, людям дають лише по 300 гривень»</a></li>
+<li><a href="http://espreso.tv/new/2014/03/13/v_krymu_obmezhyly_vydachu_hotivky_sumoyu_v_300_hrn_ta_zbyrayutsya_nacionalizuvaty_banky">espreso.tv, «В Криму обмежили видачу готівки сумою в 300 грн та хочуть націоналізувати банки»</a></li>
+<li><a href="https://twitter.com/euromaidan/status/444039751025172482">twitter.com/euromaidan, «Аксенов одобрил. Крымчане, вам хватит»</a></li>
+<li><a href="http://economics.unian.ua/finance/896000-u-krimu-zablokuvali-depoziti-y-obmejili-znyattya-gotivki-do-300-griven.html">economics.unian.ua, «У Криму заблокували депозити й обмежили зняття готівки до 300 гривень»</a></li>
+<li><a href="http://news.finance.ua/ua/~/1/2014/03/13/321163">news.finance.ua, «Кримська влада заборонила знімати депозити і обмежила зняття готівки до 300 грн: гряде націоналізація на користь &ldquo;спецфонду бюджету Криму&#8221;»</a></li>
+<li><a href="http://finance.rbc.ua/ukr/sovmin-kryma-ogranichil-vydachu-nalichnyh-summoy-v-300-grn-i-13032014120600">finance.rbc.ua, «Радмін Криму обмежив видачу готівки сумою в 300 грн і планує націоналізувати банки»</a></li>
+<li><a href="http://ua.korrespondent.net/business/financial/3318812-u-krymu-zablokuvaly-depozyty-ta-obmezhyly-zniattia-hotivky">korrespondent.net, «У Криму заблокували депозити та обмежили зняття готівки»</a></li>
+<li><a href="http://fakty.ictv.ua/ua/index/read-news/id/1507731">fakty.ictv.ua, «Кримський самозванець обмежив видачу готівки населенню лише 300 гривень на добу»</a></li>
+<li><a href="http://www.pravda.com.ua/news/2014/03/13/7018619/">pravda.com.ua, «Аксьонов вирішив підім&#8217;яти під себе банки і обмежив видачу коштів у Криму»</a></li>
+</ul>
+
+
+<p>Выводы, как обычно, остаются за вами.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Про запреты праздников(ненастоящие)]]></title>
@@ -583,23 +627,6 @@ Keep calm and carry on.</p>
 
 
 <p>Выводы допишите сами.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[О плакатах на домах в Крыму]]></title>
-    <link href="http://fakecontrol.org/blog/2014/02/26/o-plakatakh-na-domakh-v-krymu/"/>
-    <updated>2014-02-26T21:35:53+02:00</updated>
-    <id>http://fakecontrol.org/blog/2014/02/26/o-plakatakh-na-domakh-v-krymu</id>
-    <content type="html"><![CDATA[<p>Последнее время в блогах и социальных сетях мелькает вот такая картинка:
-<img src="http://i.imgur.com/dedcNfG.jpg?1?6915" alt="Imgur" /></p>
-
-<p>Тут все достаточно просто. Воспользовавшись сервисом <a href="http://tineye.com">Tineye</a> быстро найдем правое фото.<a href="http://www.tineye.com/search/d8cb8095943b50e10c93f3fdeb4e5b204262c558/">Результаты поиска в Tineye</a>. <a href="http://www.flickr.com/photos/36909153@N05/3560692392/in/photostream/">Одно из первых упоминаний — январь 2010 года</a>, к нынешним событиям оно отношения не имеет ни хронологически, ни контекстуально.</p>
-
-<p>Что касается изображения слева — в нижнем правом углу фото видна надпись красным: «Рупор Одессы». Дальше, воспользовавшись гуглом, можно быстро найти откуда этот плакат: <a href="http://tinyurl.com/kq2ap2n">результат поиска в Google</a>, <a href="http://rupor.od.ua/news/Odessa-provokaciya-na-nacionalnoj-pochve--Nam-es-024791/">оригинал статьи «Рупора Одессы»</a><br/>
-Опять же — плакат за март 2013 года. К нынешним событиям никак не относится.</p>
-
-<p>Как видите, порой даже простейшие действия могут уберечь вас от фейков. Выводов нет, зато у нас есть ещё и <a href="http://twitter.com/fakecontrol_org">твиттер</a>, добавляйтесь!</p>
 ]]></content>
   </entry>
   

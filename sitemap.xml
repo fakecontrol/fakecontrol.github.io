@@ -4,28 +4,28 @@
     
   
     
-    <url>
-      <loc>http://fakecontrol.org/about/</loc>
-      <lastmod>2014-03-13T15:01:36+02:00</lastmod>
-    </url>
-    
   
     
   
     
     <url>
       <loc>http://fakecontrol.org/blog/archives/</loc>
-      <lastmod>2014-03-13T15:01:36+02:00</lastmod>
+      <lastmod>2014-03-13T15:37:59+02:00</lastmod>
     </url>
     
   
     
     <url>
       <loc>http://fakecontrol.org/</loc>
-      <lastmod>2014-03-13T15:01:36+02:00</lastmod>
+      <lastmod>2014-03-13T15:37:59+02:00</lastmod>
     </url>
     
   
+    
+    <url>
+      <loc>http://fakecontrol.org/about/</loc>
+      <lastmod>2014-03-13T15:37:59+02:00</lastmod>
+    </url>
     
   
     
@@ -33,14 +33,14 @@
     
     <url>
       <loc>http://fakecontrol.org/blog/page/2/</loc>
-      <lastmod>2014-03-13T15:01:36+02:00</lastmod>
+      <lastmod>2014-03-13T15:37:59+02:00</lastmod>
     </url>
     
   
     
     <url>
       <loc>http://fakecontrol.org/blog/page/3/</loc>
-      <lastmod>2014-03-13T15:01:36+02:00</lastmod>
+      <lastmod>2014-03-13T15:37:59+02:00</lastmod>
     </url>
     
   
@@ -52,6 +52,13 @@
   
     
   
+  
+  <url>
+    <loc>http://fakecontrol.org/blog/2014/03/13/crimea-cash-restrictions/</loc>
+    
+    <lastmod>2014-03-13T15:37:59+02:00</lastmod>
+    
+  </url>
   
   <url>
     <loc>http://fakecontrol.org/blog/2014/03/13/holidays/</loc>
