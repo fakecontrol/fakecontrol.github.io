@@ -26,7 +26,12 @@ categories: fake
 
 <a href="http://i.imgur.com/omgSEt0.jpg">![Постановление СМ АРК №27](http://i.imgur.com/omgSEt0.jpg)</a>
 
-Тем временем фейк бодро распространяется в СМИ, предлагаем вашему вниманию список публикаций, отсортированных по дате появления:
+Подпись под документом тоже вызываем массу вопросов, ведь есть в сети и вот такой документ:
+
+<a href="http://img.nr2.ru/pict/arts1/r11/dop1/14/01/34.jpg">![scan1](http://img.nr2.ru/pict/arts1/r11/dop1/14/01/34.jpg)</a>
+_(Немного больше про эти документы в [статье](http://www.nr2.ru/crimea/480029.html))_
+
+Тем временем фейк бодро распространяется в СМИ, предлагаем вашему вниманию список публикаций, отсортированных по дате появления (по традиции передаем приветы):
 
 - [gazeta.ua, «У Криму настало "покращення": депозити заморожені, людям дають лише по 300 гривень»](http://gazeta.ua/articles/economics/_u-krimu-nastalo-pokraschennya-depoziti-zamorozheni-lyudyam-dayut-lishe-po-300-griven/546894)
 - [espreso.tv, «В Криму обмежили видачу готівки сумою в 300 грн та хочуть націоналізувати банки»](http://espreso.tv/new/2014/03/13/v_krymu_obmezhyly_vydachu_hotivky_sumoyu_v_300_hrn_ta_zbyrayutsya_nacionalizuvaty_banky)
