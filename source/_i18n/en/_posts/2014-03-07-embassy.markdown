@@ -4,7 +4,6 @@ title: "About State department and Russian MFA"
 date: 2014-03-07 15:53:35 +0200
 comments: true
 categories:
-published: false
 ---
 U.S. Department of State [published](http://russian.moscow.usembassy.gov/factsheet-ukraine-03062014.html) a fact sheet disproving some of the statements Putin has made about Ukraine.
 
