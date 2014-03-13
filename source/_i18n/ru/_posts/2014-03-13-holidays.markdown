@@ -4,7 +4,7 @@ title: "Про запреты праздников(ненастоящие)"
 date: 2014-03-13 15:01:36 +0200
 comments: true
 categories:
-published: false
+published: true
 ---
 Очередная [новость из Рады](http://www.gorodche.ru/news/society/30171/) оказалась фейком, а вернее неверным прочтением новопринятых постановлений.
 
