@@ -17,13 +17,13 @@ published: false
 
 Открываем [кеш Яндекса](http://hghltd.yandex.net/yandbtm?fmode=inject&url=http%3A%2F%2Fwww.ark.gov.ua%2Fblog%2Fcategory%2Fsmdocs%2F&tld=ua&lang=ru&text=http%3A%2F%2Fwww.ark.gov.ua%2Fblog%2Fcategory%2Fsmdocs%2F&l10n=uk&mime=html&sign=fb79f5aca41b6e5db9c4a2f7979afcce&keyno=0) для [страницы со списком постановлений](http://www.ark.gov.ua/blog/category/smdocs/), листаем вниз и видим следующее:
 
-![Постановления и распоряжения : Совет министров Автономной Республики Крым](http://i.imgur.com/sqz9lhR.jpg)
+<a href="http://i.imgur.com/sqz9lhR.jpg">![Постановления и распоряжения : Совет министров Автономной Республики Крым](http://i.imgur.com/sqz9lhR.jpg)</a>
 
 Это оригинальное постановление номер 27, которое датировано 25 февраля, и оно не имеет ничего общего со своим фейковым вариантом. Ссылка: [www.ark.gov.ua/blog/2014/02/25/postanovlenie-sm-ark-27-3/](http://www.ark.gov.ua/blog/2014/02/25/postanovlenie-sm-ark-27-3/)
 
 Скриншот [кеша Google](http://webcache.googleusercontent.com/search?q=cache:Y8tBfR1Ydg0J:www.ark.gov.ua/blog/2014/02/25/postanovlenie-sm-ark-27-3/+&cd=1&hl=uk&ct=clnk&gl=ua) страницы подлинного постановления:
 
-![Постановление СМ АРК №27](http://i.imgur.com/omgSEt0.jpg)
+<a href="http://i.imgur.com/omgSEt0.jpg">![Постановление СМ АРК №27](http://i.imgur.com/omgSEt0.jpg)</a>
 
 Тем временем фейк бодро распространяется в СМИ, предлагаем вашему вниманию список публикаций, отсортированных по дате появления:
 
