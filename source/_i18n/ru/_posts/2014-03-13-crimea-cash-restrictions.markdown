@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Об ограничениях в 300 гривен на снятие наличных в Крыму
-date: 2014-03-13 13:20:59 +0200
+date: 2014-03-13 15:21:59 +0200
 comments: true
 categories:
 published: false
