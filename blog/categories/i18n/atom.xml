@@ -4,7 +4,7 @@
   <title><![CDATA[Category: _i18n | Фейк-Контроль]]></title>
   <link href="http://fakecontrol.org/blog/categories/i18n/atom.xml" rel="self"/>
   <link href="http://fakecontrol.org/"/>
-  <updated>2014-03-16T01:23:56+02:00</updated>
+  <updated>2014-03-16T20:01:36+02:00</updated>
   <id>http://fakecontrol.org/</id>
   <author>
     <name><![CDATA[Команда Фейк-Контроль]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Про хождение рублей в Китае и во всем мире (на самом деле нет)]]></title>
+    <link href="http://fakecontrol.org/blog/2014/03/16/ruble/"/>
+    <updated>2014-03-16T20:01:36+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/16/ruble</id>
+    <content type="html"><![CDATA[<p>А вот кому нездорового ажиотажа вокруг якобы принятия рубля как валюты в Китае? Их есть у нас:</p>
+
+<p><a href="http://moscowpost.net/blog/russian-politics/38.html">Очаровательная новость</a> сообщает нам следующее</p>
+
+<p><img src="http://i.imgur.com/gSwcaL0.jpg" alt="http://moscowpost.net/blog/russian-politics/38.html" /></p>
+
+<p>Обратимся к оригинальной новости (например, <a href="http://www.chinadaily.com.cn/china/2013-12/09/content_17160407.htm">вот одна из публикаций на китайском сайте новостей</a> )</p>
+
+<p>Во-первых, китайская публикация датирована 09/12/2013.
+Во-вторых, на самом деле речь идет о возможности рассчитываться рублями в одном конкретном населенном пункте Китая (Suifenhe) у границы с Россией, где российские туристы часто занимаются покупками.</p>
+
+<p>Прочие утверждения в статье moscowpost.net поданы без отсылок к источникам и не выглядят правдоподобными, в особенности</p>
+
+<blockquote><p>Дальше рубль будет ходить в Бразилии, Индии, Казахтане, Белоруси, Сирии и прочих государствах-партнерах РФ.</p></blockquote>
+
+<p>Более того, тщательный поиск источников в сети Интернет также результатов не дал.</p>
+
+<p>Выводы как всегда за вами.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Про 'киевских' школьников]]></title>
@@ -148,19 +174,6 @@
 
 
 <p>В этот раз скандальный взлом почты с провокациями в Крыму имени “Украинского анонимуса” сделан намного менее топорно, чем <a href="http://fakecontrol.org/blog/2014/03/02/anon-fake/">в прошлый</a>. <a href="http://ru.wikipedia.org/wiki/DomainKeys_Identified_Mail">DKIM-подписи</a> несомненно подтверждают, что ящики <code>igor.protsyk@gmail.com</code> и <code>krivonis.te@gmail.com</code> были взломаны. Однако, сравнение «тревожных» писем с остальным содержимым архива, позволяет считать, что сообщения, заботливо выложенные в отдельную директорию “most interesting” с большой долей вероятности были либо сфабрикованы, либо отправлены самими хакерами.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[О «Распоряжении Правительства РФ»]]></title>
-    <link href="http://fakecontrol.org/blog/2014/03/12/ob-ukazah-pravitelstva-rf/"/>
-    <updated>2014-03-12T14:06:01+02:00</updated>
-    <id>http://fakecontrol.org/blog/2014/03/12/ob-ukazah-pravitelstva-rf</id>
-    <content type="html"><![CDATA[<p>Один из самых коротких постов: распоряжения №303/14р, якобы подписанного Медведевым 1 марта, в <a href="http://government.consultant.ru">базе данных</a> «Нормативные документы Правительства Российской Федерации» <em>не существует</em>.</p>
-
-<p><img src="http://i.imgur.com/BNMzvzt.png" alt="303/14-fake" /></p>
-
-<p>Вы можете убедиться сами, просмотрев результаты выдачи за 1 марта.</p>
 ]]></content>
   </entry>
   

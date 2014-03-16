@@ -6,7 +6,7 @@
     
     <url>
       <loc>http://fakecontrol.org/about/</loc>
-      <lastmod>2014-03-16T01:23:56+02:00</lastmod>
+      <lastmod>2014-03-16T20:01:36+02:00</lastmod>
     </url>
     
   
@@ -15,14 +15,14 @@
     
     <url>
       <loc>http://fakecontrol.org/blog/archives/</loc>
-      <lastmod>2014-03-16T01:23:56+02:00</lastmod>
+      <lastmod>2014-03-16T20:01:36+02:00</lastmod>
     </url>
     
   
     
     <url>
       <loc>http://fakecontrol.org/</loc>
-      <lastmod>2014-03-16T01:23:56+02:00</lastmod>
+      <lastmod>2014-03-16T20:01:36+02:00</lastmod>
     </url>
     
   
@@ -33,21 +33,21 @@
     
     <url>
       <loc>http://fakecontrol.org/blog/page/2/</loc>
-      <lastmod>2014-03-16T01:23:56+02:00</lastmod>
+      <lastmod>2014-03-16T20:01:36+02:00</lastmod>
     </url>
     
   
     
     <url>
       <loc>http://fakecontrol.org/blog/page/3/</loc>
-      <lastmod>2014-03-16T01:23:56+02:00</lastmod>
+      <lastmod>2014-03-16T20:01:36+02:00</lastmod>
     </url>
     
   
     
     <url>
       <loc>http://fakecontrol.org/blog/page/4/</loc>
-      <lastmod>2014-03-16T01:23:56+02:00</lastmod>
+      <lastmod>2014-03-16T20:01:36+02:00</lastmod>
     </url>
     
   
@@ -59,6 +59,13 @@
   
     
   
+  
+  <url>
+    <loc>http://fakecontrol.org/blog/2014/03/16/ruble/</loc>
+    
+    <lastmod>2014-03-16T20:01:36+02:00</lastmod>
+    
+  </url>
   
   <url>
     <loc>http://fakecontrol.org/blog/2014/03/16/school/</loc>
