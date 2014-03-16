@@ -4,7 +4,7 @@
   <title><![CDATA[Фейк-Контроль]]></title>
   <link href="http://fakecontrol.org/atom.xml" rel="self"/>
   <link href="http://fakecontrol.org/"/>
-  <updated>2014-03-13T15:37:59+02:00</updated>
+  <updated>2014-03-16T01:23:56+02:00</updated>
   <id>http://fakecontrol.org/</id>
   <author>
     <name><![CDATA[Команда Фейк-Контроль]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Про 'киевских' школьников]]></title>
+    <link href="http://fakecontrol.org/blog/2014/03/16/school/"/>
+    <updated>2014-03-16T01:23:56+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/16/school</id>
+    <content type="html"><![CDATA[<p>Сегодня от друзей из России к нам прилетело видео, гуляющее второй день по сети.
+<img src="http://i.imgur.com/qHILiDW.png" alt="video school kiev" />
+<em><a href="https://www.youtube.com/watch?v=KrJC6rU9lG0">cсылка на видео</a></em></p>
+
+<p>Видео позиционируется как митинг школьников, снятый на днях в Киеве.<br/>
+Но мы тут нашли еще одно видео с того же митинга (загруженное на youtube 27 ноября 2013)
+<img src="http://i.imgur.com/75EBNXL.png" alt="original" />
+<em><a href="https://www.youtube.com/watch?v=Go4Wwjuzm-s">ссылка на видео</a></em></p>
+
+<p>Небольшое передергивание &ndash; и митинг дрогобычских студентов оказывается митингом киевских школьников &ndash; и разлетается по всей сети, особенно Рунету как демонстрация &ldquo;ужасов&rdquo; пост-майдановского Киева.</p>
+
+<p>Думаю, выводы для себя сделает каждый сам.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Об ограничениях в 300 гривен на снятие наличных в Крыму]]></title>
@@ -612,26 +632,6 @@ Keep calm and carry on.</p>
 <p>Мы не удивимся, если утром окажется что страницу Парубия в ФБ взломали или это вообще фейк-аккаунт который все почему-то читают.</p>
 
 <p>Проверяйте информацию, не ведитесь на вбросы.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ненастоящий указ ненастоящего президента]]></title>
-    <link href="http://fakecontrol.org/blog/2014/02/27/o-novom/"/>
-    <updated>2014-02-27T13:30:00+02:00</updated>
-    <id>http://fakecontrol.org/blog/2014/02/27/o-novom</id>
-    <content type="html"><![CDATA[<p>Сегодня на новостном сайте <a href="http://anna-news.info/">Anna-News</a> появилась новость о <a href="http://anna-news.info/node/13745">издании</a> Президентом Украины, Виктором Федоровичем Януковичем, нового указа, в котором говорится о том что в Украине произошел военный переворот и семь пунктов по «регулированию ситуации». На всякий случай мы сохранили полное <a href="http://i.imgur.com/uV7egFF.jpg">изображение статьи</a>.</p>
-
-<p>Напоминаем, Янукович отстранён от власти и его указы не могут появляться на president.gov.ua. В целом, это является необходимым и достаточным условием, но вот ещё три причины, почему эту новость можно игнорировать:</p>
-
-<ol>
-<li><p>В тексте упоминаются «Центральный банк» и «Центральная рада», но в Украине нет структур с таким названием, зато есть Национальный банк и Верховная рада;</p></li>
-<li><p>В статье говорится что показан перевод оригинального указа, но если это перевод — где же версия на украинском языке?</p></li>
-<li><p>По номеру № 90/2014, указанному в статье хранится <a href="http://www.president.gov.ua/documents/16475.html">совсем другой указ</a>.</p></li>
-</ol>
-
-
-<p>Выводы допишите сами.</p>
 ]]></content>
   </entry>
   
