@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Про 146% на новый лад(ОБНОВЛЕНО)"
+title: "Про 146% на новый лад (ОБНОВЛЕНО)"
 date: 2014-03-17 16:28:36 +0200
 comments: true
 categories:
