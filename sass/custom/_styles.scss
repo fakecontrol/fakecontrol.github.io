@@ -53,6 +53,14 @@
   }
 }
 
+@media only screen and (max-width: 360px) {
+  body>header {
+    h2 {
+      font-size: 2em !important;
+    }
+  }
+}
+
 .fb-like, .vk-like {
   margin-top: 10px;
 }
