@@ -4,7 +4,7 @@
   <title><![CDATA[Category: _i18n | Fake Control]]></title>
   <link href="http://fakecontrol.org/en/blog/categories/i18n/atom.xml" rel="self"/>
   <link href="http://fakecontrol.org/en/"/>
-  <updated>2014-03-12T14:06:01+02:00</updated>
+  <updated>2014-03-13T15:01:36+02:00</updated>
   <id>http://fakecontrol.org/</id>
   <author>
     <name><![CDATA[Fake Control Team]]></name>
@@ -12,6 +12,69 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The fake prohibition of celebrating the holidays]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/13/holidays/"/>
+    <updated>2014-03-13T15:01:36+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/13/holidays</id>
+    <content type="html"><![CDATA[<p>One more <a href="http://www.gorodche.ru/news/society/30171/">news from Rada</a> (Ukrainian Parliament) turned out to be fake, or, to be more precise, an incorrect interpretation of the just adopted regulations.</p>
+
+<p>In particular, the journalists of the mentioned news provider reckon, that the decision based on the Cabinet of Ministers of Ukraine Regulation №65 dated 1/03/2014 rules the following:</p>
+
+<blockquote><p>Fairs, festivals, conventions, celebrating commemorative and historical dates, Victory Day, Constitution Day, Independence Day and the Day of commemoration of Holodomors victims are also banned.</p></blockquote>
+
+<p>Let&rsquo;s refer to <a href="http://zakon2.rada.gov.ua/laws/show/65-2014-%D0%BF">the text of the regulation</a>, namely to the clause regarding the holidays, which will speak for itself:</p>
+
+<blockquote><p>20 Suspension of the use of budgetary funds for running events related to celebrating commemorative and historical dates, anniversaries of enterprises, institutions and organizations, along with anniversaries and commemoration of prominent figures and other events (except centralized Ministry of Culture events for celebrating 200 years from the day of birth of Taras Shevchenko, Constitution Day, Independence Day, Victory Day, Day of commemoration of Holodomors victims), printing production not related to exercise of functions of governmental authorities.</p></blockquote>
+
+<p>Obviously, nobody banned celebrating Victory Day, Constitution Day, Independence Day and the Day of commemoration of Holodomors victims.</p>
+
+<p>The conclusions, as usual, are up to you.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The e-mails of Igor Protsyk]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/13/anon-fake-2/"/>
+    <updated>2014-03-13T03:24:25+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/13/anon-fake-2</id>
+    <content type="html"><![CDATA[<p>We are being aggressively offered to believe another sensation from an allegedly hacked mailbox. This time the &ldquo;data leak&rdquo; has been presented as follows:</p>
+
+<p><em>We have hacked e-mail correspondence of US Army Attache Assistant in Kiev Jason Gresh and a high ranking official from Ukrainian General Staff Igor Protsyk</em>.</p>
+
+<p>An archive of messages, allegedly from the <code>igor.protsyk@gmail.com</code> mailbox, was <a href="http://www.sendspace.com/file/ih96tx">published</a>. The package contains two folders – &ldquo;most interesting&rdquo; with three scandalous e-mails, which have been spread all over the Internet, and &ldquo;all&rdquo; with the complete archive of 86 messages.</p>
+
+<p>We&rsquo;ve analyzed the &ldquo;all&rdquo; folder and would like to make the following statements on the three &ldquo;most interesting&rdquo; messages:</p>
+
+<p><strong>E-mail #1</strong>: from <code>GreshJP@state.gov</code> to <code>igor.protsyk@gmail.com</code>, delivered on 9 Mar 2014 08:57:15 -0700.</p>
+
+<p>It looks very different from the rest five messages between the same users (<code>GreshJP@state.gov</code> to <code>igor.protsyk@gmail.com</code>) in the &ldquo;all&rdquo; folder (an obvious difference in English skills is just one of them). For example, all the content of this message belongs to the &ldquo;text/plain&rdquo; data type (the other ones are multipart/related, with HTML part). Besides that, this message does not end with the notice &ldquo;SBU This email is UNCLASSIFIED&rdquo; (SBU, Sensitive But Unclassified – a designation of information in the United States government).</p>
+
+<p><strong>E-mail #2</strong>: from <code>igor.protsyk@gmail.com</code> to <code>krivonis.te@gmail.com</code>, delivered on 11 Mar 2014 05:50:36 -0700.</p>
+
+<p><img src="http://i.imgur.com/V7ZoaGa.png" alt="Imgur" /></p>
+
+<p>This message, unlike all the other archived ones sent by <code>igor.protsyk@gmail.com</code>, has a valid DKIM-signature and headers confirming its delivery to <code>krivonis.te@gmail.com</code>. The presence of those headers makes it clear that the message was extracted from the <code>krivonis.te@gmail.com</code> mailbox, not from <code>igor.protsyk@gmail.com</code> (that is from the recipient mailbox, though the archive has nothing to do with it).</p>
+
+<p>That means that the hackers had access not only to the mailbox of <code>igor.protsyk@gmail.com</code>, but also to <code>krivonis.te@gmail.com</code>; that&rsquo;s true for E-mail #3 as well.</p>
+
+<p><strong><em>E-mail #3</em></strong>: from <code>krivonis.te@gmail.com</code> to <code>kolyarny@gmail.com</code> (by the way, the latter mailbox can be found on the Web only in the context of the &ldquo;data leak&rdquo; in question) and to <code>igor.protsyk@gmail.com</code>, delivered on 11 Mar 2014 09:20:47 -0700.</p>
+
+<p>Besides that the archive contains a message from <code>no-reply@accounts.google.com</code> to <code>protsyk@ukr.net</code> with password recovery information, delivered on 11 Mar 2014 05:47:11 -0700 (before sending of E-mails #2 and #3). Judging by the fact that there are 21 more e-mails to <code>protsyk@ukr.net</code> in the archive, the messages from that address are being forwarded to <code>igor.protsyk@gmail.com</code>.</p>
+
+<p>You are free to make your own conclusions, but here are some hints from us:</p>
+
+<ol>
+<li><p>The hackers declared that they had access to the <code>GreshJP@state.gov</code> and <code>igor.protsyk@gmail.com</code> mailboxes. But all the published messages between these two addresses are obviously not trustworthy, as they could have been written by the hackers themselves. The hackers most likely had no access to <code>GreshJP@state.gov</code>, because E-mail #1 was clumsily forged on the basis of the rest five &ldquo;legitimate&rdquo; messages from <code>GreshJP@state.gov</code> found in the <code>igor.protsyk@gmail.com</code> mailbox.</p></li>
+<li><p>The message from <code>no-reply@accounts.google.com</code> gives us reasons to suppose that E-mails #2 and #3 have been sent after the <code>igor.protsyk@gmail.com</code> mailbox was compromised; that means that those e-mails could have been sent by the hackers themselves.</p></li>
+<li><p>E-mail #2 proves that the hackers had access to <code>krivonis.te@gmail.com</code>, so why couldn&rsquo;t E-mail #3 have been created by the hackers?</p></li>
+</ol>
+
+
+<p>This time the &ldquo;Anonymous Ukraine&rdquo; authors of the mail hacking scandal concerning the Crimea provocations made a <a href="http://fakecontrol.org/blog/2014/03/02/anon-fake/">far less clumsy try</a>. The <a href="http://ru.wikipedia.org/wiki/DomainKeys_Identified_Mail">DKIM-signatures</a> are doubtlessly proving the hacking of the <code>igor.protsyk@gmail.com</code> and <code>krivonis.te@gmail.com</code> mailboxes. But the results of the comparison between the &ldquo;alarming&rdquo; and all the other archived messages suggest with a high probability that the e-mails, which have so providently been placed in a separate directory under the meaningful name &ldquo;most interesting&rdquo;, have been forged or sent by the hackers themselves.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[About «Order of the Russian Federation Government»]]></title>
@@ -110,103 +173,6 @@ Dmitry Medvedev</p></blockquote>
 <li><a href="http://russian.rt.com/article/23878">http://russian.rt.com/article/23878</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[What we've been doing during week?]]></title>
-    <link href="http://fakecontrol.org/en/blog/2014/03/07/digest/"/>
-    <updated>2014-03-07T15:57:42+02:00</updated>
-    <id>http://fakecontrol.org/blog/2014/03/07/digest</id>
-    <content type="html"><![CDATA[<p>Probably, you&rsquo;ve be working hard for the good of your country and didn&rsquo;t chill in social networks a lot. Unlike you, we were busy to sort out those news and prepare the following digest with the most famous, irregular and fake ones. Enjoy!</p>
-
-<h3><a href="http://fakecontrol.org/en/blog/2014/03/03/2-girls-1-fake/">2 Girls, 1 Fake</a></h3>
-
-<p>Two women, who cry constantly and blame &ldquo;radical&rdquo; forces for &ldquo;destruction&rdquo; of their dear ukrainian cities. We tried to investigate their identities and shared our understanding with you. Changing cities, names and stories on daily basis, these two had a fabulous tour around Ukraine. Also we&rsquo;ve got some very interesting comments from dentists and plastic surgeons.</p>
-
-<h3><a href="http://fakecontrol.org/en/blog/2014/03/03/second-passport/">Second passport, Third Sentence</a></h3>
-
-<p>This one is from our all time favourite &ndash; Russia Today. They&rsquo;ve recently reported that having dual citizenship in Ukraine may become punishable offence. We tried hard to overcome our hysterical laughter and managed to explain why this is not true.</p>
-
-<h3><a href="http://fakecontrol.org/en/blog/2014/03/04/george-bush/">USS That Couldn&rsquo;t Make It</a></h3>
-
-<p>A breathtaking story about adventures of George H. W. Bush aircraft carrier, which never managed to get to the Crimea and just chilled in Greece instead. Besides explaining what is what, we send greetings to the team of Ukrainian TV channel &ldquo;ICTV&rdquo; and suggest everybody to read &ldquo;Montreux Convention Regarding the Regime of the Straits&rdquo;. It&rsquo;s fun reading, we promise!</p>
-
-<h3><a href="http://fakecontrol.org/en/blog/2014/03/04/IMF-debunk/">About IMF &ldquo;requirements&rdquo;</a></h3>
-
-<p>Your parents must&rsquo;ve told you about crazy mortage payments and the disbandment of free education for your (hypothetical) kids. All that is IMF&rsquo;s fault! Except it&rsquo;s not and your parents were fooled. We discussed those fact a lot in our article. Anyway, are you really sure that you&rsquo;re ready to have kids?</p>
-
-<h3><a href="http://fakecontrol.org/en/blog/2014/03/06/cyrillic-cancellation/">About Cyrillic script being &ldquo;cancelled&rdquo;</a></h3>
-
-<p>Is it totally fine to post an information on one of the biggest news agencies site without even mention to reliable source? We did not think so too! Latin alphabet is no cakewalk to suddenly start to use, especially in a country which was using Cyrillic script for many centuries. Fun historical facts as Friday bonus!</p>
-
-<hr />
-
-<p>You can find more at our <a href="http://fakecontrol.org/en/">site</a> or <a href="https://www.facebook.com/fakecontrol.org">Facebook page</a>.</p>
-
-<p>If you want to send us important news or just want to share a picture of a cute pug, <a href="https://twitter.com/fakecontrol_org">tweet us</a> or send us an <a href="team@fakecontrol.org">email</a>!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[About State department and Russian MFA]]></title>
-    <link href="http://fakecontrol.org/en/blog/2014/03/07/embassy/"/>
-    <updated>2014-03-07T15:53:35+02:00</updated>
-    <id>http://fakecontrol.org/blog/2014/03/07/embassy</id>
-    <content type="html"><![CDATA[<p>U.S. Department of State <a href="http://russian.moscow.usembassy.gov/factsheet-ukraine-03062014.html">published</a> a fact sheet disproving some of the statements Putin has made about Ukraine.</p>
-
-<p>We decided to quote this list on our website as well:</p>
-
-<blockquote><ol>
-<li><p><strong>Mr. Putin says</strong>: Russian forces in Crimea are only acting to protect Russian military assets. It is “citizens’ defense groups,” not Russian forces, who have seized infrastructure and military facilities in Crimea.<br/>
-<strong>The Facts</strong>: Strong evidence suggests that members of Russian security services are at the heart of the highly organized anti-Ukraine forces in Crimea. While these units wear uniforms without insignia, they drive vehicles with Russian military license plates and freely identify themselves as Russian security forces when asked by the international media and the Ukrainian military. Moreover, these individuals are armed with weapons not generally available to civilians.</p></li>
-<li><p><strong>Mr. Putin says</strong>: Russia’s actions fall within the scope of the 1997 Friendship Treaty between Ukraine and the Russian Federation.<br/>
-<strong>The Facts</strong>: The 1997 agreement requires Russia to respect Ukraine’s territorial integrity. Russia’s military actions in Ukraine, which have given them operational control of Crimea, are in clear violation of Ukraine’s territorial integrity and sovereignty.</p></li>
-<li><p><strong>Mr. Putin says</strong>: The opposition failed to implement the February 21 agreement with former Ukrainian President Viktor Yanukovych.<br/>
-<strong>The Facts</strong>: The February 21 agreement laid out a plan in which the Rada, or Parliament, would pass a bill to return Ukraine to its 2004 Constitution, thus returning the country to a constitutional system centered around its parliament. Under the terms of the agreement, Yanukovych was to sign the enacting legislation within 24 hours and bring the crisis to a peaceful conclusion. Yanukovych refused to keep his end of the bargain. Instead, he packed up his home and fled, leaving behind evidence of wide-scale corruption.</p></li>
-<li><p><strong>Mr. Putin says</strong>: Ukraine’s government is illegitimate. Yanukovych is still the legitimate leader of Ukraine.<br/>
-<strong>The Facts</strong>: On March 4, President Putin himself acknowledged the reality that Yanukovych “has no political future.” After Yanukovych fled Ukraine, even his own Party of Regions turned against him, voting to confirm his withdrawal from office and to support the new government. Ukraine’s new government was approved by the democratically elected Ukrainian Parliament, with 371 votes – more than an 82% majority. The interim government of Ukraine is a government of the people, which will shepherd the country toward democratic elections on May 25th – elections that will allow all Ukrainians to have a voice in the future of their country.</p></li>
-<li><p><strong>Mr. Putin says</strong>: There is a humanitarian crisis and hundreds of thousands are fleeing Ukraine to Russia and seeking asylum.<br/>
-<strong>The Facts</strong>: To date, there is absolutely no evidence of a humanitarian crisis. Nor is there evidence of a flood of asylum-seekers fleeing Ukraine for Russia. International organizations on the ground have investigated by talking with Ukrainian border guards, who also refuted these claims. Independent journalists observing the border have also reported no such flood of refugees.
-(editor&rsquo;s note: we&rsquo;ve already <a href="http://fakecontrol.org/en/blog/2014/03/02/first_channel_geography/">covered</a> this issue)</p></li>
-<li><p><strong>Mr. Putin says</strong>: Ethnic Russians are under threat.<br/>
-<strong>The Facts</strong>: Outside of Russian press and Russian state television, there are no credible reports of any ethnic Russians being under threat. The new Ukrainian government placed a priority on peace and reconciliation from the outset. President Oleksandr Turchynov refused to sign legislation limiting the use of the Russian language at regional level. Ethnic Russians and Russian speakers have filed petitions attesting that their communities have not experienced threats. Furthermore, since the new government was established, calm has returned to Kyiv. There has been no surge in crime, no looting, and no retribution against political opponents.</p></li>
-<li><p><strong>Mr. Putin says</strong>: Russian bases are under threat.<br/>
-<strong>The Facts</strong>: Russian military facilities were and remain secure, and the new Ukrainian government has pledged to abide by all existing international agreements, including those covering Russian bases. It is Ukrainian bases in Crimea that are under threat from Russian military action.</p></li>
-<li><p><strong>Mr. Putin says</strong>: There have been mass attacks on churches and synagogues in southern and eastern Ukraine.<br/>
-<strong>The Facts</strong>: Religious leaders in the country and international religious freedom advocates active in Ukraine have said there have been no incidents of attacks on churches. All of Ukraine’s church leaders, including representatives of the Ukrainian Orthodox Church-Moscow Patriarchate, have expressed support for the new political leadership, calling for national unity and a period of healing. Jewish groups in southern and eastern Ukraine report that they have not seen an increase in anti-Semitic incidents.</p></li>
-<li><p><strong>Mr. Putin says</strong>: Kyiv is trying to destabilize Crimea.<br/>
-<strong>The Facts</strong>: Ukraine’s interim government has acted with restraint and sought dialogue. Russian troops, on the other hand, have moved beyond their bases to seize political objectives and infrastructure in Crimea. The government in Kyiv immediately sent the former Chief of Defense to defuse the situation. Petro Poroshenko, the latest government emissary to pursue dialogue in Crimea, was prevented from entering the Crimean Rada.</p></li>
-<li><p><strong>Mr. Putin says</strong>: The Rada is under the influence of extremists or terrorists.<br/>
-<strong>The Facts</strong>: The Rada is the most representative institution in Ukraine. Recent legislation has passed with large majorities, including from representatives of eastern Ukraine. Far-right wing ultranationalist groups, some of which were involved in open clashes with security forces during the EuroMaidan protests, are not represented in the Rada. There is no indication that the Ukrainian government would pursue discriminatory policies; on the contrary, they have publicly stated exactly the opposite.</p></li>
-</ol>
-</blockquote>
-
-<p>We&rsquo;re leaving the conclusions to the readers. You can find the full fact sheet at:</p>
-
-<ul>
-<li><a href="http://russian.moscow.usembassy.gov/factsheet-ukraine-03062014.html">http://russian.moscow.usembassy.gov/factsheet-ukraine-03062014.html</a> (Russian)</li>
-<li><a href="http://iipdigital.usembassy.gov/st/english/texttrans/2014/03/20140306295487.html#axzz2vJruYOxN">http://iipdigital.usembassy.gov/st/english/texttrans/2014/03/20140306295487.html#axzz2vJruYOxN</a> (English)</li>
-</ul>
-
-
-<p>It didn&rsquo;t take the Russian MFA long to <a href="http://mid.ru/brp_4.nsf/newsline/C48637A3360452D044257C9300518BDD">respond</a>:</p>
-
-<blockquote><p><strong>A ministry spokesman, Aleksandr K. Lukashevich, commented on the U.S. Department of State&rsquo;s &ldquo;factual rationales&rdquo; regarding the situation in Ukraine:</strong></p>
-
-<p>The statement &ldquo;disproving&rdquo; the facts mentioned by the President of Russia V. Putin at the press conference on 4th of March about the situation in Ukraine, posted on U.S. Department of State website, is shocking, not as much for its primitive distortion of reality as its cynicism and overt ‘double standards'.</p>
-
-<p>The State Department is trying to play on a shamelessly one-sided interpretation of events, as if there was not plentiful evidence of atrocities committed by radical nationalists, including the massacre of inconvenient people captured on video cameras, or the murder by provocateur snipers. Washington, of course, can&rsquo;t acknowledge that it nourished &ldquo;Maidan&rdquo; itself, and encouraged the violent overthrow of power, preparing the way for those who now pass themselves off as a legitimate authorities in Kyiv.</p>
-
-<p>We will not stoop as low as to argue with this low-grade propaganda. We will only say that once again we are dealing with unacceptable arrogance and the false assumption of the ultimate truth. The United States doesn’t and can’t have the moral right to lecture us about compliance of international norms. What about the former Yugoslavia bombing or Iraqi invasion under a fabricated motive?</p>
-
-<p>If examining the near distant past, we can find a lot of cases of American military interventions far away from its national borders and without any real threat to the safety of the United States. The Vietnam War claimed two millions of civilians, completely devastated the country, and created a toxic environment. Under the pretense of defending its citizens, that just happened to be in the conflict zone, USA invaded Lebanon in 1958, the Dominican Republic in 1965, attacked tiny Grenada in 1983, bombed Libya in 1986, and three years later occupied Panama. Nevertheless, they dare to reproach Russia for ‘armed aggression’ when she stands up for her countrymen, who constitute the majority of the Crimean people, so as to prevent ultranationalist forces from arranging another bloody &ldquo;Maidan&rdquo;.</p>
-
-<p>Obviously, Washington is still not able to accept the course of events when it contradicts their opinion. They cannot get over it and come to terms with the fact that they cannot always dictate their will and act in their customary role of ‘infallible judge,’ which is followed by — the last word. Their nerves are giving out, but that is no reason to thrust guilt on the innocent.</p>
-
-<p>March 6th, 2014</p></blockquote>
-
-<p>P.S. We now have these cool multi-colored buttons under all our articles. Please click and share!</p>
 ]]></content>
   </entry>
   

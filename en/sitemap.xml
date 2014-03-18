@@ -6,7 +6,7 @@
     
     <url>
       <loc>http://fakecontrol.org/en/about/</loc>
-      <lastmod>2014-03-12T14:06:01+02:00</lastmod>
+      <lastmod>2014-03-13T15:01:36+02:00</lastmod>
     </url>
     
   
@@ -15,14 +15,14 @@
     
     <url>
       <loc>http://fakecontrol.org/en/blog/archives/</loc>
-      <lastmod>2014-03-12T14:06:01+02:00</lastmod>
+      <lastmod>2014-03-13T15:01:36+02:00</lastmod>
     </url>
     
   
     
     <url>
       <loc>http://fakecontrol.org/en/</loc>
-      <lastmod>2014-03-12T14:06:01+02:00</lastmod>
+      <lastmod>2014-03-13T15:01:36+02:00</lastmod>
     </url>
     
   
@@ -33,7 +33,14 @@
     
     <url>
       <loc>http://fakecontrol.org/en/blog/page/2/</loc>
-      <lastmod>2014-03-12T14:06:01+02:00</lastmod>
+      <lastmod>2014-03-13T15:01:36+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://fakecontrol.org/en/blog/page/3/</loc>
+      <lastmod>2014-03-13T15:01:36+02:00</lastmod>
     </url>
     
   
@@ -45,6 +52,20 @@
   
     
   
+  
+  <url>
+    <loc>http://fakecontrol.org/en/blog/2014/03/13/holidays/</loc>
+    
+    <lastmod>2014-03-13T15:01:36+02:00</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://fakecontrol.org/en/blog/2014/03/13/anon-fake-2/</loc>
+    
+    <lastmod>2014-03-13T03:24:25+02:00</lastmod>
+    
+  </url>
   
   <url>
     <loc>http://fakecontrol.org/en/blog/2014/03/12/ob-ukazah-pravitelstva-rf/</loc>
