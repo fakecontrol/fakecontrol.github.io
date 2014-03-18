@@ -2,12 +2,12 @@ $blockquote: $type-border !default;
 $sans: 'HelveticaNeue-Light','HelveticaNeue',Helvetica,Arial,sans-serif !default;
 $serif: "PT Serif", Georgia, Times, "Times New Roman", serif !default;
 $mono: PragmataPro, Menlo, Monaco, "Andale Mono", "Lucida Console", "Courier New", monospace !default;
-$heading-font-family: 'HelveticaNeue-CondensedBold','HelveticaNeue',Helvetica,Arial,sans-serif !default;
+$heading-font-family: 'Exo 2','HelveticaNeue-CondensedBold','HelveticaNeue',Helvetica,Arial,sans-serif !default;
 $header-title-font-family:  $sans !default;
 $header-subtitle-font-family: $heading-font-family !default;
 $nav-font-family: $heading-font-family !default;
 
-$h1:	2.2em !default;
+$h1:	1.8em !default;
 $h2:	1.5em !default;
 $h3:	1.3em !default;
 $h4:	1em !default;
@@ -30,7 +30,7 @@ body > header h1 {
   line-height: .6em;
 }
 body > header h2 {
-  font-size: 5.875em !important;
+  font-size: 2.875em !important;
   font-family: $header-subtitle-font-family;
 }
 
@@ -48,7 +48,7 @@ h1 {
 }
 
 @media only screen and (min-width: 768px) {
-  h1 { font-size: 2.6em; line-height: 1.2em; }
+  h1 { font-size: 2em; line-height: 1.2em; padding-bottom: .5em; }
 }
 
 #{headings()}{

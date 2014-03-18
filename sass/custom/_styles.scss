@@ -1,7 +1,7 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 615px) {
   body>header,body>nav>ul,body>nav>.langs {
     position: relative;
     top: 60px;
@@ -30,7 +30,7 @@
   }
 }
 
-@media only screen and (max-width: 420px) {
+@media only screen and (max-width: 440px) {
   body>header {
     h2 {
       margin-top: .52em;
@@ -53,7 +53,7 @@
   }
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 345px) {
   body>header {
     display: none;
   }
