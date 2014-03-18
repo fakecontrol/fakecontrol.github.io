@@ -53,11 +53,12 @@
   }
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 320px) {
   body>header {
-    h2 {
-      font-size: 2em !important;
-    }
+    display: none;
+  }
+  body>nav>ul {
+    border: 0 !important;
   }
 }
 
