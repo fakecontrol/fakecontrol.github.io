@@ -1,0 +1,40 @@
+---
+layout: post
+title: The e-mails of Igor Protsyk
+date: 2014-03-13 03:24:25 +0200
+comments: true
+categories:
+---
+We are being aggressively offered to believe another sensation from an allegedly hacked mailbox. This time the "data leak" has been presented as follows:
+
+_We have hacked e-mail correspondence of US Army Attache Assistant in Kiev Jason Gresh and a high ranking official from Ukrainian General Staff Igor Protsyk_.
+
+An archive of messages, allegedly from the ```igor.protsyk@gmail.com``` mailbox, was [published](http://www.sendspace.com/file/ih96tx). The package contains two folders – "most interesting" with three scandalous e-mails, which have been spread all over the Internet, and "all" with the complete archive of 86 messages.
+
+We've analyzed the "all" folder and would like to make the following statements on the three "most interesting" messages:
+
+__E-mail #1__: from ```GreshJP@state.gov``` to ```igor.protsyk@gmail.com```, delivered on 9 Mar 2014 08:57:15 -0700.
+
+It looks very different from the rest five messages between the same users (```GreshJP@state.gov``` to ```igor.protsyk@gmail.com```) in the "all" folder (an obvious difference in English skills is just one of them). For example, all the content of this message belongs to the "text/plain" data type (the other ones are multipart/related, with HTML part). Besides that, this message does not end with the notice "SBU This email is UNCLASSIFIED" (SBU, Sensitive But Unclassified – a designation of information in the United States government).
+
+__E-mail #2__: from ```igor.protsyk@gmail.com``` to ```krivonis.te@gmail.com```, delivered on 11 Mar 2014 05:50:36 -0700.
+
+![Imgur](http://i.imgur.com/V7ZoaGa.png)
+
+This message, unlike all the other archived ones sent by ```igor.protsyk@gmail.com```, has a valid DKIM-signature and headers confirming its delivery to ```krivonis.te@gmail.com```. The presence of those headers makes it clear that the message was extracted from the ```krivonis.te@gmail.com``` mailbox, not from ```igor.protsyk@gmail.com``` (that is from the recipient mailbox, though the archive has nothing to do with it).
+
+That means that the hackers had access not only to the mailbox of ```igor.protsyk@gmail.com```, but also to ```krivonis.te@gmail.com```; that's true for E-mail #3 as well.
+
+___E-mail #3___: from ```krivonis.te@gmail.com``` to ```kolyarny@gmail.com``` (by the way, the latter mailbox can be found on the Web only in the context of the "data leak" in question) and to ```igor.protsyk@gmail.com```, delivered on 11 Mar 2014 09:20:47 -0700.
+
+Besides that the archive contains a message from ```no-reply@accounts.google.com``` to ```protsyk@ukr.net``` with password recovery information, delivered on 11 Mar 2014 05:47:11 -0700 (before sending of E-mails #2 and #3). Judging by the fact that there are 21 more e-mails to ```protsyk@ukr.net``` in the archive, the messages from that address are being forwarded to ```igor.protsyk@gmail.com```.
+
+You are free to make your own conclusions, but here are some hints from us:
+
+1. The hackers declared that they had access to the ```GreshJP@state.gov``` and ```igor.protsyk@gmail.com``` mailboxes. But all the published messages between these two addresses are obviously not trustworthy, as they could have been written by the hackers themselves. The hackers most likely had no access to ```GreshJP@state.gov```, because E-mail #1 was clumsily forged on the basis of the rest five "legitimate" messages from ```GreshJP@state.gov``` found in the ```igor.protsyk@gmail.com``` mailbox.
+
+2. The message from ```no-reply@accounts.google.com``` gives us reasons to suppose that E-mails #2 and #3 have been sent after the ```igor.protsyk@gmail.com``` mailbox was compromised; that means that those e-mails could have been sent by the hackers themselves.
+
+3. E-mail #2 proves that the hackers had access to ```krivonis.te@gmail.com```, so why couldn't E-mail #3 have been created by the hackers?
+
+This time the "Anonymous Ukraine" authors of the mail hacking scandal concerning the Crimea provocations made a [far less clumsy try](http://fakecontrol.org/blog/2014/03/02/anon-fake/). The [DKIM-signatures](http://ru.wikipedia.org/wiki/DomainKeys_Identified_Mail) are doubtlessly proving the hacking of the ```igor.protsyk@gmail.com``` and ```krivonis.te@gmail.com``` mailboxes. But the results of the comparison between the "alarming" and all the other archived messages suggest with a high probability that the e-mails, which have so providently been placed in a separate directory under the meaningful name "most interesting", have been forged or sent by the hackers themselves.
