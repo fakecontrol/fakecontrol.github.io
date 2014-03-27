@@ -56,7 +56,7 @@ _[PDF-файл](http://rusfolder.com/40183364)_:
 
 [Форум](http://fkiev.com/pro-banki-30259/), где цепи Маркова симулируют общение.
 [Вброс](http://forum.vidido.ua/viewtopic.php?f=3&t=26906) на форум Черновцов, где не поддаются панике.
-[Вброс](http://www.prostobank.ua/servisy/onlayn_konsultatsii/valyuta/natsbank_ukrainy_gotovit_vyvod_staryh_deneg_iz_obrascheniya) на форум простобанка пользотелем Lupechko. адрес почты «сестры немецкого сотрудника G&D» — loopechka@i.ua
+[Вброс](http://www.prostobank.ua/servisy/onlayn_konsultatsii/valyuta/natsbank_ukrainy_gotovit_vyvod_staryh_deneg_iz_obrascheniya) на форум простобанка пользотелем Lupechko. адрес почты «сестры немецкого сотрудника G&D» — ```loopechka@i.ua```
 
 
 Если посмотреть вКонтакте [коллегу](https://vk.com/id242012389), на которого в одном из постов ссылается источник вброса — там целая палата наполеонов, сталиных и кутузовых, все с имперскими лентами.
