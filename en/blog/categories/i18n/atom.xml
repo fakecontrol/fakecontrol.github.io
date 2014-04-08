@@ -4,7 +4,7 @@
   <title><![CDATA[Category: _i18n | Fake Control]]></title>
   <link href="http://fakecontrol.org/en/blog/categories/i18n/atom.xml" rel="self"/>
   <link href="http://fakecontrol.org/en/"/>
-  <updated>2014-03-13T15:01:36+02:00</updated>
+  <updated>2014-03-27T20:44:13+02:00</updated>
   <id>http://fakecontrol.org/</id>
   <author>
     <name><![CDATA[Fake Control Team]]></name>
@@ -12,6 +12,75 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[About cancellation of hryvnia]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/27/UAH-cancel/"/>
+    <updated>2014-03-27T20:44:13+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/27/UAH-cancel</id>
+    <content type="html"><![CDATA[<p>Since March 20th rumour has it that Yatseniuk&rsquo;s goverment is planning to withdraw the hryvnia from circulation. Nothing dramatic at first glance: changing old hryvnia for new ones. However situation gets tense quite quickly &ndash; it is beleived that the goverment will collapse and withdraw the hryvnia. Some even go as far as telling &lsquo;'remember how it happened in the USSR&rsquo;&lsquo; when new roubles were changes to new ones at a rate different than 1:1. This possibly targets older people as for most youth scary stories about the USSR do not have much of an effect.</p>
+
+<p>The actual article can be found <a href="http://odessitos1.livejournal.com/4588.html">here</a> (if the author deletes it we have everything saved separately). The whole livejournal is quite one-sided and although the author claims to just have the intention to clear things out, the article subtly injects tensions. The blog was <a href="http://odessitos1.livejournal.com/profile">created</a> on March 10th 2014. The author began writing the post about the hryvnia
+<a href="http://odessitos1.livejournal.com/795.html">almost</a> since registering. His first writings began with «predictions».</p>
+
+<p>Through this link you will find 5 reasons why this was made up, although more elegantly than usual:</p>
+
+<!-- more -->
+
+
+<ol>
+<li><p>Ukraine&rsquo;s National Bank <a href="http://glavcom.ua/news/194378.html">denied</a> this information;</p></li>
+<li><p>We have contacted <a href="http://www.banklviv.com/">Lviv bank</a> and obtained an official commentary from Christina Stefanchuk, head of marketing department. She said: « […] over the last week on Russian websites and on Russian TV channels false claims about the withdrawal of the hryvnia have been aired. Those announcements which were made «on behalf» of the Lviv Bank are incorrect. Lviv Bank&rsquo;s Press Office has never published any information of that kind on its website. These claims are false and have the sole objective to undermine the image of our bank and other Ukranian banks»</p></li>
+<li><p>The most solid argument in favor of the cancellation story is the existence of the cache <a href="http://archive.is/g9Pyg/image">page</a> in Google. On the other hand, one should keep in mind that the bank&rsquo;s website was most probably made by one individual <a href="http://www.sitegist.com">positioning himself as a web design studio</a> writing CMS in PHP for 10 years now. Taking this into account along with other details we <em>suspect</em> either vulnerability of the system or a inside job. In all cases our inquiry did not surprise the bank and it is quite possible that its press release will be published shortly. Also, the screen shot of the presented page was modified subsequently.</p>
+
+<p>In the preceding paragraph the link is not to Google&rsquo;s cache, but rather to Archive.is which allows to save site versions from Google&rsquo;s cache. The direct <a href="http://webcache.googleusercontent.com/search?q=cache:0RQLLouF9DEJ:www.banklviv.com/uk/individuals/rule/&amp;client=safari&amp;hl=en&amp;strip=0">google link</a> was still working around noon today and now it is no longer working.</p></li>
+<li><p>We took appart and analysed the picture and the document:</p>
+
+<p><img src="http://i.imgur.com/fexDfbo.jpg" alt="Author's screenshot" />
+<a href="http://i.imgur.com/fexDfbo.jpg">Full view</a></p>
+
+<p>The author&rsquo;s screenshot itself looks more or less credible, but does not match Google&rsquo;s cache version. There are different shades of pink inside and there is lack of semitransparent gradient on the document&rsquo;s icon (this effect takes place on original images in the browser).</p>
+
+<p><img src="http://i.imgur.com/E6PTLVA.png" alt="Imgur" />
+<a href="http://i.imgur.com/E6PTLVA.png">Full view</a></p>
+
+<p><a href="http://fotoforensics.com/analysis.php?id=69961c99af5779e5877f7b0b9740f511e5c5197b.209757">ELA result</a> tells us that the image was saved on top of another image. (Compare with <a href="http://fotoforensics.com/analysis.php?id=27e7d00ab5e48a363130661db5babe20c2c08cdf.657983">the real one</a> for yourself). The Rainbow curve, which saved us more than once, also <a href="http://imgur.com/xdthu8a">shows</a> incongruous items. This tool shows clearly what the gradient is.</p>
+
+<p>Screenshot&rsquo;s profile is Adobe RGB and there are EXIF-data. This is not dramatic by itself, however it looks like a Save For Web team&rsquo;s job in Adobe Photoshop, which has ruined many photographers' color reproduction in different browsers.</p>
+
+<p>Somebody has lately saved two «photos» of the whole archive.is website: <a href="http://archive.is/La2Sy">one dated March 20th at 12:54</a> («coins and banknotes», at the bottom of the page there is a link to this piece of «news») and <a href="http://archive.is/g9Pyg">the second one dated March 20th at 16:12</a>, which was shown in the browser&rsquo;s screenshot. Lviv Bank has <a href="http://archive.is/www.banklviv.com">a total of 4 saved «photos»</a> of this kind — on top of the two mentioned above, one dated from 2013 and the last one made by us today. There is how Archive.is works: you visit and indicate the link that you would like to save. This means that the photos were taken on purpose (it is interesting that according to <a href="http://whois.domaintools.com/archive.org">the statistics</a>, the third largest group using this website is from Russia).</p>
+
+<p><em><a href="http://rusfolder.com/40183364">PDF-file</a></em>:</p>
+
+<p>The most important is that the document is referring to the «Decision of the Ukraine&rsquo;s National Bank Direction of March 12th 2014 No 31 «About the design approval and release dates of the new model hryvnia». On <a href="http://www.bank.gov.ua/control/uk/publish/category?cat_id=58478">the official website</a> this decision does not exist and the number does not correspond to current ones. We could stop here, but let&rsquo;s investigate obvious incongruities further.</p>
+
+<p>Second of all, the name of the document is — áàíê ëüâîâ .pdf.pdf. If it had been downloaded directly from the website it would have had a more accurate name like the neighbouring document for example. Also we doubt that in that case it would have had a second .pdf extention. The neighbouring document&rsquo;s name is «Rules for servicing personal account.pdf». It is also to note that the size of the document differs slightly from A4 as it is 20.96x29.21 cm. On top of that if we copy the file&rsquo;s name in the time <a href="http://www.artlebedev.ru/tools/decoder/">forgotten decoder</a> from Lebedev Studio, which was used when mail was still coming in unknown encoding (бНОПНЯ) we obtain &lsquo;'Lviv Bank&rsquo;&lsquo; and a transposition from CP1252 to CP1251. The most interesting here is the title in Russian as the bank&rsquo;s website is written exclusively in Ukranian and contains no Russian words.</p>
+
+<p>Third, the pdf document we are concerned with is created following the «Rules for Servicing…» sample (Verdana font is used, the text breakdown is similar), however with lack of attention to details — For example the font size is different, the intervals are not the same, there are several mistakes, typos and stylistic inaccuracies — «In connection with the replacement come into circulation banknotes of national currency of Ukraine» makes no sense, «due to change» (to the), «until separate explanation» (very bizarre official tone)</p></li>
+<li><p>We analyzed one banknote and it appeared very familiar. If we mirror the «10 new hryvnias» horizontally (2) and vertically (3) and we compare the result to the old 5 euro sample (in circulation up to the 2013) the source of inspiration is revealed. The size matches, the Ukraine&rsquo;s coat of arms is insterted horribly. If we go further and search for «<a href="http://bit.ly/1dwfVjB">Sophia of Kiev</a>», we fall on the famous iconic image of the cathedral. Here is <a href="http://citycard-ua.com/sites/default/files/imagecache/product_full/sof._sobor.jpg">the possible source</a>, as it matches almost pixel to pixel (4).</p>
+
+<p><img src="http://i.imgur.com/cvc6uW6.jpg" alt="Imgur" />
+<a href="http://i.imgur.com/cvc6uW6.jpg">Full view</a></p>
+
+<p>Additional links:</p>
+
+<p><a href="http://fkiev.com/pro-banki-30259/">Here is a forum</a>, where Markov&rsquo;s chains simulate communication.
+<a href="http://forum.vidido.ua/viewtopic.php?f=3&amp;t=26906">Post</a> to a forum in Chernivtsi were people are not subject to panic.
+<a href="http://www.prostobank.ua/servisy/onlayn_konsultatsii/valyuta/natsbank_ukrainy_gotovit_vyvod_staryh_deneg_iz_obrascheniya">Post</a> to Prostobank&rsquo;s forum loaded by user Lupechko. Email address of «G&amp;D&rsquo;s German collaborator&rsquo;s sisters» — <a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#x6c;&#111;&#x6f;&#x70;&#101;&#x63;&#x68;&#107;&#97;&#64;&#x69;&#46;&#117;&#x61;">&#x6c;&#111;&#111;&#112;&#101;&#99;&#x68;&#107;&#x61;&#64;&#x69;&#46;&#x75;&#x61;</a></p>
+
+<p>If we look up the <a href="https://vk.com/id242012389">colleague</a> the source is quoting in one of the posts in VKontakte, we find a full bunch of napoleons, stalins and kutuzovs, all of them with imperial ribbons.</p>
+
+<p><a href="https://www.youtube.com/watch?v=RXdZW5AvQ0I">Here is a video</a> from the same blog on livejournal, but uploaded by a different non existent author with a newly open account. It looks very romantic and contains enigmatic music as if we are watching a regional channel from the 90s.</p></li>
+</ol>
+
+
+<p>We obtained such a volume that conclusions are superfluous. We just want to add that theories about an occupant sionistic goverment have never added credibility to documents.</p>
+
+<p>We sent an inquiry top <a href="http://www.gi-de.com/en/index.jsp">G&amp;D</a> asking to comment the situation. If they reply, we will write about that right away.</p>
+
+<p>Please share this post.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The fake prohibition of celebrating the holidays]]></title>
@@ -119,60 +188,6 @@ Dmitry Medvedev</p></blockquote>
 <p>Many Ukrainian media have already republished the photo from Tymoshenko&rsquo;s party website. It&rsquo;s a pity that the situation is being completely and deliberately misinterpreted. The fact is that Merkel met two representatives of Ukrainian political parties during the Dublin summit, to which she invited them herself. Instead of that some people try to convince us that &ldquo;Yulia is a strong politician, and even Merkel finds some time in her schedule to talk to her&rdquo;.</p>
 
 <p>Don&rsquo;t act that way.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Its all about language, again]]></title>
-    <link href="http://fakecontrol.org/en/blog/2014/03/08/tass-upolnomochien-zaiavit/"/>
-    <updated>2014-03-08T10:00:00+02:00</updated>
-    <id>http://fakecontrol.org/blog/2014/03/08/tass-upolnomochien-zaiavit</id>
-    <content type="html"><![CDATA[<p>We would like to give up walking on the thin ice of the language problem, but our beloved media does not let us to do so. At this time, the reader put on the alarm sending us a completely unbelievable <a href="http://itar-tass.com/mezhdunarodnaya-panorama/1029332">news</a> that the Administration of acting President of Ukraine Turchynov ordered to remove Russian-language versions of the official websites of public authorities. Perhaps we analyze the news thoroughly.</p>
-
-<blockquote><p>KIEV, March 7. / ITAR-TASS /. Administration of appointed by the Verkhovna Rada Acting President of Ukraine Oleksandr Turchynov has ordered to the Ukrainian bodies of state power to enable Russian-language versions of their official websites, as the source in the Cabinet of Ministers reports to ITAR-TASS .</p></blockquote>
-
-<p>So, the first thing that can cause some doubts. Unknown &ldquo;source&rdquo; reports &ndash; as if about an already made decision, consequently, there is no sence for this source to hide. Our inner barometer automatically moved a pointer to the section &ldquo;fake&rdquo;.</p>
-
-<blockquote><p>&ldquo;Until March 10 all Ukrainian executive, legislative and judicial state authorities must block the access to the Russian versions of their official websites,&rdquo; &ndash; he said. According to the source, the Russian versions of internet pages of 14 key ministries are eliminated by now: the Ministry of Health, Ministry of Foreign Affairs, Ministry of Defense, Ministry of Finance, Ministry of Industry, Ministry of Social Policy and others, as well as web portals of the Supreme Court and the Supreme Economic Court of Ukraine.</p></blockquote>
-
-<p>Oh, a mysterious source didn&rsquo;t take into account that it is quite easy to check such order. We will use <a href="http://archive.org/web/">Internet Wayback Machine</a> service. It will be fun!</p>
-
-<ul>
-<li><a href="http://www.moz.gov.ua/ua/portal/">Ministry of Health</a>. <a href="http://web.archive.org/web/20130813113040/http://www.moz.gov.ua/ua/portal/">As of August 13, 2013</a> not only Russian version is absent, but so is the English one. It hasn&rsquo;t changed since then.</li>
-<li><a href="http://mfa.gov.ua/ua">Ministry of Foreign Affairs</a>. <a href="http://web.archive.org/web/20130816001321/http://mfa.gov.ua/ua">As of August 16, 2013</a> only Ukrainian and English versions are available. It hasn&rsquo;t changed since then.</li>
-<li><a href="http://www.mil.gov.ua/">Ministry of Defense</a>. <a href="http://web.archive.org/web/20130801033533/http://www.mil.gov.ua/">As of August 1, 2013</a> Russian version is in the website header and it works. Now it&rsquo;s still in the header, but doesn&rsquo;t work. We can&rsquo;t assert, but we think it&rsquo;s connected to the current events, and is generally predictable.</li>
-<li><a href="http://www.minfin.gov.ua/control/ru/index">Ministry of Finance</a> &ndash; we&rsquo;ll just leave the link to the Russian version for ITAR-TASS here.</li>
-<li><a href="http://industry.gov.ua">Ministry of Industry</a>. <a href="http://web.archive.org/web/20140214045904/http://industry.gov.ua/">As of February 14, 2014</a> Russian and English versions are available. The same as now.</li>
-<li><a href="http://www.mlsp.gov.ua">Ministry of Social Policy</a>. <a href="http://web.archive.org/web/20130809060550/http://www.mlsp.gov.ua/labour/control/uk/index">As of August 9, 2013</a>  the link to the Russian version in the header is missing, but it can be found by replacing <code>uk</code> with <code>ru</code> in the URL. However, this version is still empty, as well as in the archive.</li>
-<li><a href="http://www.scourt.gov.ua/">Supreme Court</a>. <a href="http://web.archive.org/web/20130823191633/http://www.scourt.gov.ua/">As of 23 of August 2013</a> &ndash; only ukrainian and english versions are available.</li>
-<li><a href="http://vgsu.arbitr.gov.ua/">Superior commercial court</a>. <a href="http://web.archive.org/web/20130815204613/http://vgsu.arbitr.gov.ua/">As of 15 of August 2013</a> &ndash; only ukrainian and english versions are available.</li>
-</ul>
-
-
-<blockquote><p>&ldquo;Moreover, the Russian language has disappeared from the official web pages of central executive bodies of special status: the Security Service, the Antimonopoly Committee, etc.,&rdquo; &ndash; the source added.</p></blockquote>
-
-<p>The same applies to the Security Service and the Antimonopoly Committee &ndash; Russian version either exists or there was no before.</p>
-
-<p>We have got two questions on this subject.</p>
-
-<p>First, the Ministry of Finance, for how long will you neglect the order of <em>Acting President</em> (a fake one)? Boo, saboteurs!</p>
-
-<p>The second one requires a <a href="http://itar-tass.com/pages/tass-today">quotation</a>:</p>
-
-<blockquote><p>Nowadays, the amount of information produced in the world is growing exponentially, so the question of its authenticity becomes acute. It is therefore of paramount importance to ITAR-TASS team the authenticity of the information received by our subscribers.</p></blockquote>
-
-<p>Hey ITAR-TASS (The Information Telegraph Agency of Russia), shame on you!</p>
-
-<p>P.S. The one, who would find the Russian versions of the above mentioned pages, will get a beautiful picture a of pug from us for free!</p>
-
-<p><strong>Update</strong>: &ldquo;News&rdquo; by ITAR-TASS, seems to be picked up by everybody including the Echo of Moscow, Kommersant and RT:</p>
-
-<ul>
-<li><a href="http://www.echo.msk.ru/news/1274556-echo.html">http://www.echo.msk.ru/news/1274556-echo.html</a></li>
-<li><a href="http://www.kommersant.ru/doc/2425851">http://www.kommersant.ru/doc/2425851</a></li>
-<li><a href="http://russian.rt.com/article/23878">http://russian.rt.com/article/23878</a></li>
-</ul>
-
 ]]></content>
   </entry>
   

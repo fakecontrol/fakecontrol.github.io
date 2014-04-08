@@ -4,7 +4,7 @@
   <title><![CDATA[Fake Control]]></title>
   <link href="http://fakecontrol.org/en/atom.xml" rel="self"/>
   <link href="http://fakecontrol.org/en/"/>
-  <updated>2014-03-13T15:01:36+02:00</updated>
+  <updated>2014-03-27T20:44:13+02:00</updated>
   <id>http://fakecontrol.org/</id>
   <author>
     <name><![CDATA[Fake Control Team]]></name>
@@ -12,6 +12,75 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[About cancellation of hryvnia]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/27/UAH-cancel/"/>
+    <updated>2014-03-27T20:44:13+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/27/UAH-cancel</id>
+    <content type="html"><![CDATA[<p>Since March 20th rumour has it that Yatseniuk&rsquo;s goverment is planning to withdraw the hryvnia from circulation. Nothing dramatic at first glance: changing old hryvnia for new ones. However situation gets tense quite quickly &ndash; it is beleived that the goverment will collapse and withdraw the hryvnia. Some even go as far as telling &lsquo;&#8217;remember how it happened in the USSR&rsquo;&lsquo; when new roubles were changes to new ones at a rate different than 1:1. This possibly targets older people as for most youth scary stories about the USSR do not have much of an effect.</p>
+
+<p>The actual article can be found <a href="http://odessitos1.livejournal.com/4588.html">here</a> (if the author deletes it we have everything saved separately). The whole livejournal is quite one-sided and although the author claims to just have the intention to clear things out, the article subtly injects tensions. The blog was <a href="http://odessitos1.livejournal.com/profile">created</a> on March 10th 2014. The author began writing the post about the hryvnia
+<a href="http://odessitos1.livejournal.com/795.html">almost</a> since registering. His first writings began with «predictions».</p>
+
+<p>Through this link you will find 5 reasons why this was made up, although more elegantly than usual:</p>
+
+<!-- more -->
+
+
+<ol>
+<li><p>Ukraine&rsquo;s National Bank <a href="http://glavcom.ua/news/194378.html">denied</a> this information;</p></li>
+<li><p>We have contacted <a href="http://www.banklviv.com/">Lviv bank</a> and obtained an official commentary from Christina Stefanchuk, head of marketing department. She said: « […] over the last week on Russian websites and on Russian TV channels false claims about the withdrawal of the hryvnia have been aired. Those announcements which were made «on behalf» of the Lviv Bank are incorrect. Lviv Bank&rsquo;s Press Office has never published any information of that kind on its website. These claims are false and have the sole objective to undermine the image of our bank and other Ukranian banks»</p></li>
+<li><p>The most solid argument in favor of the cancellation story is the existence of the cache <a href="http://archive.is/g9Pyg/image">page</a> in Google. On the other hand, one should keep in mind that the bank&rsquo;s website was most probably made by one individual <a href="http://www.sitegist.com">positioning himself as a web design studio</a> writing CMS in PHP for 10 years now. Taking this into account along with other details we <em>suspect</em> either vulnerability of the system or a inside job. In all cases our inquiry did not surprise the bank and it is quite possible that its press release will be published shortly. Also, the screen shot of the presented page was modified subsequently.</p>
+
+<p>In the preceding paragraph the link is not to Google&rsquo;s cache, but rather to Archive.is which allows to save site versions from Google&rsquo;s cache. The direct <a href="http://webcache.googleusercontent.com/search?q=cache:0RQLLouF9DEJ:www.banklviv.com/uk/individuals/rule/&amp;client=safari&amp;hl=en&amp;strip=0">google link</a> was still working around noon today and now it is no longer working.</p></li>
+<li><p>We took appart and analysed the picture and the document:</p>
+
+<p><img src="http://i.imgur.com/fexDfbo.jpg" alt="Author's screenshot" />
+<a href="http://i.imgur.com/fexDfbo.jpg">Full view</a></p>
+
+<p>The author&rsquo;s screenshot itself looks more or less credible, but does not match Google&rsquo;s cache version. There are different shades of pink inside and there is lack of semitransparent gradient on the document&rsquo;s icon (this effect takes place on original images in the browser).</p>
+
+<p><img src="http://i.imgur.com/E6PTLVA.png" alt="Imgur" />
+<a href="http://i.imgur.com/E6PTLVA.png">Full view</a></p>
+
+<p><a href="http://fotoforensics.com/analysis.php?id=69961c99af5779e5877f7b0b9740f511e5c5197b.209757">ELA result</a> tells us that the image was saved on top of another image. (Compare with <a href="http://fotoforensics.com/analysis.php?id=27e7d00ab5e48a363130661db5babe20c2c08cdf.657983">the real one</a> for yourself). The Rainbow curve, which saved us more than once, also <a href="http://imgur.com/xdthu8a">shows</a> incongruous items. This tool shows clearly what the gradient is.</p>
+
+<p>Screenshot&rsquo;s profile is Adobe RGB and there are EXIF-data. This is not dramatic by itself, however it looks like a Save For Web team&rsquo;s job in Adobe Photoshop, which has ruined many photographers&#8217; color reproduction in different browsers.</p>
+
+<p>Somebody has lately saved two «photos» of the whole archive.is website: <a href="http://archive.is/La2Sy">one dated March 20th at 12:54</a> («coins and banknotes», at the bottom of the page there is a link to this piece of «news») and <a href="http://archive.is/g9Pyg">the second one dated March 20th at 16:12</a>, which was shown in the browser&rsquo;s screenshot. Lviv Bank has <a href="http://archive.is/www.banklviv.com">a total of 4 saved «photos»</a> of this kind — on top of the two mentioned above, one dated from 2013 and the last one made by us today. There is how Archive.is works: you visit and indicate the link that you would like to save. This means that the photos were taken on purpose (it is interesting that according to <a href="http://whois.domaintools.com/archive.org">the statistics</a>, the third largest group using this website is from Russia).</p>
+
+<p><em><a href="http://rusfolder.com/40183364">PDF-file</a></em>:</p>
+
+<p>The most important is that the document is referring to the «Decision of the Ukraine&rsquo;s National Bank Direction of March 12th 2014 No 31 «About the design approval and release dates of the new model hryvnia». On <a href="http://www.bank.gov.ua/control/uk/publish/category?cat_id=58478">the official website</a> this decision does not exist and the number does not correspond to current ones. We could stop here, but let&rsquo;s investigate obvious incongruities further.</p>
+
+<p>Second of all, the name of the document is — áàíê ëüâîâ .pdf.pdf. If it had been downloaded directly from the website it would have had a more accurate name like the neighbouring document for example. Also we doubt that in that case it would have had a second .pdf extention. The neighbouring document&rsquo;s name is «Rules for servicing personal account.pdf». It is also to note that the size of the document differs slightly from A4 as it is 20.96x29.21 cm. On top of that if we copy the file&rsquo;s name in the time <a href="http://www.artlebedev.ru/tools/decoder/">forgotten decoder</a> from Lebedev Studio, which was used when mail was still coming in unknown encoding (бНОПНЯ) we obtain &lsquo;&#8217;Lviv Bank&rsquo;&lsquo; and a transposition from CP1252 to CP1251. The most interesting here is the title in Russian as the bank&rsquo;s website is written exclusively in Ukranian and contains no Russian words.</p>
+
+<p>Third, the pdf document we are concerned with is created following the «Rules for Servicing…» sample (Verdana font is used, the text breakdown is similar), however with lack of attention to details — For example the font size is different, the intervals are not the same, there are several mistakes, typos and stylistic inaccuracies — «In connection with the replacement come into circulation banknotes of national currency of Ukraine» makes no sense, «due to change» (to the), «until separate explanation» (very bizarre official tone)</p></li>
+<li><p>We analyzed one banknote and it appeared very familiar. If we mirror the «10 new hryvnias» horizontally (2) and vertically (3) and we compare the result to the old 5 euro sample (in circulation up to the 2013) the source of inspiration is revealed. The size matches, the Ukraine&rsquo;s coat of arms is insterted horribly. If we go further and search for «<a href="http://bit.ly/1dwfVjB">Sophia of Kiev</a>», we fall on the famous iconic image of the cathedral. Here is <a href="http://citycard-ua.com/sites/default/files/imagecache/product_full/sof._sobor.jpg">the possible source</a>, as it matches almost pixel to pixel (4).</p>
+
+<p><img src="http://i.imgur.com/cvc6uW6.jpg" alt="Imgur" />
+<a href="http://i.imgur.com/cvc6uW6.jpg">Full view</a></p>
+
+<p>Additional links:</p>
+
+<p><a href="http://fkiev.com/pro-banki-30259/">Here is a forum</a>, where Markov&rsquo;s chains simulate communication.
+<a href="http://forum.vidido.ua/viewtopic.php?f=3&amp;t=26906">Post</a> to a forum in Chernivtsi were people are not subject to panic.
+<a href="http://www.prostobank.ua/servisy/onlayn_konsultatsii/valyuta/natsbank_ukrainy_gotovit_vyvod_staryh_deneg_iz_obrascheniya">Post</a> to Prostobank&rsquo;s forum loaded by user Lupechko. Email address of «G&amp;D&rsquo;s German collaborator&rsquo;s sisters» — <a href="&#x6d;&#97;&#105;&#108;&#116;&#111;&#x3a;&#x6c;&#x6f;&#111;&#x70;&#x65;&#99;&#x68;&#107;&#97;&#64;&#x69;&#46;&#x75;&#x61;">&#108;&#x6f;&#111;&#112;&#101;&#99;&#104;&#107;&#97;&#x40;&#x69;&#46;&#x75;&#x61;</a></p>
+
+<p>If we look up the <a href="https://vk.com/id242012389">colleague</a> the source is quoting in one of the posts in VKontakte, we find a full bunch of napoleons, stalins and kutuzovs, all of them with imperial ribbons.</p>
+
+<p><a href="https://www.youtube.com/watch?v=RXdZW5AvQ0I">Here is a video</a> from the same blog on livejournal, but uploaded by a different non existent author with a newly open account. It looks very romantic and contains enigmatic music as if we are watching a regional channel from the 90s.</p></li>
+</ol>
+
+
+<p>We obtained such a volume that conclusions are superfluous. We just want to add that theories about an occupant sionistic goverment have never added credibility to documents.</p>
+
+<p>We sent an inquiry top <a href="http://www.gi-de.com/en/index.jsp">G&amp;D</a> asking to comment the situation. If they reply, we will write about that right away.</p>
+
+<p>Please share this post.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The fake prohibition of celebrating the holidays]]></title>
@@ -587,23 +656,6 @@ American mercenaries fight on Maidan&rsquo;s side. It has been clearly demonstra
 
 <p>It means Canadian Red Cross did not offer their help to Ukranian Red Cross. It would be nice if all involved parts would clarify this issue. And you are welcome to share these news.Thanks a lot,
 Fakecontrol Team</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Rybak Was Not Attacked]]></title>
-    <link href="http://fakecontrol.org/en/blog/2014/02/23/rybak/"/>
-    <updated>2014-02-23T17:27:43+02:00</updated>
-    <id>http://fakecontrol.org/blog/2014/02/23/rybak</id>
-    <content type="html"><![CDATA[<p>I believe everyone has read/heard the <a href="http://www.president.gov.ua/ru/news/30127.html">President&rsquo;s statement</a>.</p>
-
-<p>Specifically, there are the following words:&ldquo;Rybak came to me yesterday. While he was on his way to me, the car was fired on. He came to me and asked to take him away. I took him away and sent him to Donetsk by car to have medical treatment.&rdquo;</p>
-
-<p><a href="https://www.facebook.com/photo.php?v=639362169451922"><img src="http://d.pr/i/wCzT+"></a></p>
-
-<p>And today Vladimir Rybak uploaded <a href="https://www.facebook.com/photo.php?v=639362169451922">this video</a>) of him saying is saying that no one ever attempted the life of him.</p>
-
-<p>Enjoy watching, we will refrain from conclusions.</p>
 ]]></content>
   </entry>
   
