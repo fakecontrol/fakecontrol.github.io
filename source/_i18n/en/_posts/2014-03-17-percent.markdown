@@ -1,0 +1,23 @@
+---
+layout: post
+title: "About the 146% anew (updated)"
+date: 2014-03-17 16:28:36 +0200
+comments: true
+categories:
+---
+There are discrepancies in numbers being reported by Russian media regarding Crimean voters in the referendum.
+According to Russian media, in particular [gazeta.ru](http://www.gazeta.ru/politics/2014/03/15_a_5951217.shtml)
+
+> 81.36% of Crimean voters presented themselves as of 20:00 (22:00 Moscow time). Mihail Malyshev, president of the supreme commission of Crimea, and the person responsible for organizing and holding referendums, announced this number.
+>
+> He stated that, «As of 20:00 (8 p.m.), 1,250,426 people cast their votes in Crimea. This is excluding Sevastopol … If we also add Sevastopol, a total of 1,724,563 people cast their votes.»
+
+In attempting to verify this information, we discovered discrepancies.
+As seen in [the video footage](http://youtu.be/hBf7-b3IyIA?t=3m55s) announcing these numbers, Malyshev said **1,524,563** voters cast their ballots and not 1,724,563. ITAR-TASS made this mistake in the original news report, which was then picked up by other Russian media, numerous analysers, and even ourselves and [StopFake](http://stopfake.org/). This resulted in reports of a [123% participation rate](http://teh-nomad.livejournal.com/2007998.html).
+
+On the other hand, [in the same video at minute 15](http://youtu.be/hBf7-b3IyIA?t=15m20s) we hear information about **1,724,563**, which creates double confusion and seems to be the original source of this misinformation.
+
+We implore journalists to please verify information they receive. 
+Thank you.
+
+As a reminder, you can follow us on [Twitter](http://twitter.com/fakecontrol_org). Sign up and you will be in the loop!
