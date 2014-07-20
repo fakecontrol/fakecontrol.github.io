@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Fake Control]]></title>
+  <link href="http://fakecontrol.org/en/atom.xml" rel="self"/>
+  <link href="http://fakecontrol.org/en/"/>
+  <updated>2014-03-27T20:44:13+02:00</updated>
+  <id>http://fakecontrol.org/</id>
+  <author>
+    <name><![CDATA[Fake Control Team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[About cancellation of hryvnia]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/27/UAH-cancel/"/>
+    <updated>2014-03-27T20:44:13+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/27/UAH-cancel</id>
+    <content type="html"><![CDATA[<p>Since March 20th rumour has it that Yatseniuk&rsquo;s goverment is planning to withdraw the hryvnia from circulation. Nothing dramatic at first glance: changing old hryvnia for new ones. However situation gets tense quite quickly &ndash; it is beleived that the goverment will collapse and withdraw the hryvnia. Some even go as far as telling &lsquo;&#8217;remember how it happened in the USSR&rsquo;&lsquo; when new roubles were changes to new ones at a rate different than 1:1. This possibly targets older people as for most youth scary stories about the USSR do not have much of an effect.</p>
+
+<p>The actual article can be found <a href="http://odessitos1.livejournal.com/4588.html">here</a> (if the author deletes it we have everything saved separately). The whole livejournal is quite one-sided and although the author claims to just have the intention to clear things out, the article subtly injects tensions. The blog was <a href="http://odessitos1.livejournal.com/profile">created</a> on March 10th 2014. The author began writing the post about the hryvnia
+<a href="http://odessitos1.livejournal.com/795.html">almost</a> since registering. His first writings began with «predictions».</p>
+
+<p>Through this link you will find 5 reasons why this was made up, although more elegantly than usual:</p>
+
+<!-- more -->
+
+
+<ol>
+<li><p>Ukraine&rsquo;s National Bank <a href="http://glavcom.ua/news/194378.html">denied</a> this information;</p></li>
+<li><p>We have contacted <a href="http://www.banklviv.com/">Lviv bank</a> and obtained an official commentary from Christina Stefanchuk, head of marketing department. She said: « […] over the last week on Russian websites and on Russian TV channels false claims about the withdrawal of the hryvnia have been aired. Those announcements which were made «on behalf» of the Lviv Bank are incorrect. Lviv Bank&rsquo;s Press Office has never published any information of that kind on its website. These claims are false and have the sole objective to undermine the image of our bank and other Ukranian banks»</p></li>
+<li><p>The most solid argument in favor of the cancellation story is the existence of the cache <a href="http://archive.is/g9Pyg/image">page</a> in Google. On the other hand, one should keep in mind that the bank&rsquo;s website was most probably made by one individual <a href="http://www.sitegist.com">positioning himself as a web design studio</a> writing CMS in PHP for 10 years now. Taking this into account along with other details we <em>suspect</em> either vulnerability of the system or a inside job. In all cases our inquiry did not surprise the bank and it is quite possible that its press release will be published shortly. Also, the screen shot of the presented page was modified subsequently.</p>
+
+<p>In the preceding paragraph the link is not to Google&rsquo;s cache, but rather to Archive.is which allows to save site versions from Google&rsquo;s cache. The direct <a href="http://webcache.googleusercontent.com/search?q=cache:0RQLLouF9DEJ:www.banklviv.com/uk/individuals/rule/&amp;client=safari&amp;hl=en&amp;strip=0">google link</a> was still working around noon today and now it is no longer working.</p></li>
+<li><p>We took appart and analysed the picture and the document:</p>
+
+<p><img src="http://i.imgur.com/fexDfbo.jpg" alt="Author's screenshot" />
+<a href="http://i.imgur.com/fexDfbo.jpg">Full view</a></p>
+
+<p>The author&rsquo;s screenshot itself looks more or less credible, but does not match Google&rsquo;s cache version. There are different shades of pink inside and there is lack of semitransparent gradient on the document&rsquo;s icon (this effect takes place on original images in the browser).</p>
+
+<p><img src="http://i.imgur.com/E6PTLVA.png" alt="Imgur" />
+<a href="http://i.imgur.com/E6PTLVA.png">Full view</a></p>
+
+<p><a href="http://fotoforensics.com/analysis.php?id=69961c99af5779e5877f7b0b9740f511e5c5197b.209757">ELA result</a> tells us that the image was saved on top of another image. (Compare with <a href="http://fotoforensics.com/analysis.php?id=27e7d00ab5e48a363130661db5babe20c2c08cdf.657983">the real one</a> for yourself). The Rainbow curve, which saved us more than once, also <a href="http://imgur.com/xdthu8a">shows</a> incongruous items. This tool shows clearly what the gradient is.</p>
+
+<p>Screenshot&rsquo;s profile is Adobe RGB and there are EXIF-data. This is not dramatic by itself, however it looks like a Save For Web team&rsquo;s job in Adobe Photoshop, which has ruined many photographers&#8217; color reproduction in different browsers.</p>
+
+<p>Somebody has lately saved two «photos» of the whole archive.is website: <a href="http://archive.is/La2Sy">one dated March 20th at 12:54</a> («coins and banknotes», at the bottom of the page there is a link to this piece of «news») and <a href="http://archive.is/g9Pyg">the second one dated March 20th at 16:12</a>, which was shown in the browser&rsquo;s screenshot. Lviv Bank has <a href="http://archive.is/www.banklviv.com">a total of 4 saved «photos»</a> of this kind — on top of the two mentioned above, one dated from 2013 and the last one made by us today. There is how Archive.is works: you visit and indicate the link that you would like to save. This means that the photos were taken on purpose (it is interesting that according to <a href="http://whois.domaintools.com/archive.org">the statistics</a>, the third largest group using this website is from Russia).</p>
+
+<p><em><a href="http://rusfolder.com/40183364">PDF-file</a></em>:</p>
+
+<p>The most important is that the document is referring to the «Decision of the Ukraine&rsquo;s National Bank Direction of March 12th 2014 No 31 «About the design approval and release dates of the new model hryvnia». On <a href="http://www.bank.gov.ua/control/uk/publish/category?cat_id=58478">the official website</a> this decision does not exist and the number does not correspond to current ones. We could stop here, but let&rsquo;s investigate obvious incongruities further.</p>
+
+<p>Second of all, the name of the document is — áàíê ëüâîâ .pdf.pdf. If it had been downloaded directly from the website it would have had a more accurate name like the neighbouring document for example. Also we doubt that in that case it would have had a second .pdf extention. The neighbouring document&rsquo;s name is «Rules for servicing personal account.pdf». It is also to note that the size of the document differs slightly from A4 as it is 20.96x29.21 cm. On top of that if we copy the file&rsquo;s name in the time <a href="http://www.artlebedev.ru/tools/decoder/">forgotten decoder</a> from Lebedev Studio, which was used when mail was still coming in unknown encoding (бНОПНЯ) we obtain &lsquo;&#8217;Lviv Bank&rsquo;&lsquo; and a transposition from CP1252 to CP1251. The most interesting here is the title in Russian as the bank&rsquo;s website is written exclusively in Ukranian and contains no Russian words.</p>
+
+<p>Third, the pdf document we are concerned with is created following the «Rules for Servicing…» sample (Verdana font is used, the text breakdown is similar), however with lack of attention to details — For example the font size is different, the intervals are not the same, there are several mistakes, typos and stylistic inaccuracies — «In connection with the replacement come into circulation banknotes of national currency of Ukraine» makes no sense, «due to change» (to the), «until separate explanation» (very bizarre official tone)</p></li>
+<li><p>We analyzed one banknote and it appeared very familiar. If we mirror the «10 new hryvnias» horizontally (2) and vertically (3) and we compare the result to the old 5 euro sample (in circulation up to the 2013) the source of inspiration is revealed. The size matches, the Ukraine&rsquo;s coat of arms is insterted horribly. If we go further and search for «<a href="http://bit.ly/1dwfVjB">Sophia of Kiev</a>», we fall on the famous iconic image of the cathedral. Here is <a href="http://citycard-ua.com/sites/default/files/imagecache/product_full/sof._sobor.jpg">the possible source</a>, as it matches almost pixel to pixel (4).</p>
+
+<p><img src="http://i.imgur.com/cvc6uW6.jpg" alt="Imgur" />
+<a href="http://i.imgur.com/cvc6uW6.jpg">Full view</a></p>
+
+<p>Additional links:</p>
+
+<p><a href="http://fkiev.com/pro-banki-30259/">Here is a forum</a>, where Markov&rsquo;s chains simulate communication.
+<a href="http://forum.vidido.ua/viewtopic.php?f=3&amp;t=26906">Post</a> to a forum in Chernivtsi were people are not subject to panic.
+<a href="http://www.prostobank.ua/servisy/onlayn_konsultatsii/valyuta/natsbank_ukrainy_gotovit_vyvod_staryh_deneg_iz_obrascheniya">Post</a> to Prostobank&rsquo;s forum loaded by user Lupechko. Email address of «G&amp;D&rsquo;s German collaborator&rsquo;s sisters» — <a href="&#x6d;&#x61;&#105;&#108;&#116;&#x6f;&#58;&#x6c;&#111;&#x6f;&#x70;&#x65;&#99;&#x68;&#x6b;&#x61;&#64;&#x69;&#x2e;&#x75;&#x61;">&#x6c;&#x6f;&#111;&#x70;&#101;&#99;&#x68;&#x6b;&#x61;&#64;&#105;&#x2e;&#117;&#x61;</a></p>
+
+<p>If we look up the <a href="https://vk.com/id242012389">colleague</a> the source is quoting in one of the posts in VKontakte, we find a full bunch of napoleons, stalins and kutuzovs, all of them with imperial ribbons.</p>
+
+<p><a href="https://www.youtube.com/watch?v=RXdZW5AvQ0I">Here is a video</a> from the same blog on livejournal, but uploaded by a different non existent author with a newly open account. It looks very romantic and contains enigmatic music as if we are watching a regional channel from the 90s.</p></li>
+</ol>
+
+
+<p>We obtained such a volume that conclusions are superfluous. We just want to add that theories about an occupant sionistic goverment have never added credibility to documents.</p>
+
+<p>We sent an inquiry top <a href="http://www.gi-de.com/en/index.jsp">G&amp;D</a> asking to comment the situation. If they reply, we will write about that right away.</p>
+
+<p>Please share this post.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[About the 146% anew (updated)]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/17/percent/"/>
+    <updated>2014-03-17T16:28:36+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/17/percent</id>
+    <content type="html"><![CDATA[<p>There are discrepancies in numbers being reported by Russian media regarding Crimean voters in the referendum.
+According to Russian media, in particular <a href="http://www.gazeta.ru/politics/2014/03/15_a_5951217.shtml">gazeta.ru</a></p>
+
+<blockquote><p>81.36% of Crimean voters presented themselves as of 20:00 (22:00 Moscow time). Mihail Malyshev, president of the supreme commission of Crimea, and the person responsible for organizing and holding referendums, announced this number.</p>
+
+<p>He stated that, «As of 20:00 (8 p.m.), 1,250,426 people cast their votes in Crimea. This is excluding Sevastopol … If we also add Sevastopol, a total of 1,724,563 people cast their votes.»</p></blockquote>
+
+<p>In attempting to verify this information, we discovered discrepancies.
+As seen in <a href="http://youtu.be/hBf7-b3IyIA?t=3m55s">the video footage</a> announcing these numbers, Malyshev said <strong>1,524,563</strong> voters cast their ballots and not 1,724,563. ITAR-TASS made this mistake in the original news report, which was then picked up by other Russian media, numerous analysers, and even ourselves and <a href="http://stopfake.org/">StopFake</a>. This resulted in reports of a <a href="http://teh-nomad.livejournal.com/2007998.html">123% participation rate</a>.</p>
+
+<p>On the other hand, <a href="http://youtu.be/hBf7-b3IyIA?t=15m20s">in the same video at minute 15</a> we hear information about <strong>1,724,563</strong>, which creates double confusion and seems to be the original source of this misinformation.</p>
+
+<p>We implore journalists to please verify information they receive.
+Thank you.</p>
+
+<p>As a reminder, you can follow us on <a href="http://twitter.com/fakecontrol_org">Twitter</a>. Sign up and you will be in the loop!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[About the 'Kyiv schoolchildren']]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/16/school/"/>
+    <updated>2014-03-16T01:23:56+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/16/school</id>
+    <content type="html"><![CDATA[<p>Today our friends from Russia sent us a video, which started spreading on the Web yesterday.
+<img src="http://i.imgur.com/qHILiDW.png" alt="video school kiev" />
+<em><a href="https://www.youtube.com/watch?v=KrJC6rU9lG0">link to the video</a></em></p>
+
+<p>This is allegedly a video of schoolchildren participating in a political rally a day or two ago in Kyiv.<br/>
+However, we&rsquo;ve managed to find another video of the same event (uploaded to YouTube on November 27, 2013).
+<img src="http://i.imgur.com/75EBNXL.png" alt="original" />
+<em><a href="https://www.youtube.com/watch?v=Go4Wwjuzm-s">link to the video</a></em></p>
+
+<p>Some juggling with facts, and suddenly a students&#8217; rally in Drogobych turns into a rally of schoolchildren in Kyiv, and the video is widely spread all over the Internet (especially its Russian part) as proof of all the &ldquo;terrible things&rdquo; in post-revolutionary Kyiv.</p>
+
+<p>The conclusions, as usual, are up to you.</p>
+
+<p><strong>UPD</strong>: This is a hot topic at the moment, and our team would like to emphasize once more: we are not trying to justify the events shown or make any judgment about them. We are simply providing another example that illustrates how facts are being twisted and worsening the situation by those involved in the information warfare. Also, the way our readers are reacting gives us strong reason to believe that this is a very good choice of a &ldquo;newsworthy event&rdquo; to be exposed to public opinion.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The fake prohibition of celebrating the holidays]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/13/holidays/"/>
+    <updated>2014-03-13T15:01:36+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/13/holidays</id>
+    <content type="html"><![CDATA[<p>One more <a href="http://www.gorodche.ru/news/society/30171/">news from Rada</a> (Ukrainian Parliament) turned out to be fake, or, to be more precise, an incorrect interpretation of the just adopted regulations.</p>
+
+<p>In particular, the journalists of the mentioned news provider reckon, that the decision based on the Cabinet of Ministers of Ukraine Regulation №65 dated 1/03/2014 rules the following:</p>
+
+<blockquote><p>Fairs, festivals, conventions, celebrating commemorative and historical dates, Victory Day, Constitution Day, Independence Day and the Day of commemoration of Holodomors victims are also banned.</p></blockquote>
+
+<p>Let&rsquo;s refer to <a href="http://zakon2.rada.gov.ua/laws/show/65-2014-%D0%BF">the text of the regulation</a>, namely to the clause regarding the holidays, which will speak for itself:</p>
+
+<blockquote><p>20 Suspension of the use of budgetary funds for running events related to celebrating commemorative and historical dates, anniversaries of enterprises, institutions and organizations, along with anniversaries and commemoration of prominent figures and other events (except centralized Ministry of Culture events for celebrating 200 years from the day of birth of Taras Shevchenko, Constitution Day, Independence Day, Victory Day, Day of commemoration of Holodomors victims), printing production not related to exercise of functions of governmental authorities.</p></blockquote>
+
+<p>Obviously, nobody banned celebrating Victory Day, Constitution Day, Independence Day and the Day of commemoration of Holodomors victims.</p>
+
+<p>The conclusions, as usual, are up to you.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The e-mails of Igor Protsyk]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/13/anon-fake-2/"/>
+    <updated>2014-03-13T03:24:25+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/13/anon-fake-2</id>
+    <content type="html"><![CDATA[<p>We are being aggressively offered to believe another sensation from an allegedly hacked mailbox. This time the &ldquo;data leak&rdquo; has been presented as follows:</p>
+
+<p><em>We have hacked e-mail correspondence of US Army Attache Assistant in Kiev Jason Gresh and a high ranking official from Ukrainian General Staff Igor Protsyk</em>.</p>
+
+<p>An archive of messages, allegedly from the <code>igor.protsyk@gmail.com</code> mailbox, was <a href="http://www.sendspace.com/file/ih96tx">published</a>. The package contains two folders – &ldquo;most interesting&rdquo; with three scandalous e-mails, which have been spread all over the Internet, and &ldquo;all&rdquo; with the complete archive of 86 messages.</p>
+
+<p>We&rsquo;ve analyzed the &ldquo;all&rdquo; folder and would like to make the following statements on the three &ldquo;most interesting&rdquo; messages:</p>
+
+<p><strong>E-mail #1</strong>: from <code>GreshJP@state.gov</code> to <code>igor.protsyk@gmail.com</code>, delivered on 9 Mar 2014 08:57:15 -0700.</p>
+
+<p>It looks very different from the rest five messages between the same users (<code>GreshJP@state.gov</code> to <code>igor.protsyk@gmail.com</code>) in the &ldquo;all&rdquo; folder (an obvious difference in English skills is just one of them). For example, all the content of this message belongs to the &ldquo;text/plain&rdquo; data type (the other ones are multipart/related, with HTML part). Besides that, this message does not end with the notice &ldquo;SBU This email is UNCLASSIFIED&rdquo; (SBU, Sensitive But Unclassified – a designation of information in the United States government).</p>
+
+<p><strong>E-mail #2</strong>: from <code>igor.protsyk@gmail.com</code> to <code>krivonis.te@gmail.com</code>, delivered on 11 Mar 2014 05:50:36 -0700.</p>
+
+<p><img src="http://i.imgur.com/V7ZoaGa.png" alt="Imgur" /></p>
+
+<p>This message, unlike all the other archived ones sent by <code>igor.protsyk@gmail.com</code>, has a valid DKIM-signature and headers confirming its delivery to <code>krivonis.te@gmail.com</code>. The presence of those headers makes it clear that the message was extracted from the <code>krivonis.te@gmail.com</code> mailbox, not from <code>igor.protsyk@gmail.com</code> (that is from the recipient mailbox, though the archive has nothing to do with it).</p>
+
+<p>That means that the hackers had access not only to the mailbox of <code>igor.protsyk@gmail.com</code>, but also to <code>krivonis.te@gmail.com</code>; that&rsquo;s true for E-mail #3 as well.</p>
+
+<p><strong><em>E-mail #3</em></strong>: from <code>krivonis.te@gmail.com</code> to <code>kolyarny@gmail.com</code> (by the way, the latter mailbox can be found on the Web only in the context of the &ldquo;data leak&rdquo; in question) and to <code>igor.protsyk@gmail.com</code>, delivered on 11 Mar 2014 09:20:47 -0700.</p>
+
+<p>Besides that the archive contains a message from <code>no-reply@accounts.google.com</code> to <code>protsyk@ukr.net</code> with password recovery information, delivered on 11 Mar 2014 05:47:11 -0700 (before sending of E-mails #2 and #3). Judging by the fact that there are 21 more e-mails to <code>protsyk@ukr.net</code> in the archive, the messages from that address are being forwarded to <code>igor.protsyk@gmail.com</code>.</p>
+
+<p>You are free to make your own conclusions, but here are some hints from us:</p>
+
+<ol>
+<li><p>The hackers declared that they had access to the <code>GreshJP@state.gov</code> and <code>igor.protsyk@gmail.com</code> mailboxes. But all the published messages between these two addresses are obviously not trustworthy, as they could have been written by the hackers themselves. The hackers most likely had no access to <code>GreshJP@state.gov</code>, because E-mail #1 was clumsily forged on the basis of the rest five &ldquo;legitimate&rdquo; messages from <code>GreshJP@state.gov</code> found in the <code>igor.protsyk@gmail.com</code> mailbox.</p></li>
+<li><p>The message from <code>no-reply@accounts.google.com</code> gives us reasons to suppose that E-mails #2 and #3 have been sent after the <code>igor.protsyk@gmail.com</code> mailbox was compromised; that means that those e-mails could have been sent by the hackers themselves.</p></li>
+<li><p>E-mail #2 proves that the hackers had access to <code>krivonis.te@gmail.com</code>, so why couldn&rsquo;t E-mail #3 have been created by the hackers?</p></li>
+</ol>
+
+
+<p>This time the &ldquo;Anonymous Ukraine&rdquo; authors of the mail hacking scandal concerning the Crimea provocations made a <a href="http://fakecontrol.org/blog/2014/03/02/anon-fake/">far less clumsy try</a>. The <a href="http://ru.wikipedia.org/wiki/DomainKeys_Identified_Mail">DKIM-signatures</a> are doubtlessly proving the hacking of the <code>igor.protsyk@gmail.com</code> and <code>krivonis.te@gmail.com</code> mailboxes. But the results of the comparison between the &ldquo;alarming&rdquo; and all the other archived messages suggest with a high probability that the e-mails, which have so providently been placed in a separate directory under the meaningful name &ldquo;most interesting&rdquo;, have been forged or sent by the hackers themselves.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[About «Order of the Russian Federation Government»]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/12/ob-ukazah-pravitelstva-rf/"/>
+    <updated>2014-03-12T14:06:01+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/12/ob-ukazah-pravitelstva-rf</id>
+    <content type="html"><![CDATA[<p>This one of the shortest posts ever: order № 303/14р, allegedly signed by Medvedev on March 1, <em>does not exist</em> in the <a href="http://government.consultant.ru">database</a> of &ldquo;Regulatory Documents of the Russian Federation Government&rdquo;.</p>
+
+<p><img src="http://i.imgur.com/BNMzvzt.png" alt="303/14-fake" /></p>
+
+<p>Translation of the image above:</p>
+
+<blockquote><p>Government of the Russian Federation
+Order from March 1, 2014 № 303/14р</p>
+
+<p>Moscow</p>
+
+<p>Agree on a draft of a state program for Trans-Baikal, Kamchatka and Primorye Territories about the &ldquo;Assistance in resettlement to Trans-Baikal, Kamchatka, and the Primorsky Region of compatriots currently residing in the new subjects of the Russian Federation, in particular, in the Autonomous Republic of Crimea, Odessa, Kherson, Nikolae, Donetsk, Luhansk and Kharkiv regions for 2014-2016 years&rdquo;.</p>
+
+<p>Prime Minister of the Russian Federation
+Dmitry Medvedev</p></blockquote>
+
+<p>You can make sure yourself by checking the search results for the March 1</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Merkel, Klitschko, Tymoshenko... and all the rest involved]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/08/merkel-klitchko-timoshenko/"/>
+    <updated>2014-03-08T14:21:44+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/08/merkel-klitchko-timoshenko</id>
+    <content type="html"><![CDATA[<p>On Friday, March 7, the official website of Batkivshchyna (Yulia Tymoshenko&rsquo;s political party) <a href="http://batkivshchyna.com.ua/news/open/1059">informed</a> its readers about the meeting between Tymoshenko and Angela Merkel.</p>
+
+<p>We don&rsquo;t want you to be confused about the meeting&rsquo;s scope and participants, so we&rsquo;ll add just two small details to this piece of <a href="news:">news:</a></p>
+
+<ol>
+<li><p>This was a collective event with the participation of Vitali Klitschko, Yulia Tymoshenko and Angela Merkel, not a one-on-one meeting between two major politicians, as some people are trying to present it. Do you want a proof? Here you are: a <a href="https://twitter.com/RegSprecher/status/441916443995553793/photo/1">tweet</a> of Steffen Seibert (the German Chancellor&rsquo;s press-secretary).</p></li>
+<li><p>It was a short talk along the lines of summit – here&rsquo;s Stern&rsquo;s <a href="http://www.stern.de/politik/ausland/ukraine-krise-prorussische-kaempfer-stuermen-armeebasis-auf-der-krim-2094923.html">report</a> about it, and here are <a href="https://www.facebook.com/trinitycollegedublin/posts/828271160521319?stream_ref=10">some pictures</a> from the Trinity College of Dublin, where Merkel gave a speech about &ldquo;globalized Europe&rdquo; after the event.</p></li>
+</ol>
+
+
+<p>Many Ukrainian media have already republished the photo from Tymoshenko&rsquo;s party website. It&rsquo;s a pity that the situation is being completely and deliberately misinterpreted. The fact is that Merkel met two representatives of Ukrainian political parties during the Dublin summit, to which she invited them herself. Instead of that some people try to convince us that &ldquo;Yulia is a strong politician, and even Merkel finds some time in her schedule to talk to her&rdquo;.</p>
+
+<p>Don&rsquo;t act that way.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Its all about language, again]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/08/tass-upolnomochien-zaiavit/"/>
+    <updated>2014-03-08T10:00:00+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/08/tass-upolnomochien-zaiavit</id>
+    <content type="html"><![CDATA[<p>We would like to give up walking on the thin ice of the language problem, but our beloved media does not let us to do so. At this time, the reader put on the alarm sending us a completely unbelievable <a href="http://itar-tass.com/mezhdunarodnaya-panorama/1029332">news</a> that the Administration of acting President of Ukraine Turchynov ordered to remove Russian-language versions of the official websites of public authorities. Perhaps we analyze the news thoroughly.</p>
+
+<blockquote><p>KIEV, March 7. / ITAR-TASS /. Administration of appointed by the Verkhovna Rada Acting President of Ukraine Oleksandr Turchynov has ordered to the Ukrainian bodies of state power to enable Russian-language versions of their official websites, as the source in the Cabinet of Ministers reports to ITAR-TASS .</p></blockquote>
+
+<p>So, the first thing that can cause some doubts. Unknown &ldquo;source&rdquo; reports &ndash; as if about an already made decision, consequently, there is no sence for this source to hide. Our inner barometer automatically moved a pointer to the section &ldquo;fake&rdquo;.</p>
+
+<blockquote><p>&ldquo;Until March 10 all Ukrainian executive, legislative and judicial state authorities must block the access to the Russian versions of their official websites,&rdquo; &ndash; he said. According to the source, the Russian versions of internet pages of 14 key ministries are eliminated by now: the Ministry of Health, Ministry of Foreign Affairs, Ministry of Defense, Ministry of Finance, Ministry of Industry, Ministry of Social Policy and others, as well as web portals of the Supreme Court and the Supreme Economic Court of Ukraine.</p></blockquote>
+
+<p>Oh, a mysterious source didn&rsquo;t take into account that it is quite easy to check such order. We will use <a href="http://archive.org/web/">Internet Wayback Machine</a> service. It will be fun!</p>
+
+<ul>
+<li><a href="http://www.moz.gov.ua/ua/portal/">Ministry of Health</a>. <a href="http://web.archive.org/web/20130813113040/http://www.moz.gov.ua/ua/portal/">As of August 13, 2013</a> not only Russian version is absent, but so is the English one. It hasn&rsquo;t changed since then.</li>
+<li><a href="http://mfa.gov.ua/ua">Ministry of Foreign Affairs</a>. <a href="http://web.archive.org/web/20130816001321/http://mfa.gov.ua/ua">As of August 16, 2013</a> only Ukrainian and English versions are available. It hasn&rsquo;t changed since then.</li>
+<li><a href="http://www.mil.gov.ua/">Ministry of Defense</a>. <a href="http://web.archive.org/web/20130801033533/http://www.mil.gov.ua/">As of August 1, 2013</a> Russian version is in the website header and it works. Now it&rsquo;s still in the header, but doesn&rsquo;t work. We can&rsquo;t assert, but we think it&rsquo;s connected to the current events, and is generally predictable.</li>
+<li><a href="http://www.minfin.gov.ua/control/ru/index">Ministry of Finance</a> &ndash; we&rsquo;ll just leave the link to the Russian version for ITAR-TASS here.</li>
+<li><a href="http://industry.gov.ua">Ministry of Industry</a>. <a href="http://web.archive.org/web/20140214045904/http://industry.gov.ua/">As of February 14, 2014</a> Russian and English versions are available. The same as now.</li>
+<li><a href="http://www.mlsp.gov.ua">Ministry of Social Policy</a>. <a href="http://web.archive.org/web/20130809060550/http://www.mlsp.gov.ua/labour/control/uk/index">As of August 9, 2013</a>  the link to the Russian version in the header is missing, but it can be found by replacing <code>uk</code> with <code>ru</code> in the URL. However, this version is still empty, as well as in the archive.</li>
+<li><a href="http://www.scourt.gov.ua/">Supreme Court</a>. <a href="http://web.archive.org/web/20130823191633/http://www.scourt.gov.ua/">As of 23 of August 2013</a> &ndash; only ukrainian and english versions are available.</li>
+<li><a href="http://vgsu.arbitr.gov.ua/">Superior commercial court</a>. <a href="http://web.archive.org/web/20130815204613/http://vgsu.arbitr.gov.ua/">As of 15 of August 2013</a> &ndash; only ukrainian and english versions are available.</li>
+</ul>
+
+
+<blockquote><p>&ldquo;Moreover, the Russian language has disappeared from the official web pages of central executive bodies of special status: the Security Service, the Antimonopoly Committee, etc.,&rdquo; &ndash; the source added.</p></blockquote>
+
+<p>The same applies to the Security Service and the Antimonopoly Committee &ndash; Russian version either exists or there was no before.</p>
+
+<p>We have got two questions on this subject.</p>
+
+<p>First, the Ministry of Finance, for how long will you neglect the order of <em>Acting President</em> (a fake one)? Boo, saboteurs!</p>
+
+<p>The second one requires a <a href="http://itar-tass.com/pages/tass-today">quotation</a>:</p>
+
+<blockquote><p>Nowadays, the amount of information produced in the world is growing exponentially, so the question of its authenticity becomes acute. It is therefore of paramount importance to ITAR-TASS team the authenticity of the information received by our subscribers.</p></blockquote>
+
+<p>Hey ITAR-TASS (The Information Telegraph Agency of Russia), shame on you!</p>
+
+<p>P.S. The one, who would find the Russian versions of the above mentioned pages, will get a beautiful picture a of pug from us for free!</p>
+
+<p><strong>Update</strong>: &ldquo;News&rdquo; by ITAR-TASS, seems to be picked up by everybody including the Echo of Moscow, Kommersant and RT:</p>
+
+<ul>
+<li><a href="http://www.echo.msk.ru/news/1274556-echo.html">http://www.echo.msk.ru/news/1274556-echo.html</a></li>
+<li><a href="http://www.kommersant.ru/doc/2425851">http://www.kommersant.ru/doc/2425851</a></li>
+<li><a href="http://russian.rt.com/article/23878">http://russian.rt.com/article/23878</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What we've been doing during week?]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/07/digest/"/>
+    <updated>2014-03-07T15:57:42+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/07/digest</id>
+    <content type="html"><![CDATA[<p>Probably, you&rsquo;ve be working hard for the good of your country and didn&rsquo;t chill in social networks a lot. Unlike you, we were busy to sort out those news and prepare the following digest with the most famous, irregular and fake ones. Enjoy!</p>
+
+<h3><a href="http://fakecontrol.org/en/blog/2014/03/03/2-girls-1-fake/">2 Girls, 1 Fake</a></h3>
+
+<p>Two women, who cry constantly and blame &ldquo;radical&rdquo; forces for &ldquo;destruction&rdquo; of their dear ukrainian cities. We tried to investigate their identities and shared our understanding with you. Changing cities, names and stories on daily basis, these two had a fabulous tour around Ukraine. Also we&rsquo;ve got some very interesting comments from dentists and plastic surgeons.</p>
+
+<h3><a href="http://fakecontrol.org/en/blog/2014/03/03/second-passport/">Second passport, Third Sentence</a></h3>
+
+<p>This one is from our all time favourite &ndash; Russia Today. They&rsquo;ve recently reported that having dual citizenship in Ukraine may become punishable offence. We tried hard to overcome our hysterical laughter and managed to explain why this is not true.</p>
+
+<h3><a href="http://fakecontrol.org/en/blog/2014/03/04/george-bush/">USS That Couldn&rsquo;t Make It</a></h3>
+
+<p>A breathtaking story about adventures of George H. W. Bush aircraft carrier, which never managed to get to the Crimea and just chilled in Greece instead. Besides explaining what is what, we send greetings to the team of Ukrainian TV channel &ldquo;ICTV&rdquo; and suggest everybody to read &ldquo;Montreux Convention Regarding the Regime of the Straits&rdquo;. It&rsquo;s fun reading, we promise!</p>
+
+<h3><a href="http://fakecontrol.org/en/blog/2014/03/04/IMF-debunk/">About IMF &ldquo;requirements&rdquo;</a></h3>
+
+<p>Your parents must&rsquo;ve told you about crazy mortage payments and the disbandment of free education for your (hypothetical) kids. All that is IMF&rsquo;s fault! Except it&rsquo;s not and your parents were fooled. We discussed those fact a lot in our article. Anyway, are you really sure that you&rsquo;re ready to have kids?</p>
+
+<h3><a href="http://fakecontrol.org/en/blog/2014/03/06/cyrillic-cancellation/">About Cyrillic script being &ldquo;cancelled&rdquo;</a></h3>
+
+<p>Is it totally fine to post an information on one of the biggest news agencies site without even mention to reliable source? We did not think so too! Latin alphabet is no cakewalk to suddenly start to use, especially in a country which was using Cyrillic script for many centuries. Fun historical facts as Friday bonus!</p>
+
+<hr />
+
+<p>You can find more at our <a href="http://fakecontrol.org/en/">site</a> or <a href="https://www.facebook.com/fakecontrol.org">Facebook page</a>.</p>
+
+<p>If you want to send us important news or just want to share a picture of a cute pug, <a href="https://twitter.com/fakecontrol_org">tweet us</a> or send us an <a href="team@fakecontrol.org">email</a>!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[About State department and Russian MFA]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/07/embassy/"/>
+    <updated>2014-03-07T15:53:35+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/07/embassy</id>
+    <content type="html"><![CDATA[<p>U.S. Department of State <a href="http://russian.moscow.usembassy.gov/factsheet-ukraine-03062014.html">published</a> a fact sheet disproving some of the statements Putin has made about Ukraine.</p>
+
+<p>We decided to quote this list on our website as well:</p>
+
+<blockquote><ol>
+<li><p><strong>Mr. Putin says</strong>: Russian forces in Crimea are only acting to protect Russian military assets. It is “citizens’ defense groups,” not Russian forces, who have seized infrastructure and military facilities in Crimea.<br/>
+<strong>The Facts</strong>: Strong evidence suggests that members of Russian security services are at the heart of the highly organized anti-Ukraine forces in Crimea. While these units wear uniforms without insignia, they drive vehicles with Russian military license plates and freely identify themselves as Russian security forces when asked by the international media and the Ukrainian military. Moreover, these individuals are armed with weapons not generally available to civilians.</p></li>
+<li><p><strong>Mr. Putin says</strong>: Russia’s actions fall within the scope of the 1997 Friendship Treaty between Ukraine and the Russian Federation.<br/>
+<strong>The Facts</strong>: The 1997 agreement requires Russia to respect Ukraine’s territorial integrity. Russia’s military actions in Ukraine, which have given them operational control of Crimea, are in clear violation of Ukraine’s territorial integrity and sovereignty.</p></li>
+<li><p><strong>Mr. Putin says</strong>: The opposition failed to implement the February 21 agreement with former Ukrainian President Viktor Yanukovych.<br/>
+<strong>The Facts</strong>: The February 21 agreement laid out a plan in which the Rada, or Parliament, would pass a bill to return Ukraine to its 2004 Constitution, thus returning the country to a constitutional system centered around its parliament. Under the terms of the agreement, Yanukovych was to sign the enacting legislation within 24 hours and bring the crisis to a peaceful conclusion. Yanukovych refused to keep his end of the bargain. Instead, he packed up his home and fled, leaving behind evidence of wide-scale corruption.</p></li>
+<li><p><strong>Mr. Putin says</strong>: Ukraine’s government is illegitimate. Yanukovych is still the legitimate leader of Ukraine.<br/>
+<strong>The Facts</strong>: On March 4, President Putin himself acknowledged the reality that Yanukovych “has no political future.” After Yanukovych fled Ukraine, even his own Party of Regions turned against him, voting to confirm his withdrawal from office and to support the new government. Ukraine’s new government was approved by the democratically elected Ukrainian Parliament, with 371 votes – more than an 82% majority. The interim government of Ukraine is a government of the people, which will shepherd the country toward democratic elections on May 25th – elections that will allow all Ukrainians to have a voice in the future of their country.</p></li>
+<li><p><strong>Mr. Putin says</strong>: There is a humanitarian crisis and hundreds of thousands are fleeing Ukraine to Russia and seeking asylum.<br/>
+<strong>The Facts</strong>: To date, there is absolutely no evidence of a humanitarian crisis. Nor is there evidence of a flood of asylum-seekers fleeing Ukraine for Russia. International organizations on the ground have investigated by talking with Ukrainian border guards, who also refuted these claims. Independent journalists observing the border have also reported no such flood of refugees.
+(editor&rsquo;s note: we&rsquo;ve already <a href="http://fakecontrol.org/en/blog/2014/03/02/first_channel_geography/">covered</a> this issue)</p></li>
+<li><p><strong>Mr. Putin says</strong>: Ethnic Russians are under threat.<br/>
+<strong>The Facts</strong>: Outside of Russian press and Russian state television, there are no credible reports of any ethnic Russians being under threat. The new Ukrainian government placed a priority on peace and reconciliation from the outset. President Oleksandr Turchynov refused to sign legislation limiting the use of the Russian language at regional level. Ethnic Russians and Russian speakers have filed petitions attesting that their communities have not experienced threats. Furthermore, since the new government was established, calm has returned to Kyiv. There has been no surge in crime, no looting, and no retribution against political opponents.</p></li>
+<li><p><strong>Mr. Putin says</strong>: Russian bases are under threat.<br/>
+<strong>The Facts</strong>: Russian military facilities were and remain secure, and the new Ukrainian government has pledged to abide by all existing international agreements, including those covering Russian bases. It is Ukrainian bases in Crimea that are under threat from Russian military action.</p></li>
+<li><p><strong>Mr. Putin says</strong>: There have been mass attacks on churches and synagogues in southern and eastern Ukraine.<br/>
+<strong>The Facts</strong>: Religious leaders in the country and international religious freedom advocates active in Ukraine have said there have been no incidents of attacks on churches. All of Ukraine’s church leaders, including representatives of the Ukrainian Orthodox Church-Moscow Patriarchate, have expressed support for the new political leadership, calling for national unity and a period of healing. Jewish groups in southern and eastern Ukraine report that they have not seen an increase in anti-Semitic incidents.</p></li>
+<li><p><strong>Mr. Putin says</strong>: Kyiv is trying to destabilize Crimea.<br/>
+<strong>The Facts</strong>: Ukraine’s interim government has acted with restraint and sought dialogue. Russian troops, on the other hand, have moved beyond their bases to seize political objectives and infrastructure in Crimea. The government in Kyiv immediately sent the former Chief of Defense to defuse the situation. Petro Poroshenko, the latest government emissary to pursue dialogue in Crimea, was prevented from entering the Crimean Rada.</p></li>
+<li><p><strong>Mr. Putin says</strong>: The Rada is under the influence of extremists or terrorists.<br/>
+<strong>The Facts</strong>: The Rada is the most representative institution in Ukraine. Recent legislation has passed with large majorities, including from representatives of eastern Ukraine. Far-right wing ultranationalist groups, some of which were involved in open clashes with security forces during the EuroMaidan protests, are not represented in the Rada. There is no indication that the Ukrainian government would pursue discriminatory policies; on the contrary, they have publicly stated exactly the opposite.</p></li>
+</ol>
+</blockquote>
+
+<p>We&rsquo;re leaving the conclusions to the readers. You can find the full fact sheet at:</p>
+
+<ul>
+<li><a href="http://russian.moscow.usembassy.gov/factsheet-ukraine-03062014.html">http://russian.moscow.usembassy.gov/factsheet-ukraine-03062014.html</a> (Russian)</li>
+<li><a href="http://iipdigital.usembassy.gov/st/english/texttrans/2014/03/20140306295487.html#axzz2vJruYOxN">http://iipdigital.usembassy.gov/st/english/texttrans/2014/03/20140306295487.html#axzz2vJruYOxN</a> (English)</li>
+</ul>
+
+
+<p>It didn&rsquo;t take the Russian MFA long to <a href="http://mid.ru/brp_4.nsf/newsline/C48637A3360452D044257C9300518BDD">respond</a>:</p>
+
+<blockquote><p><strong>A ministry spokesman, Aleksandr K. Lukashevich, commented on the U.S. Department of State&rsquo;s &ldquo;factual rationales&rdquo; regarding the situation in Ukraine:</strong></p>
+
+<p>The statement &ldquo;disproving&rdquo; the facts mentioned by the President of Russia V. Putin at the press conference on 4th of March about the situation in Ukraine, posted on U.S. Department of State website, is shocking, not as much for its primitive distortion of reality as its cynicism and overt ‘double standards&#8217;.</p>
+
+<p>The State Department is trying to play on a shamelessly one-sided interpretation of events, as if there was not plentiful evidence of atrocities committed by radical nationalists, including the massacre of inconvenient people captured on video cameras, or the murder by provocateur snipers. Washington, of course, can&rsquo;t acknowledge that it nourished &ldquo;Maidan&rdquo; itself, and encouraged the violent overthrow of power, preparing the way for those who now pass themselves off as a legitimate authorities in Kyiv.</p>
+
+<p>We will not stoop as low as to argue with this low-grade propaganda. We will only say that once again we are dealing with unacceptable arrogance and the false assumption of the ultimate truth. The United States doesn’t and can’t have the moral right to lecture us about compliance of international norms. What about the former Yugoslavia bombing or Iraqi invasion under a fabricated motive?</p>
+
+<p>If examining the near distant past, we can find a lot of cases of American military interventions far away from its national borders and without any real threat to the safety of the United States. The Vietnam War claimed two millions of civilians, completely devastated the country, and created a toxic environment. Under the pretense of defending its citizens, that just happened to be in the conflict zone, USA invaded Lebanon in 1958, the Dominican Republic in 1965, attacked tiny Grenada in 1983, bombed Libya in 1986, and three years later occupied Panama. Nevertheless, they dare to reproach Russia for ‘armed aggression’ when she stands up for her countrymen, who constitute the majority of the Crimean people, so as to prevent ultranationalist forces from arranging another bloody &ldquo;Maidan&rdquo;.</p>
+
+<p>Obviously, Washington is still not able to accept the course of events when it contradicts their opinion. They cannot get over it and come to terms with the fact that they cannot always dictate their will and act in their customary role of ‘infallible judge,’ which is followed by — the last word. Their nerves are giving out, but that is no reason to thrust guilt on the innocent.</p>
+
+<p>March 6th, 2014</p></blockquote>
+
+<p>P.S. We now have these cool multi-colored buttons under all our articles. Please click and share!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[About Cyrillic script being "cancelled"]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/06/cyrillic-cancellation/"/>
+    <updated>2014-03-06T15:10:27+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/06/cyrillic-cancellation</id>
+    <content type="html"><![CDATA[<p>Let&rsquo;s put on some light on the news about the possible abolition of the Cyrillic alphabet on the territory of Ukraine as <a href="http://ria.ru/world/20140305/998301560.html">RIA Novosti claims</a>.</p>
+
+<p>The text of the news says that a special parliamentary commission is working on the law regulating the use of languages ​​in Ukraine and <em>&ldquo;the commission members are trying to use veiled wording in the bill to make a point about the phasing out of the Cyrillic alphabet&rdquo;</em>.</p>
+
+<p>RIA Novosti makes the news on the message from <em>&ldquo;a source familiar with the situation in the Verkhovna Rada (Ukrainian Parliament)&rdquo;</em>. We would like to point out that the text of the news does not provide the exact name of the source and there&rsquo;s no actual evidence by members of the committee (ie, no texts of bills or internal documents) that would contribute to the reliability of the news.  This news was <a href="http://russian.rt.com/article/23696">reprinted by Russia Today</a> along the way giving up the modest word &ldquo;source&rdquo;. However, we already <a href="http://fakecontrol.org/blog/2014/03/03/vtoroi-pasport/">put on some attention</a> on the peculiarities of Russia Today&rsquo;s work with information.</p>
+
+<p>Now let&rsquo;s try to understand what is really going on and is there any reason to believe the news and to fear that Ukraine will spend huge money for replacing all the official forms, documents, and street signs.</p>
+
+<p>The Verkhovna Rada website <a href="http://rada.gov.ua/ru/news/Novosty/Soobshchenyya/89017.html">has reported</a> the beginning of the work of the commission. We are providing the version in Russian in case you want to learn more about it (no English version available, sorry!).</p>
+
+<p>According to this report, the range of documents on which the new law is based, includes <a href="http://conventions.coe.int/Treaty/en/Treaties/Html/148.htm">the European Charter for Regional or Minority Languages​​</a>, the Law of Ukraine &ldquo;On ratification of the European Charter for Regional or Minority Languages​​&rdquo; on May 15, 2003, аas well as the well-known <a href="http://en.wikipedia.org/wiki/Legislation_on_languages_in_Ukraine">Law of Ukraine &ldquo;On state Language Policy of Ukraine &#8220;dated July 3, 2012</a>, which itself provided the Russian language the status of regional.</p>
+
+<p>But we have not found anything about the replacement of the Cyrillic alphabet with the Latin. As usual, we are not providing any conclusions, but we just want to note that the European Charter of regional languages ​​(by the way, not ratified by Russia) contains the following words at the beginning of the document:</p>
+
+<p><em>protection and promotion of regional or minority languages ​​in different countries and regions of Europe represent an important contribution to the construction of a Europe based on the principles of democracy and cultural diversity within the framework of national sovereignty and territorial integrity</em>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[About the IMF Requirements]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/04/IMF-debunk/"/>
+    <updated>2014-03-04T22:15:02+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/04/IMF-debunk</id>
+    <content type="html"><![CDATA[<p>Let&rsquo;s briefly explain the &ldquo;10 IMF Requirements&rdquo;, the acceptance of which is now considered to be <a href="https://www.facebook.com/kostiantyn.stogniy/posts/657506810962958?stream_ref=5">Yatsenyuk&rsquo;s fault</a>.</p>
+
+<p>This piece of &ldquo;breaking news&rdquo; is a bit outdated – it appeared about three years ago. <a href="http://ukranews.com/ru/news/economics/2010/12/07/32810">The Ukrainian News</a> just used an existing analytical article from Hvylya.org dated December 7, 2010. On December 8 a corresponding post <a href="http://hvylya.org/news/digest/wikileaks-15.html">appeared in the Hvylya.org digest</a>, but if you try to follow the links, you&rsquo;ll find out that the pages do not exist.</p>
+
+<p>We&rsquo;ve found the document on Wikileaks. First of all, they are not &ldquo;obligatory requirements&rdquo;, but just <a href="https://www.wikileaks.org/plusd/cables/10KYIV278_a.html">reform proposals</a>, given by Mr. Pynzenyk, whose name is openly mentioned there, in diplomatic correspondence,</p>
+
+<p>The document is dated February 23, 2010. Let us remind you, how Ukraine cooperated with IMF in that period: in November 2008 the government of Yulia Tymoshenko received an IMF credit in the amount of USD 16.4 billion. In a year the Fund decided to freeze and cancel the credit, but instead of it <a href="http://www.imf.org/external/pubs/ft/survey/so/2010/car081110a.htm">another credit</a> was given – USD 15.2 billion for the government under the President Yanukovych in July 2010. The second tranche of this credit in the amount of USD 1.5 billion was provided by the IMF Executive Board to Kyiv in December. But then the crediting was suspended, as the program requirements were not being fulfilled with due progress. The government of Yatsenyuk <a href="http://www.bloomberg.com/news/2014-02-28/imf-history-with-reneging-ukrainian-leaders-may-cloud-fresh-aid.html">will have to prove</a> the earnestness of their declarations and methods first.</p>
+
+<p>Please see detailed chronology in the following <a href="http://economics.unian.net/other/854861-hronologiya-otnosheniy-ukrainyi-s-mvf.html">UNIAN article</a>. So Pynzenyk&rsquo;s letter was written in the period, when the 2008 credit was already suspended, and the 2010 credit was not being negotiated yet. On December 2013 this text <a href="http://blog.polemika.com.ua/blog/trebovaniy-mvf-ukraine-polnyy-spisok-jlya.html">appeared here</a>, and was readily republished by media. It is a 1:1 reprint of the letter dated 2010.</p>
+
+<p>New IMF requirements haven&rsquo;t been formulated yet, and the existing ones can not be considered obligatory. Make your own conclusions.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[USS that couldn't make it]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/04/george-bush/"/>
+    <updated>2014-03-04T18:06:19+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/04/george-bush</id>
+    <content type="html"><![CDATA[<p>You may have heard that the U.S. aircraft carrier USS George H. W. Bush was deployed in the direction of Ukraine, you may have even read about it on ICTV&rsquo;s website <a href="http://fakty.ictv.ua/ru/index/read-news/id/1506591">here</a>:</p>
+
+<blockquote><p><strong>Due to the Russian invasion of the Crimea, the US have sent USS George H. W. Bush in the direction of the Black Sea.</strong></p>
+
+<p>&ldquo;In response to a Russian invasion, the United States has sent an aircraft carrier strike group toward the Black Sea to be able to respond to developments on the Crimean peninsula of Ukraine&rdquo; reports &ldquo;Ukrainian News&rdquo;, citing the Turner Radio Network RSS Feed as the source.</p></blockquote>
+
+<p>We read on the aircraft carrier&rsquo;s <a href="http://www.public.navy.mil/airfor/cvn77/Pages/USS%20GEORGE%20H.W.%20BUSH%20(CVN%2077).aspx">official website</a> that the carrier also has an <a href="http://www.facebook.com/USSGeorgeHWBush">official Facebook page</a>.</p>
+
+<p>After overcoming a fit of laughter at the idea of an aircraft carriers&#8217; crew running an official Facebook page, we read on the page that the ship actually <a href="https://www.facebook.com/notes/uss-george-hw-bush-cvn-77/uss-george-hw-bush-arrives-in-greece/666275313432490">arrived today in Greece</a>.</p>
+
+<p>We send our kind regards to ICTV and the &ldquo;Ukrainian News&rdquo; ;)</p>
+
+<p>By the way, the <a href="http://en.wikipedia.org/wiki/Montreux_Convention_Regarding_the_Regime_of_the_Straits">Montreux Convention Regarding the Regime of the Straits</a> states that this ship may enter into the Black Sea ONLY when Turkey is at war or if Turkey is under a threat of war. Complete text of Montreux Convention could be read <a href="http://en.wikisource.org/wiki/Montreux_Convention">here</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2 Girls 1 Fake?]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/03/2-girls-1-fake/"/>
+    <updated>2014-03-03T21:21:39+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/03/2-girls-1-fake</id>
+    <content type="html"><![CDATA[<p>This evening&rsquo;s sensation was a comparison of two rather viral videos, <a href="https://www.youtube.com/watch?v=Onui6ivzf4o&amp;feature=youtu.be&amp;t=4m">one of which</a> was taken in Kharkov on March 1st (skip to 4:00) and <a href="https://www.youtube.com/watch?v=-OaeZ_mxG4g&amp;feature=player_embedded">the other one</a> in Sevastopol on March 3rd.</p>
+
+<p>Both feature two women demonstrating a definitely pro-Russian rhetoric. First they describe the “mayhem” in Kharkov and then – in the other video – apparently the same women pretend to be Odessa citizens talking about the brutalities of Bandera&rsquo;s followers.Although everyone asserts that these are the same women, we cannot confirm it. We have watched both videos, taken snapshots of the women&rsquo;s faces and asked for the opinions of everyone we could, but could not come to a definite conclusion.</p>
+
+<p><img src="http://i.imgur.com/PeGt0Di.png" alt="EXHIBIT A" /></p>
+
+<p><img src="http://i.imgur.com/B7UFIkT.png" alt="EXHIBIT B" />More on this: we have received a video taken by the Crimean channel ATR that <a href="http://atr.ua/video/2014-03-03-15-53-26-2333215">shows a rally</a> in Simferopol featuring a rather similar person (skip to around 6:30). We also have a <a href="https://www.youtube.com/watch?feature=player_detailpage&amp;v=T6muI9tIqN0#t=638">video</a> from Odessa; we&rsquo;ll try to compare its soundtrack to that of the Sevastopol video.</p>
+
+<p>You are welcome to make your own conclusions. If you have any relevant materials from the Kharkov, Sevastopol, or Simferopol rallies, please send them to us.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Second passport]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/03/second-passport/"/>
+    <updated>2014-03-03T18:18:12+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/03/second-passport</id>
+    <content type="html"><![CDATA[<p>We came across the news on the &ldquo;Russia Today&rdquo; channel, a channel that covers more than 644 million people in more than 100 countries, according to <a href="http://rt.com/about-us/">their own information</a>. The news is: <a href="http://russian.rt.com/article/23484">&ldquo;The Verkhovna Rada will introduce criminal liability for dual citizenship&rdquo;</a>.&ldquo;Verkhovna Rada&rdquo; is the name of <a href="http://en.wikipedia.org/wiki/Verkhovna_Rada">Ukrainian parliament</a></p>
+
+<p>Dear 644 million of people in more than 100 countries! Unfortunately, we have to inform you that you have been deceived. We will not reflect over the reasons, instead we will just demonstrate why this information is false.</p>
+
+<p>Here is what Russia Today saying:</p>
+
+<blockquote><p>The Verkhovna Rada will consider a draft bill regarding criminal liability for dual citizenship after the situation in the country has been stabilised. This law (which provides for a prison sentence of 10 years for dual citizenship) has already been introduced into the Rada.</p></blockquote>
+
+<p>Let’s navigate to <a href="http://rada.gov.ua">Verkhovna Rada official website</a> and find <a href="http://w1.c1.rada.gov.ua/pls/zweb2/webproc4_1?pf3511=49734">the corresponding bill draft</a>. Immediately we see the title:</p>
+
+<blockquote><p>Draft of Law on Amendments to the Criminal Code of Ukraine regarding liability for <strong>failure to inform</strong> about obtaining a foreign citizenship by a citizen of Ukraine.</p></blockquote>
+
+<p>&ldquo;Having dual citizenship&rdquo; vs &ldquo;failure to inform about having dual citizenship&rdquo;. Minor omission, you say?</p>
+
+<p>We could finish our investigation here, but it&rsquo;s way more interesting to dig deeper. So let&rsquo;s open the <a href="http://w1.c1.rada.gov.ua/pls/zweb2/webproc34?id=&amp;pf3511=49734&amp;pf35401=290953">bill draft</a> and take a closer look at its regulations.</p>
+
+<p>Hold on for a second. Let&rsquo;s take a look at original news again.</p>
+
+<blockquote><p>According to the draft introduced into Ukraine&rsquo;s parliament, Ukrainian citizens who receive Russian passports will be fined and sentenced to 3-10 years of prison.</p></blockquote>
+
+<p>And now let&rsquo;s look at the actual draft.</p>
+
+<blockquote><p>Non-submitting or a belated submitting of an application informing about a voluntary acquiring of a foreign citizenship by a Ukrainian citizen of a legal age and of a copy of the document proving his/her acquiring of a foreign citizenship to an authorized body of central executive power is penalized by a fine of 100 minimum non-taxable incomes of citizens.</p></blockquote>
+
+<p>Let&rsquo;s pause here for a second and check current definition of non-taxable minimum income. According to point 5 of chapter 10 of transitional provisions of Ukrainian Tax Code, a non-taxable minimum income is 17 UAH, 100 * 17 = 1700 UAH, a little bit less than 170 USD or 6100 RUR.</p>
+
+<p>Let&rsquo;s take a look at the bottom limit of a penal responsibility – 3 years. From the bill draft:</p>
+
+<blockquote><p>The same actions committed by a citizen of Ukraine who <strong>used his/her right to vote</strong> in Ukraine are punishable by imprisonment for a term of 3 to 5 years.</p></blockquote>
+
+<p>And now let&rsquo;s confirm an upper limit &ndash; 10 years. From the bill draft:</p>
+
+<blockquote><p>The same actions, if committed by a citizen of Ukraine who has <strong>access to state secrets</strong>, are punishable by imprisonment for a term of 7 to 10 years.</p></blockquote>
+
+<p>As usual, we won&rsquo;t draw any conclusions. But we note that the Russian Embassy in Ireland is located at a most interesting address: 184-186 Orwell Road, Rathgar, Dublin 14.</p>
+
+<p>And let’s quote this undoubtedly great dystopian.</p>
+
+<blockquote><p>War is peace, freedom is slavery, ignorance is strength.</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The call for help from Berkut dormitory is fake]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/02/vberkut-fake/"/>
+    <updated>2014-03-02T21:33:39+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/02/vberkut-fake</id>
+    <content type="html"><![CDATA[<p>The only thing worse than false information is attempting to use false information for profit. Fraudsters do not ignore current events. On a lot of online sources you may come across something of following kind:</p>
+
+<p><img src="http://i.imgur.com/o5hXQoD.png" alt="Imgur" />
+(<em>phone numbers and Webmoney wallet numbers have been removed for obvious reasons</em>)</p>
+
+<p>There is a translation of the letter above:</p>
+
+<blockquote><p>This is our cry for help! We appeal to all indifferent people and the authorities! We are the families of the &ldquo;Berkut&rdquo; riot police force who live in a dormitory located in the Krasnozvezdniy Prospekt in Kiev. The last few months we have lived in constant fear for us, our husbands and children. Constant threats, bullying, fear have turned our life into a nightmare. Many of us had to quit their jobs and our children have been bullied at school because our husbands have &ldquo;killed people on the Maidan&rdquo;.</p>
+
+<p>Many of us have fled to our relatives, but some have nowhere to go and don&rsquo;t have enough money to flee. The last few days have been absolutely intolerable. All the time there are armed and masked men in front of the dormitory, they are numerous and very aggressive. They don&rsquo;t conceal that they have come to catch Berkut officers. They abuse everyone who enters or leaves the dormitory. They are absolutely unhinged &ndash; yesterday they even beat up the 60-year-old father of one of our women just because he had said something disrespectful about the Maidan. One of our children was walking his dog and these men broke the dog&rsquo;s legs with batons &ndash; and the child saw it all. It&rsquo;s a nightmare!</p>
+
+<p>There are approximately 90 of us left, mostly women, children and older veterans. We also have some wounded young men &ndash; one of them has been badly beaten and had his bones broken, but he is afraid to go to the hospital because our officers are being kidnapped from hospitals.</p>
+
+<p>We can&rsquo;t even ask for help. Some days ago we called the police &ndash; there came two sergeants and three masked men who threatened and abused us in front of our children and the police. We don&rsquo;t have an Internet connection (someone has cut all the cables) and we regularly have blackouts. We are eating up our last food &ndash; the potatoes and pasta that we&rsquo;ve somehow managed to gather.</p>
+
+<p>Yesterday our husbands&#8217; bank cards were blocked &ndash; until the situation is cleared, they said &ndash; and now they&rsquo;re unemployed just for fulfilling their duty, for standing outside at 20 degrees below zero, for being burned and poisoned and shot at&hellip;</p>
+
+<p>We have no more tears left &ndash; our husbands were abused so much, and then betrayed! We had a phone call from Lvov today &ndash; a Berkut officer was killed in his own home because he had been at the Maidan. We don&rsquo;t know whom to trust, how to get help and how to feed our children. If someone could help with accommodation for a few months (also in villages), we would be very grateful. We would also be grateful for anything you could bring to our address, Krasnozvezdniy 152a. Some of us also need money to pay for their mobile connection, we receive a lot of calls and we only have mobile Internet left.</p></blockquote>
+
+<p>We contacted with the 4th Dormitory of GU MVD in Ukraine. Their phone number (044) 524-36-96 is in open access to anyone. We&rsquo;ve been told that they have everything and need no help.</p>
+
+<p>We are also happy to learn, that we are not the only ones, who are critical about emotionally charged information. Users of a <a href="http://forum.sevastopol.info/viewtopic.php?f=11&amp;t=752766&amp;start=375&amp;fb_source=message">Sevastopol forum</a> have also called both the dormitory and the people, whose numbers appeared in the appeal for help. They have also been told, that the dormitory does not need help. Calls to the numbers given in the appeal were either left unanswered or there was no connection whatsoever.</p>
+
+<p>Our conclusion is: this information is fake; it is also an attempt to make money on other people&rsquo;s suffering.</p>
+
+<p>If you really want to donate to a good cause &ndash; donate to «<a href="http://tabletochki.org/welcome">Tabletochki</a>» (the red button that says &ldquo;Apply&rdquo;; it works with all kinds of bank cards). The previous government has decided to spend just 50 million UAH (around 5 million EUR) on children who suffer from cancer, which is 4,5 times less than in 2013 and covers just 20% of the real needs (216 million UAH). &ldquo;Ohmatdit&rdquo; &ndash; the most important clinic for such patients &ndash; has mouldy walls.</p>
+
+<p>We can guarantee the honesty of &ldquo;Tabletochki&rdquo;.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Amazing geography of First channel (Russia)]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/02/first_channel_geography/"/>
+    <updated>2014-03-02T12:06:58+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/02/first_channel_geography</id>
+    <content type="html"><![CDATA[<p>Every day brings new reasons to wonder . Today we were absolutely surprised with unique understanding of geography by the &ldquo;Pervyy kanal&rdquo; tv channel in Russia.</p>
+
+<p><img src="http://fakecontrol.org/assets/posts/2014-03-02/poland.jpg" alt="140,000 refugees" /></p>
+
+<p>In the news story &ldquo;More and more Ukraine citizens arrive to the southern Russian regions&rdquo; First Channel claims that</p>
+
+<p>more than 140 000 people crossed the Russian border in the last two weeks. Among them are not only the residents of Ukraine&rsquo;s East and South, but also of central and western regions.</p>
+
+<p>We are ready to believe the fact that inhabitants of western regions cross the border, however it&rsquo;s claimed that people of Ukraine come to &ldquo;Kursk, Belgorod , Rostov and Bryansk regions &rdquo;.</p>
+
+<p>We&rsquo;re curious whether Poland is aware that it is the part of Russia. Border crossing point Sheginy (the sign can be seen at 00:14 on the video) is situated in Lviv region and is a checkpoint on the border with Poland.</p>
+
+<p><a href="http://service.alfard-bel.ru/tamogna-online-nehoteevka.html">Webcams</a> also transmit empty roads</p>
+
+<p>The project team hopes that the management of the First Channel will deliver a reprimand to their employees and will force them to love geography &ndash; after all, in a ticklish propaganda and fake business such mistakes are a major failure.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[They beat up our guys]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/02/russia-go-home/"/>
+    <updated>2014-03-02T04:10:59+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/02/russia-go-home</id>
+    <content type="html"><![CDATA[<h2>Background</h2>
+
+<p>So, Mrs. Matvienko described a few moments that pushed the Federation Council to accept the decisions that are being so widely discussed by people of Ukraine (and other countries). As Matvienko notes on the press conference, the approval of Russian President&rsquo;s application on authorising to move forces into Ukraine was conditioned by these key factors: (right now we advice you to open this <a href="http://lifenews.ru/news/128189">link</a> and watch video at the beginning of the article)</p>
+
+<h2>The statements</h2>
+
+<ul>
+<li><p>Russian citizens were injured during the attempt to seize the building of the Ministry of Internal Affairs in Crimea (5:30 and 06:12 on video)</p></li>
+<li><p>The abrogation of &ldquo;On Russian Language&rdquo; law and banning Russian speech in Ukraine (06:35 on video)</p></li>
+</ul>
+
+
+<h2>Now comes the tasty part</h2>
+
+<ul>
+<li><p>In his interview to <a href="http://society.lb.ua/accidents/2014/03/01/257781_genkonsul_rossii_krimu.html">LB.ua</a> Vyacheslav Svetlichny, Russian consul general in Crimea, <strong>disproved information</strong> about victims.</p></li>
+<li><p>It is also worth mentioning that we never had &ldquo;On Russian Language&rdquo; law, and nobody forbade to speak Russian in our country, as we all know.</p></li>
+</ul>
+
+
+<h2>A bit of personal opinion of the author</h2>
+
+<p><em>though we don&rsquo;t practice that</em></p>
+
+<p>The whole Matviyenko&rsquo;s speech was saturated with one idea, which was emphasized many times. The speech amounts to the phrase &ldquo;They beat up our guys&rdquo; (and as we have seen, there was a lot of manipulations with that).
+This phrase is very important &ndash; under this very slogan it is possible to get approval by the people to conduct active military actions. They beat up our guys, and it&rsquo;s our duty to defend them. But that is our conclusion, and you should make your conclusions yourself and write them in the comments section on the website or <a href="https://www.facebook.com/fakecontrol.org/posts/10202413009639817">on Facebook</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Military registration offices have been informed about mobilization]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/02/make-love-not-war/"/>
+    <updated>2014-03-02T03:19:28+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/02/make-love-not-war</id>
+    <content type="html"><![CDATA[<p><strong> UPD: the statement made by Andriy Parubiy (Secretary of the National Security and Defence Council of Ukraine) at March 2, 2014: </strong> <a href="https://www.youtube.com/watch?v=fK0dLJcZBMM">https://www.youtube.com/watch?v=fK0dLJcZBMM</a></p>
+
+<p>Once the current post appears on Facebook &ndash; we experienced a lot of mess in comments.
+<img src="http://d.pr/i/5BRh+" alt="mob" />
+We felt nervous about that so we decided to get in touch with state military registration and enlistment office at Kharkiv. Eventually we&rsquo;ve got following response:</p>
+
+<ul>
+<li>Military offices watch the situation and people bother them with calls all the time.</li>
+<li>There is no official order regards military mobilization.</li>
+<li>The official order is pending signature from The President.</li>
+<li>The official order should be advertised on media (at least on national television network).</li>
+<li>There is no reason for panic.</li>
+</ul>
+
+
+<p>We have a record of those conversation, but a permission to share was not granted &ndash; so we&rsquo;ve listened to it by ourselves and you have to trust us. Or even better call to your local military office and ask appropriate questions :)</p>
+
+<p>This is the most correct strategy in current situation.</p>
+
+<p>We would not be surprised, if in the morning we will find out that Parubiy&rsquo;s Facebook page was hacked or it&rsquo;s just a fake account, which everybody read by unknown reason.</p>
+
+<p>Please check all the information. Don&rsquo;t be fooled by fakes.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[About US agents]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/02/26/us-agent/"/>
+    <updated>2014-02-26T12:23:21+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/02/26/us-agent</id>
+    <content type="html"><![CDATA[<p>There is a <a href="http://www.youtube.com/watch?v=SOmpICEfN5o">video on the web</a> (shared couple of days ago) with the following description:</p>
+
+<blockquote><p><strong>Posted on February 20, 2014.</strong>
+American mercenaries fight on Maidan&rsquo;s side. It has been clearly demonstrated by the documents which were seized from the captured soldiers.</p></blockquote>
+
+<p>Below we may find “irrefutable” evidences:</p>
+
+<p><img src="http://d.pr/i/P3qI+" alt="screen1" />
+<em>ID Cover</em></p>
+
+<p><img src="http://d.pr/i/IUl5+" alt="screen2" />
+<em>The Logo of a certain organization titled IPA</em></p>
+
+<p><img src="http://d.pr/i/AniK+" alt="screen3" />
+<em>The ID itself</em></p>
+
+<p>Surprisingly, the police does not know of the existence of <a href="http://www.ipa-ua.org">IPA</a> – an international police organization that Ukraine is a member of.</p>
+
+<blockquote><p>The Ukrainian division of the International Police Association was created on April 25, 1996. In 1997, during the XV World Congress of the IPA in the Canadian city of Quebec, the Ukrainian section gained official recognition in the International Police Association. Today, the IPA comprises of about 8000 members.</p>
+
+<p>Ukrainian IPA section works, consistently putting into practice the primary IPA motto: &ldquo;Serve Through Friendship!&rdquo;. Communication with foreign colleagues, exchange of delegations, common international events &ndash; every activity by the Association members under our country&rsquo;s colors is a contribution of Ukrainian section of IPA to the extension of the professional and friendly relationships between law enforcement officers in different countries, and, eventually, to ensuring peace and friendship on our planet.</p></blockquote>
+
+<p>The scariest part of the story that people blindly believe in such things. They believe in fake images without even checking obvious facts.</p>
+
+<p>Please subscribe to our updates on <a href="http://fb.me/fakecontrol.org">Facebook</a>, ask us any questions you have, and sent tips and links to fake posts – we will check them all, and will publish the most interesting ones.</p>
+]]></content>
+  </entry>
+  
+</feed>

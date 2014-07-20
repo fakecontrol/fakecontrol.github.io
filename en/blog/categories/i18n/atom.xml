@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: _i18n | Fake Control]]></title>
+  <link href="http://fakecontrol.org/en/blog/categories/i18n/atom.xml" rel="self"/>
+  <link href="http://fakecontrol.org/en/"/>
+  <updated>2014-03-27T20:44:13+02:00</updated>
+  <id>http://fakecontrol.org/</id>
+  <author>
+    <name><![CDATA[Fake Control Team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[About cancellation of hryvnia]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/27/UAH-cancel/"/>
+    <updated>2014-03-27T20:44:13+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/27/UAH-cancel</id>
+    <content type="html"><![CDATA[<p>Since March 20th rumour has it that Yatseniuk&rsquo;s goverment is planning to withdraw the hryvnia from circulation. Nothing dramatic at first glance: changing old hryvnia for new ones. However situation gets tense quite quickly &ndash; it is beleived that the goverment will collapse and withdraw the hryvnia. Some even go as far as telling &lsquo;'remember how it happened in the USSR&rsquo;&lsquo; when new roubles were changes to new ones at a rate different than 1:1. This possibly targets older people as for most youth scary stories about the USSR do not have much of an effect.</p>
+
+<p>The actual article can be found <a href="http://odessitos1.livejournal.com/4588.html">here</a> (if the author deletes it we have everything saved separately). The whole livejournal is quite one-sided and although the author claims to just have the intention to clear things out, the article subtly injects tensions. The blog was <a href="http://odessitos1.livejournal.com/profile">created</a> on March 10th 2014. The author began writing the post about the hryvnia
+<a href="http://odessitos1.livejournal.com/795.html">almost</a> since registering. His first writings began with «predictions».</p>
+
+<p>Through this link you will find 5 reasons why this was made up, although more elegantly than usual:</p>
+
+<!-- more -->
+
+
+<ol>
+<li><p>Ukraine&rsquo;s National Bank <a href="http://glavcom.ua/news/194378.html">denied</a> this information;</p></li>
+<li><p>We have contacted <a href="http://www.banklviv.com/">Lviv bank</a> and obtained an official commentary from Christina Stefanchuk, head of marketing department. She said: « […] over the last week on Russian websites and on Russian TV channels false claims about the withdrawal of the hryvnia have been aired. Those announcements which were made «on behalf» of the Lviv Bank are incorrect. Lviv Bank&rsquo;s Press Office has never published any information of that kind on its website. These claims are false and have the sole objective to undermine the image of our bank and other Ukranian banks»</p></li>
+<li><p>The most solid argument in favor of the cancellation story is the existence of the cache <a href="http://archive.is/g9Pyg/image">page</a> in Google. On the other hand, one should keep in mind that the bank&rsquo;s website was most probably made by one individual <a href="http://www.sitegist.com">positioning himself as a web design studio</a> writing CMS in PHP for 10 years now. Taking this into account along with other details we <em>suspect</em> either vulnerability of the system or a inside job. In all cases our inquiry did not surprise the bank and it is quite possible that its press release will be published shortly. Also, the screen shot of the presented page was modified subsequently.</p>
+
+<p>In the preceding paragraph the link is not to Google&rsquo;s cache, but rather to Archive.is which allows to save site versions from Google&rsquo;s cache. The direct <a href="http://webcache.googleusercontent.com/search?q=cache:0RQLLouF9DEJ:www.banklviv.com/uk/individuals/rule/&amp;client=safari&amp;hl=en&amp;strip=0">google link</a> was still working around noon today and now it is no longer working.</p></li>
+<li><p>We took appart and analysed the picture and the document:</p>
+
+<p><img src="http://i.imgur.com/fexDfbo.jpg" alt="Author's screenshot" />
+<a href="http://i.imgur.com/fexDfbo.jpg">Full view</a></p>
+
+<p>The author&rsquo;s screenshot itself looks more or less credible, but does not match Google&rsquo;s cache version. There are different shades of pink inside and there is lack of semitransparent gradient on the document&rsquo;s icon (this effect takes place on original images in the browser).</p>
+
+<p><img src="http://i.imgur.com/E6PTLVA.png" alt="Imgur" />
+<a href="http://i.imgur.com/E6PTLVA.png">Full view</a></p>
+
+<p><a href="http://fotoforensics.com/analysis.php?id=69961c99af5779e5877f7b0b9740f511e5c5197b.209757">ELA result</a> tells us that the image was saved on top of another image. (Compare with <a href="http://fotoforensics.com/analysis.php?id=27e7d00ab5e48a363130661db5babe20c2c08cdf.657983">the real one</a> for yourself). The Rainbow curve, which saved us more than once, also <a href="http://imgur.com/xdthu8a">shows</a> incongruous items. This tool shows clearly what the gradient is.</p>
+
+<p>Screenshot&rsquo;s profile is Adobe RGB and there are EXIF-data. This is not dramatic by itself, however it looks like a Save For Web team&rsquo;s job in Adobe Photoshop, which has ruined many photographers' color reproduction in different browsers.</p>
+
+<p>Somebody has lately saved two «photos» of the whole archive.is website: <a href="http://archive.is/La2Sy">one dated March 20th at 12:54</a> («coins and banknotes», at the bottom of the page there is a link to this piece of «news») and <a href="http://archive.is/g9Pyg">the second one dated March 20th at 16:12</a>, which was shown in the browser&rsquo;s screenshot. Lviv Bank has <a href="http://archive.is/www.banklviv.com">a total of 4 saved «photos»</a> of this kind — on top of the two mentioned above, one dated from 2013 and the last one made by us today. There is how Archive.is works: you visit and indicate the link that you would like to save. This means that the photos were taken on purpose (it is interesting that according to <a href="http://whois.domaintools.com/archive.org">the statistics</a>, the third largest group using this website is from Russia).</p>
+
+<p><em><a href="http://rusfolder.com/40183364">PDF-file</a></em>:</p>
+
+<p>The most important is that the document is referring to the «Decision of the Ukraine&rsquo;s National Bank Direction of March 12th 2014 No 31 «About the design approval and release dates of the new model hryvnia». On <a href="http://www.bank.gov.ua/control/uk/publish/category?cat_id=58478">the official website</a> this decision does not exist and the number does not correspond to current ones. We could stop here, but let&rsquo;s investigate obvious incongruities further.</p>
+
+<p>Second of all, the name of the document is — áàíê ëüâîâ .pdf.pdf. If it had been downloaded directly from the website it would have had a more accurate name like the neighbouring document for example. Also we doubt that in that case it would have had a second .pdf extention. The neighbouring document&rsquo;s name is «Rules for servicing personal account.pdf». It is also to note that the size of the document differs slightly from A4 as it is 20.96x29.21 cm. On top of that if we copy the file&rsquo;s name in the time <a href="http://www.artlebedev.ru/tools/decoder/">forgotten decoder</a> from Lebedev Studio, which was used when mail was still coming in unknown encoding (бНОПНЯ) we obtain &lsquo;'Lviv Bank&rsquo;&lsquo; and a transposition from CP1252 to CP1251. The most interesting here is the title in Russian as the bank&rsquo;s website is written exclusively in Ukranian and contains no Russian words.</p>
+
+<p>Third, the pdf document we are concerned with is created following the «Rules for Servicing…» sample (Verdana font is used, the text breakdown is similar), however with lack of attention to details — For example the font size is different, the intervals are not the same, there are several mistakes, typos and stylistic inaccuracies — «In connection with the replacement come into circulation banknotes of national currency of Ukraine» makes no sense, «due to change» (to the), «until separate explanation» (very bizarre official tone)</p></li>
+<li><p>We analyzed one banknote and it appeared very familiar. If we mirror the «10 new hryvnias» horizontally (2) and vertically (3) and we compare the result to the old 5 euro sample (in circulation up to the 2013) the source of inspiration is revealed. The size matches, the Ukraine&rsquo;s coat of arms is insterted horribly. If we go further and search for «<a href="http://bit.ly/1dwfVjB">Sophia of Kiev</a>», we fall on the famous iconic image of the cathedral. Here is <a href="http://citycard-ua.com/sites/default/files/imagecache/product_full/sof._sobor.jpg">the possible source</a>, as it matches almost pixel to pixel (4).</p>
+
+<p><img src="http://i.imgur.com/cvc6uW6.jpg" alt="Imgur" />
+<a href="http://i.imgur.com/cvc6uW6.jpg">Full view</a></p>
+
+<p>Additional links:</p>
+
+<p><a href="http://fkiev.com/pro-banki-30259/">Here is a forum</a>, where Markov&rsquo;s chains simulate communication.
+<a href="http://forum.vidido.ua/viewtopic.php?f=3&amp;t=26906">Post</a> to a forum in Chernivtsi were people are not subject to panic.
+<a href="http://www.prostobank.ua/servisy/onlayn_konsultatsii/valyuta/natsbank_ukrainy_gotovit_vyvod_staryh_deneg_iz_obrascheniya">Post</a> to Prostobank&rsquo;s forum loaded by user Lupechko. Email address of «G&amp;D&rsquo;s German collaborator&rsquo;s sisters» — <a href="&#x6d;&#x61;&#105;&#108;&#116;&#111;&#58;&#108;&#111;&#x6f;&#x70;&#101;&#99;&#104;&#x6b;&#97;&#64;&#x69;&#x2e;&#117;&#97;">&#108;&#111;&#x6f;&#112;&#101;&#x63;&#x68;&#107;&#97;&#64;&#x69;&#x2e;&#117;&#x61;</a></p>
+
+<p>If we look up the <a href="https://vk.com/id242012389">colleague</a> the source is quoting in one of the posts in VKontakte, we find a full bunch of napoleons, stalins and kutuzovs, all of them with imperial ribbons.</p>
+
+<p><a href="https://www.youtube.com/watch?v=RXdZW5AvQ0I">Here is a video</a> from the same blog on livejournal, but uploaded by a different non existent author with a newly open account. It looks very romantic and contains enigmatic music as if we are watching a regional channel from the 90s.</p></li>
+</ol>
+
+
+<p>We obtained such a volume that conclusions are superfluous. We just want to add that theories about an occupant sionistic goverment have never added credibility to documents.</p>
+
+<p>We sent an inquiry top <a href="http://www.gi-de.com/en/index.jsp">G&amp;D</a> asking to comment the situation. If they reply, we will write about that right away.</p>
+
+<p>Please share this post.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[About the 146% anew (updated)]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/17/percent/"/>
+    <updated>2014-03-17T16:28:36+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/17/percent</id>
+    <content type="html"><![CDATA[<p>There are discrepancies in numbers being reported by Russian media regarding Crimean voters in the referendum.
+According to Russian media, in particular <a href="http://www.gazeta.ru/politics/2014/03/15_a_5951217.shtml">gazeta.ru</a></p>
+
+<blockquote><p>81.36% of Crimean voters presented themselves as of 20:00 (22:00 Moscow time). Mihail Malyshev, president of the supreme commission of Crimea, and the person responsible for organizing and holding referendums, announced this number.</p>
+
+<p>He stated that, «As of 20:00 (8 p.m.), 1,250,426 people cast their votes in Crimea. This is excluding Sevastopol … If we also add Sevastopol, a total of 1,724,563 people cast their votes.»</p></blockquote>
+
+<p>In attempting to verify this information, we discovered discrepancies.
+As seen in <a href="http://youtu.be/hBf7-b3IyIA?t=3m55s">the video footage</a> announcing these numbers, Malyshev said <strong>1,524,563</strong> voters cast their ballots and not 1,724,563. ITAR-TASS made this mistake in the original news report, which was then picked up by other Russian media, numerous analysers, and even ourselves and <a href="http://stopfake.org/">StopFake</a>. This resulted in reports of a <a href="http://teh-nomad.livejournal.com/2007998.html">123% participation rate</a>.</p>
+
+<p>On the other hand, <a href="http://youtu.be/hBf7-b3IyIA?t=15m20s">in the same video at minute 15</a> we hear information about <strong>1,724,563</strong>, which creates double confusion and seems to be the original source of this misinformation.</p>
+
+<p>We implore journalists to please verify information they receive.
+Thank you.</p>
+
+<p>As a reminder, you can follow us on <a href="http://twitter.com/fakecontrol_org">Twitter</a>. Sign up and you will be in the loop!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[About the 'Kyiv schoolchildren']]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/16/school/"/>
+    <updated>2014-03-16T01:23:56+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/16/school</id>
+    <content type="html"><![CDATA[<p>Today our friends from Russia sent us a video, which started spreading on the Web yesterday.
+<img src="http://i.imgur.com/qHILiDW.png" alt="video school kiev" />
+<em><a href="https://www.youtube.com/watch?v=KrJC6rU9lG0">link to the video</a></em></p>
+
+<p>This is allegedly a video of schoolchildren participating in a political rally a day or two ago in Kyiv.<br/>
+However, we&rsquo;ve managed to find another video of the same event (uploaded to YouTube on November 27, 2013).
+<img src="http://i.imgur.com/75EBNXL.png" alt="original" />
+<em><a href="https://www.youtube.com/watch?v=Go4Wwjuzm-s">link to the video</a></em></p>
+
+<p>Some juggling with facts, and suddenly a students' rally in Drogobych turns into a rally of schoolchildren in Kyiv, and the video is widely spread all over the Internet (especially its Russian part) as proof of all the &ldquo;terrible things&rdquo; in post-revolutionary Kyiv.</p>
+
+<p>The conclusions, as usual, are up to you.</p>
+
+<p><strong>UPD</strong>: This is a hot topic at the moment, and our team would like to emphasize once more: we are not trying to justify the events shown or make any judgment about them. We are simply providing another example that illustrates how facts are being twisted and worsening the situation by those involved in the information warfare. Also, the way our readers are reacting gives us strong reason to believe that this is a very good choice of a &ldquo;newsworthy event&rdquo; to be exposed to public opinion.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The fake prohibition of celebrating the holidays]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/13/holidays/"/>
+    <updated>2014-03-13T15:01:36+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/13/holidays</id>
+    <content type="html"><![CDATA[<p>One more <a href="http://www.gorodche.ru/news/society/30171/">news from Rada</a> (Ukrainian Parliament) turned out to be fake, or, to be more precise, an incorrect interpretation of the just adopted regulations.</p>
+
+<p>In particular, the journalists of the mentioned news provider reckon, that the decision based on the Cabinet of Ministers of Ukraine Regulation №65 dated 1/03/2014 rules the following:</p>
+
+<blockquote><p>Fairs, festivals, conventions, celebrating commemorative and historical dates, Victory Day, Constitution Day, Independence Day and the Day of commemoration of Holodomors victims are also banned.</p></blockquote>
+
+<p>Let&rsquo;s refer to <a href="http://zakon2.rada.gov.ua/laws/show/65-2014-%D0%BF">the text of the regulation</a>, namely to the clause regarding the holidays, which will speak for itself:</p>
+
+<blockquote><p>20 Suspension of the use of budgetary funds for running events related to celebrating commemorative and historical dates, anniversaries of enterprises, institutions and organizations, along with anniversaries and commemoration of prominent figures and other events (except centralized Ministry of Culture events for celebrating 200 years from the day of birth of Taras Shevchenko, Constitution Day, Independence Day, Victory Day, Day of commemoration of Holodomors victims), printing production not related to exercise of functions of governmental authorities.</p></blockquote>
+
+<p>Obviously, nobody banned celebrating Victory Day, Constitution Day, Independence Day and the Day of commemoration of Holodomors victims.</p>
+
+<p>The conclusions, as usual, are up to you.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The e-mails of Igor Protsyk]]></title>
+    <link href="http://fakecontrol.org/en/blog/2014/03/13/anon-fake-2/"/>
+    <updated>2014-03-13T03:24:25+02:00</updated>
+    <id>http://fakecontrol.org/blog/2014/03/13/anon-fake-2</id>
+    <content type="html"><![CDATA[<p>We are being aggressively offered to believe another sensation from an allegedly hacked mailbox. This time the &ldquo;data leak&rdquo; has been presented as follows:</p>
+
+<p><em>We have hacked e-mail correspondence of US Army Attache Assistant in Kiev Jason Gresh and a high ranking official from Ukrainian General Staff Igor Protsyk</em>.</p>
+
+<p>An archive of messages, allegedly from the <code>igor.protsyk@gmail.com</code> mailbox, was <a href="http://www.sendspace.com/file/ih96tx">published</a>. The package contains two folders – &ldquo;most interesting&rdquo; with three scandalous e-mails, which have been spread all over the Internet, and &ldquo;all&rdquo; with the complete archive of 86 messages.</p>
+
+<p>We&rsquo;ve analyzed the &ldquo;all&rdquo; folder and would like to make the following statements on the three &ldquo;most interesting&rdquo; messages:</p>
+
+<p><strong>E-mail #1</strong>: from <code>GreshJP@state.gov</code> to <code>igor.protsyk@gmail.com</code>, delivered on 9 Mar 2014 08:57:15 -0700.</p>
+
+<p>It looks very different from the rest five messages between the same users (<code>GreshJP@state.gov</code> to <code>igor.protsyk@gmail.com</code>) in the &ldquo;all&rdquo; folder (an obvious difference in English skills is just one of them). For example, all the content of this message belongs to the &ldquo;text/plain&rdquo; data type (the other ones are multipart/related, with HTML part). Besides that, this message does not end with the notice &ldquo;SBU This email is UNCLASSIFIED&rdquo; (SBU, Sensitive But Unclassified – a designation of information in the United States government).</p>
+
+<p><strong>E-mail #2</strong>: from <code>igor.protsyk@gmail.com</code> to <code>krivonis.te@gmail.com</code>, delivered on 11 Mar 2014 05:50:36 -0700.</p>
+
+<p><img src="http://i.imgur.com/V7ZoaGa.png" alt="Imgur" /></p>
+
+<p>This message, unlike all the other archived ones sent by <code>igor.protsyk@gmail.com</code>, has a valid DKIM-signature and headers confirming its delivery to <code>krivonis.te@gmail.com</code>. The presence of those headers makes it clear that the message was extracted from the <code>krivonis.te@gmail.com</code> mailbox, not from <code>igor.protsyk@gmail.com</code> (that is from the recipient mailbox, though the archive has nothing to do with it).</p>
+
+<p>That means that the hackers had access not only to the mailbox of <code>igor.protsyk@gmail.com</code>, but also to <code>krivonis.te@gmail.com</code>; that&rsquo;s true for E-mail #3 as well.</p>
+
+<p><strong><em>E-mail #3</em></strong>: from <code>krivonis.te@gmail.com</code> to <code>kolyarny@gmail.com</code> (by the way, the latter mailbox can be found on the Web only in the context of the &ldquo;data leak&rdquo; in question) and to <code>igor.protsyk@gmail.com</code>, delivered on 11 Mar 2014 09:20:47 -0700.</p>
+
+<p>Besides that the archive contains a message from <code>no-reply@accounts.google.com</code> to <code>protsyk@ukr.net</code> with password recovery information, delivered on 11 Mar 2014 05:47:11 -0700 (before sending of E-mails #2 and #3). Judging by the fact that there are 21 more e-mails to <code>protsyk@ukr.net</code> in the archive, the messages from that address are being forwarded to <code>igor.protsyk@gmail.com</code>.</p>
+
+<p>You are free to make your own conclusions, but here are some hints from us:</p>
+
+<ol>
+<li><p>The hackers declared that they had access to the <code>GreshJP@state.gov</code> and <code>igor.protsyk@gmail.com</code> mailboxes. But all the published messages between these two addresses are obviously not trustworthy, as they could have been written by the hackers themselves. The hackers most likely had no access to <code>GreshJP@state.gov</code>, because E-mail #1 was clumsily forged on the basis of the rest five &ldquo;legitimate&rdquo; messages from <code>GreshJP@state.gov</code> found in the <code>igor.protsyk@gmail.com</code> mailbox.</p></li>
+<li><p>The message from <code>no-reply@accounts.google.com</code> gives us reasons to suppose that E-mails #2 and #3 have been sent after the <code>igor.protsyk@gmail.com</code> mailbox was compromised; that means that those e-mails could have been sent by the hackers themselves.</p></li>
+<li><p>E-mail #2 proves that the hackers had access to <code>krivonis.te@gmail.com</code>, so why couldn&rsquo;t E-mail #3 have been created by the hackers?</p></li>
+</ol>
+
+
+<p>This time the &ldquo;Anonymous Ukraine&rdquo; authors of the mail hacking scandal concerning the Crimea provocations made a <a href="http://fakecontrol.org/blog/2014/03/02/anon-fake/">far less clumsy try</a>. The <a href="http://ru.wikipedia.org/wiki/DomainKeys_Identified_Mail">DKIM-signatures</a> are doubtlessly proving the hacking of the <code>igor.protsyk@gmail.com</code> and <code>krivonis.te@gmail.com</code> mailboxes. But the results of the comparison between the &ldquo;alarming&rdquo; and all the other archived messages suggest with a high probability that the e-mails, which have so providently been placed in a separate directory under the meaningful name &ldquo;most interesting&rdquo;, have been forged or sent by the hackers themselves.</p>
+]]></content>
+  </entry>
+  
+</feed>
