@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "announce_journalism_school"
+title: Редакторы The New York Times, Дождя, Сноба, Esquire, Hopes&Fears проведут лекции
 date: 2014-09-02 19:46:56 +0300
 comments: true
 categories: 
 ---
-# Редакторы The New York Times, Дождя, Сноба, Esquire, Hopes&Fears проведут лекции
-
 В Киеве пройдут лекции и мастер-классы редакторов и журналистов The New York Times, телеканала “Дождь”, журналов “Сноб” и “Esquire Russia”, сайта Hopes&Fears.
 
 С 30 октября по 2 ноября пройдет десятый образовательный курс медиаменеджмента, журналистики, копирайтинга и писательского мастерства от [Свободной школы журналистики](http://journalism.org.ua). 4 интенсивных дня с 9.00 до 21.00, 25 лекций и семинаров. 
