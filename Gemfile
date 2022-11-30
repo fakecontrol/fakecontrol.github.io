@@ -18,4 +18,4 @@ group :development do
   gem 'jekyll-multiple-languages-plugin', '~> 1.2'
 end
 
-gem 'sinatra', '~> 1.4.2'
+gem 'sinatra', '~> 2.2.3'
